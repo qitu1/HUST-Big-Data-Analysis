@@ -1,0 +1,406 @@
+1-itemset: {'redirect'}, support: 0.3644
+1-itemset: {'different'}, support: 0.2304
+1-itemset: {'date'}, support: 0.2450
+1-itemset: {'pages'}, support: 0.2712
+1-itemset: {'words'}, support: 0.1958
+1-itemset: {'see'}, support: 0.1581
+1-itemset: {'wikt'}, support: 0.1539
+1-itemset: {'two'}, support: 0.1895
+1-itemset: {'jpg'}, support: 0.2534
+1-itemset: {'world'}, support: 0.1738
+1-itemset: {'website'}, support: 0.1518
+1-itemset: {'right'}, support: 0.1948
+1-itemset: {'mean'}, support: 0.2031
+1-itemset: {'title'}, support: 0.2492
+1-itemset: {'person'}, support: 0.1654
+1-itemset: {'time'}, support: 0.2010
+1-itemset: {'thumb'}, support: 0.2901
+1-itemset: {'basic'}, support: 0.1822
+1-itemset: {'english'}, support: 0.2524
+1-itemset: {'web'}, support: 0.2325
+1-itemset: {'http'}, support: 0.2021
+1-itemset: {'new'}, support: 0.1654
+1-itemset: {'references'}, support: 0.2618
+1-itemset: {'www'}, support: 0.2293
+1-itemset: {'example'}, support: 0.2115
+1-itemset: {'url'}, support: 0.2356
+1-itemset: {'https'}, support: 0.2304
+1-itemset: {'word'}, support: 0.1864
+1-itemset: {'like'}, support: 0.2272
+1-itemset: {'one'}, support: 0.3099
+1-itemset: {'cite'}, support: 0.2209
+1-itemset: {'people'}, support: 0.3403
+1-itemset: {'archive'}, support: 0.1634
+1-itemset: {'work'}, support: 0.1696
+1-itemset: {'system'}, support: 0.1518
+1-itemset: {'wiktionary'}, support: 0.1665
+2-itemset: {'pages', 'www'}, support: 0.1550
+2-itemset: {'www', 'web'}, support: 0.2000
+2-itemset: {'title', 'people'}, support: 0.1749
+2-itemset: {'www', 'people'}, support: 0.1654
+2-itemset: {'title', 'web'}, support: 0.2031
+2-itemset: {'english', 'people'}, support: 0.1550
+2-itemset: {'one', 'web'}, support: 0.1571
+2-itemset: {'http', 'title'}, support: 0.1717
+2-itemset: {'one', 'like'}, support: 0.1581
+2-itemset: {'date', 'www'}, support: 0.1990
+2-itemset: {'url', 'archive'}, support: 0.1581
+2-itemset: {'basic', 'words'}, support: 0.1518
+2-itemset: {'http', 'web'}, support: 0.1717
+2-itemset: {'right', 'thumb'}, support: 0.1571
+2-itemset: {'date', 'https'}, support: 0.2063
+2-itemset: {'pages', 'url'}, support: 0.1602
+2-itemset: {'jpg', 'title'}, support: 0.1634
+2-itemset: {'pages', 'people'}, support: 0.1780
+2-itemset: {'url', 'cite'}, support: 0.2168
+2-itemset: {'pages', 'cite'}, support: 0.1539
+2-itemset: {'references', 'thumb'}, support: 0.1749
+2-itemset: {'url', 'thumb'}, support: 0.1602
+2-itemset: {'thumb', 'https'}, support: 0.1644
+2-itemset: {'jpg', 'cite'}, support: 0.1508
+2-itemset: {'english', 'basic'}, support: 0.1550
+2-itemset: {'title', 'cite'}, support: 0.2209
+2-itemset: {'jpg', 'https'}, support: 0.1623
+2-itemset: {'references', 'pages'}, support: 0.1686
+2-itemset: {'pages', 'one'}, support: 0.1696
+2-itemset: {'cite', 'thumb'}, support: 0.1539
+2-itemset: {'thumb', 'people'}, support: 0.2010
+2-itemset: {'references', 'web'}, support: 0.1969
+2-itemset: {'references', 'different'}, support: 0.1518
+2-itemset: {'different', 'thumb'}, support: 0.1634
+2-itemset: {'references', 'http'}, support: 0.1738
+2-itemset: {'date', 'thumb'}, support: 0.1675
+2-itemset: {'http', 'url'}, support: 0.1770
+2-itemset: {'cite', 'people'}, support: 0.1623
+2-itemset: {'url', 'web'}, support: 0.2157
+2-itemset: {'pages', 'web'}, support: 0.1529
+2-itemset: {'url', 'people'}, support: 0.1707
+2-itemset: {'title', 'thumb'}, support: 0.1644
+2-itemset: {'jpg', 'people'}, support: 0.1895
+2-itemset: {'web', 'thumb'}, support: 0.1539
+2-itemset: {'jpg', 'url'}, support: 0.1560
+2-itemset: {'pages', 'title'}, support: 0.1634
+2-itemset: {'url', 'title'}, support: 0.2188
+2-itemset: {'date', 'title'}, support: 0.2052
+2-itemset: {'jpg', 'date'}, support: 0.1634
+2-itemset: {'http', 'www'}, support: 0.1812
+2-itemset: {'like', 'thumb'}, support: 0.1717
+2-itemset: {'jpg', 'like'}, support: 0.1613
+2-itemset: {'references', 'like'}, support: 0.1592
+2-itemset: {'pages', 'like'}, support: 0.1508
+2-itemset: {'http', 'https'}, support: 0.1665
+2-itemset: {'http', 'cite'}, support: 0.1654
+2-itemset: {'references', 'one'}, support: 0.1927
+2-itemset: {'references', 'title'}, support: 0.2147
+2-itemset: {'jpg', 'thumb'}, support: 0.2346
+2-itemset: {'references', 'www'}, support: 0.2031
+2-itemset: {'www', 'one'}, support: 0.1623
+2-itemset: {'people', 'https'}, support: 0.1644
+2-itemset: {'cite', 'web'}, support: 0.2000
+2-itemset: {'www', 'https'}, support: 0.2073
+2-itemset: {'one', 'people'}, support: 0.1948
+2-itemset: {'references', 'people'}, support: 0.1927
+2-itemset: {'cite', 'one'}, support: 0.1634
+2-itemset: {'pages', 'jpg'}, support: 0.1529
+2-itemset: {'references', 'https'}, support: 0.2094
+2-itemset: {'jpg', 'web'}, support: 0.1508
+2-itemset: {'different', 'one'}, support: 0.1592
+2-itemset: {'date', 'one'}, support: 0.1728
+2-itemset: {'references', 'date'}, support: 0.2052
+2-itemset: {'english', 'words'}, support: 0.1717
+2-itemset: {'archive', 'web'}, support: 0.1539
+2-itemset: {'archive', 'https'}, support: 0.1602
+2-itemset: {'different', 'people'}, support: 0.1665
+2-itemset: {'date', 'people'}, support: 0.1728
+2-itemset: {'date', 'web'}, support: 0.1990
+2-itemset: {'pages', 'date'}, support: 0.1602
+2-itemset: {'pages', 'https'}, support: 0.1602
+2-itemset: {'url', 'https'}, support: 0.2168
+2-itemset: {'title', 'one'}, support: 0.1780
+2-itemset: {'cite', 'https'}, support: 0.2042
+2-itemset: {'jpg', 'www'}, support: 0.1602
+2-itemset: {'date', 'http'}, support: 0.1696
+2-itemset: {'web', 'people'}, support: 0.1602
+2-itemset: {'www', 'title'}, support: 0.2042
+2-itemset: {'pages', 'thumb'}, support: 0.1665
+2-itemset: {'date', 'archive'}, support: 0.1550
+2-itemset: {'references', 'cite'}, support: 0.2073
+2-itemset: {'www', 'url'}, support: 0.2084
+2-itemset: {'one', 'https'}, support: 0.1654
+2-itemset: {'references', 'url'}, support: 0.2126
+2-itemset: {'www', 'cite'}, support: 0.1969
+2-itemset: {'url', 'one'}, support: 0.1665
+2-itemset: {'title', 'https'}, support: 0.2073
+2-itemset: {'date', 'cite'}, support: 0.1990
+2-itemset: {'date', 'url'}, support: 0.2115
+2-itemset: {'like', 'people'}, support: 0.1791
+2-itemset: {'www', 'thumb'}, support: 0.1602
+2-itemset: {'references', 'jpg'}, support: 0.1696
+2-itemset: {'jpg', 'one'}, support: 0.1644
+2-itemset: {'web', 'https'}, support: 0.2042
+2-itemset: {'one', 'thumb'}, support: 0.1822
+3-itemset: {'url', 'cite', 'https'}, support: 0.2031
+3-itemset: {'references', 'cite', 'one'}, support: 0.1592
+3-itemset: {'www', 'title', 'web'}, support: 0.1885
+3-itemset: {'https', 'url', 'people'}, support: 0.1592
+3-itemset: {'references', 'title', 'https'}, support: 0.1958
+3-itemset: {'url', 'title', 'one'}, support: 0.1602
+3-itemset: {'url', 'cite', 'people'}, support: 0.1602
+3-itemset: {'https', 'cite', 'people'}, support: 0.1508
+3-itemset: {'references', 'one', 'https'}, support: 0.1581
+3-itemset: {'http', 'url', 'https'}, support: 0.1613
+3-itemset: {'references', 'http', 'title'}, support: 0.1613
+3-itemset: {'http', 'www', 'cite'}, support: 0.1550
+3-itemset: {'http', 'title', 'web'}, support: 0.1581
+3-itemset: {'archive', 'web', 'https'}, support: 0.1539
+3-itemset: {'date', 'title', 'https'}, support: 0.1927
+3-itemset: {'date', 'url', 'title'}, support: 0.1990
+3-itemset: {'one', 'url', 'web'}, support: 0.1508
+3-itemset: {'references', 'web', 'https'}, support: 0.1864
+3-itemset: {'url', 'cite', 'thumb'}, support: 0.1518
+3-itemset: {'jpg', 'url', 'https'}, support: 0.1529
+3-itemset: {'http', 'date', 'www'}, support: 0.1602
+3-itemset: {'pages', 'title', 'cite'}, support: 0.1539
+3-itemset: {'cite', 'one', 'https'}, support: 0.1518
+3-itemset: {'jpg', 'title', 'cite'}, support: 0.1508
+3-itemset: {'url', 'title', 'thumb'}, support: 0.1518
+3-itemset: {'date', 'http', 'web'}, support: 0.1581
+3-itemset: {'references', 'www', 'https'}, support: 0.1927
+3-itemset: {'references', 'url', 'one'}, support: 0.1602
+3-itemset: {'jpg', 'thumb', 'people'}, support: 0.1780
+3-itemset: {'references', 'date', 'one'}, support: 0.1560
+3-itemset: {'jpg', 'like', 'thumb'}, support: 0.1529
+3-itemset: {'http', 'cite', 'web'}, support: 0.1560
+3-itemset: {'http', 'www', 'title'}, support: 0.1602
+3-itemset: {'references', 'date', 'www'}, support: 0.1853
+3-itemset: {'http', 'url', 'web'}, support: 0.1686
+3-itemset: {'http', 'web', 'https'}, support: 0.1592
+3-itemset: {'references', 'http', 'url'}, support: 0.1623
+3-itemset: {'http', 'www', 'url'}, support: 0.1654
+3-itemset: {'http', 'www', 'https'}, support: 0.1602
+3-itemset: {'references', 'date', 'web'}, support: 0.1843
+3-itemset: {'cite', 'www', 'web'}, support: 0.1864
+3-itemset: {'title', 'cite', 'people'}, support: 0.1623
+3-itemset: {'references', 'title', 'one'}, support: 0.1644
+3-itemset: {'url', 'title', 'https'}, support: 0.2052
+3-itemset: {'url', 'thumb', 'https'}, support: 0.1550
+3-itemset: {'references', 'title', 'people'}, support: 0.1592
+3-itemset: {'references', 'www', 'web'}, support: 0.1832
+3-itemset: {'references', 'title', 'cite'}, support: 0.2073
+3-itemset: {'date', 'http', 'https'}, support: 0.1571
+3-itemset: {'pages', 'url', 'cite'}, support: 0.1508
+3-itemset: {'date', 'http', 'url'}, support: 0.1654
+3-itemset: {'title', 'one', 'https'}, support: 0.1529
+3-itemset: {'title', 'cite', 'thumb'}, support: 0.1539
+3-itemset: {'date', 'url', 'https'}, support: 0.2031
+3-itemset: {'references', 'date', 'title'}, support: 0.1937
+3-itemset: {'date', 'people', 'https'}, support: 0.1518
+3-itemset: {'date', 'url', 'cite'}, support: 0.1969
+3-itemset: {'date', 'cite', 'https'}, support: 0.1895
+3-itemset: {'date', 'url', 'people'}, support: 0.1571
+3-itemset: {'date', 'cite', 'one'}, support: 0.1508
+3-itemset: {'date', 'thumb', 'https'}, support: 0.1508
+3-itemset: {'http', 'title', 'https'}, support: 0.1518
+3-itemset: {'http', 'url', 'title'}, support: 0.1644
+3-itemset: {'references', 'date', 'https'}, support: 0.1927
+3-itemset: {'references', 'http', 'cite'}, support: 0.1581
+3-itemset: {'http', 'www', 'web'}, support: 0.1634
+3-itemset: {'http', 'title', 'cite'}, support: 0.1654
+3-itemset: {'references', 'url', 'web'}, support: 0.1948
+3-itemset: {'references', 'url', 'https'}, support: 0.1990
+3-itemset: {'url', 'title', 'cite'}, support: 0.2168
+3-itemset: {'date', 'archive', 'web'}, support: 0.1518
+3-itemset: {'www', 'web', 'https'}, support: 0.1906
+3-itemset: {'https', 'title', 'people'}, support: 0.1529
+3-itemset: {'www', 'url', 'web'}, support: 0.1979
+3-itemset: {'url', 'title', 'people'}, support: 0.1613
+3-itemset: {'title', 'cite', 'https'}, support: 0.2042
+3-itemset: {'references', 'people', 'https'}, support: 0.1550
+3-itemset: {'references', 'http', 'date'}, support: 0.1550
+3-itemset: {'one', 'url', 'cite'}, support: 0.1602
+3-itemset: {'references', 'cite', 'https'}, support: 0.1927
+3-itemset: {'cite', 'web', 'https'}, support: 0.1895
+3-itemset: {'www', 'url', 'title'}, support: 0.1979
+3-itemset: {'url', 'web', 'people'}, support: 0.1560
+3-itemset: {'www', 'title', 'https'}, support: 0.1916
+3-itemset: {'web', 'url', 'cite'}, support: 0.2000
+3-itemset: {'references', 'thumb', 'https'}, support: 0.1518
+3-itemset: {'references', 'url', 'title'}, support: 0.2063
+3-itemset: {'pages', 'url', 'https'}, support: 0.1529
+3-itemset: {'date', 'http', 'cite'}, support: 0.1539
+3-itemset: {'references', 'http', 'www'}, support: 0.1602
+3-itemset: {'date', 'url', 'web'}, support: 0.1990
+3-itemset: {'date', 'web', 'https'}, support: 0.1937
+3-itemset: {'date', 'www', 'url'}, support: 0.1937
+3-itemset: {'url', 'archive', 'https'}, support: 0.1571
+3-itemset: {'date', 'www', 'https'}, support: 0.1916
+3-itemset: {'references', 'http', 'web'}, support: 0.1560
+3-itemset: {'date', 'www', 'cite'}, support: 0.1822
+3-itemset: {'date', 'url', 'one'}, support: 0.1539
+3-itemset: {'date', 'title', 'web'}, support: 0.1874
+3-itemset: {'url', 'title', 'web'}, support: 0.2010
+3-itemset: {'www', 'url', 'people'}, support: 0.1539
+3-itemset: {'www', 'cite', 'https'}, support: 0.1895
+3-itemset: {'www', 'url', 'cite'}, support: 0.1958
+3-itemset: {'https', 'www', 'people'}, support: 0.1529
+3-itemset: {'title', 'web', 'https'}, support: 0.1906
+3-itemset: {'references', 'cite', 'web'}, support: 0.1885
+3-itemset: {'references', 'www', 'title'}, support: 0.1895
+3-itemset: {'one', 'jpg', 'thumb'}, support: 0.1539
+3-itemset: {'cite', 'title', 'web'}, support: 0.2000
+3-itemset: {'www', 'url', 'https'}, support: 0.2000
+3-itemset: {'date', 'archive', 'https'}, support: 0.1539
+3-itemset: {'references', 'jpg', 'thumb'}, support: 0.1529
+3-itemset: {'references', 'www', 'url'}, support: 0.1916
+3-itemset: {'www', 'one', 'https'}, support: 0.1518
+3-itemset: {'url', 'web', 'https'}, support: 0.2021
+3-itemset: {'www', 'title', 'cite'}, support: 0.1969
+3-itemset: {'references', 'www', 'cite'}, support: 0.1864
+3-itemset: {'references', 'www', 'people'}, support: 0.1508
+3-itemset: {'references', 'jpg', 'https'}, support: 0.1518
+3-itemset: {'references', 'title', 'web'}, support: 0.1895
+3-itemset: {'http', 'url', 'cite'}, support: 0.1634
+3-itemset: {'http', 'cite', 'https'}, support: 0.1508
+3-itemset: {'date', 'title', 'one'}, support: 0.1539
+3-itemset: {'date', 'cite', 'web'}, support: 0.1864
+3-itemset: {'date', 'www', 'title'}, support: 0.1853
+3-itemset: {'references', 'http', 'https'}, support: 0.1539
+3-itemset: {'references', 'date', 'people'}, support: 0.1550
+3-itemset: {'references', 'date', 'cite'}, support: 0.1895
+3-itemset: {'date', 'www', 'web'}, support: 0.1853
+3-itemset: {'date', 'title', 'people'}, support: 0.1529
+3-itemset: {'url', 'archive', 'web'}, support: 0.1518
+3-itemset: {'date', 'title', 'cite'}, support: 0.1990
+3-itemset: {'date', 'one', 'https'}, support: 0.1529
+3-itemset: {'references', 'date', 'url'}, support: 0.1958
+3-itemset: {'pages', 'url', 'title'}, support: 0.1508
+3-itemset: {'url', 'one', 'https'}, support: 0.1550
+3-itemset: {'references', 'cite', 'people'}, support: 0.1550
+3-itemset: {'date', 'http', 'title'}, support: 0.1560
+3-itemset: {'date', 'url', 'archive'}, support: 0.1539
+3-itemset: {'references', 'url', 'cite'}, support: 0.2042
+3-itemset: {'references', 'www', 'one'}, support: 0.1550
+3-itemset: {'references', 'url', 'people'}, support: 0.1592
+3-itemset: {'one', 'title', 'cite'}, support: 0.1634
+4-itemset: {'references', 'date', 'title', 'cite'}, support: 0.1895
+4-itemset: {'references', 'date', 'url', 'title'}, support: 0.1906
+4-itemset: {'http', 'www', 'title', 'web'}, support: 0.1518
+4-itemset: {'references', 'www', 'cite', 'https'}, support: 0.1801
+4-itemset: {'references', 'title', 'web', 'https'}, support: 0.1801
+4-itemset: {'url', 'title', 'one', 'https'}, support: 0.1508
+4-itemset: {'url', 'title', 'cite', 'thumb'}, support: 0.1518
+4-itemset: {'references', 'title', 'cite', 'people'}, support: 0.1550
+4-itemset: {'references', 'web', 'www', 'cite'}, support: 0.1770
+4-itemset: {'www', 'title', 'web', 'https'}, support: 0.1801
+4-itemset: {'www', 'url', 'title', 'web'}, support: 0.1874
+4-itemset: {'references', 'url', 'title', 'cite'}, support: 0.2042
+4-itemset: {'references', 'www', 'url', 'web'}, support: 0.1822
+4-itemset: {'references', 'url', 'title', 'people'}, support: 0.1539
+4-itemset: {'web', 'title', 'cite', 'https'}, support: 0.1895
+4-itemset: {'web', 'url', 'title', 'cite'}, support: 0.2000
+4-itemset: {'date', 'http', 'web', 'www'}, support: 0.1529
+4-itemset: {'date', 'http', 'title', 'cite'}, support: 0.1539
+4-itemset: {'references', 'date', 'url', 'web'}, support: 0.1843
+4-itemset: {'date', 'url', 'title', 'web'}, support: 0.1874
+4-itemset: {'date', 'www', 'cite', 'https'}, support: 0.1780
+4-itemset: {'date', 'www', 'url', 'cite'}, support: 0.1822
+4-itemset: {'date', 'title', 'web', 'https'}, support: 0.1822
+4-itemset: {'references', 'date', 'cite', 'web'}, support: 0.1780
+4-itemset: {'references', 'date', 'www', 'title'}, support: 0.1780
+4-itemset: {'references', 'date', 'cite', 'https'}, support: 0.1822
+4-itemset: {'web', 'date', 'cite', 'https'}, support: 0.1812
+4-itemset: {'date', 'www', 'url', 'title'}, support: 0.1843
+4-itemset: {'date', 'www', 'title', 'https'}, support: 0.1801
+4-itemset: {'date', 'url', 'cite', 'web'}, support: 0.1864
+4-itemset: {'references', 'date', 'www', 'url'}, support: 0.1822
+4-itemset: {'date', 'url', 'web', 'https'}, support: 0.1937
+4-itemset: {'date', 'www', 'title', 'cite'}, support: 0.1822
+4-itemset: {'www', 'title', 'cite', 'https'}, support: 0.1895
+4-itemset: {'www', 'url', 'title', 'cite'}, support: 0.1958
+4-itemset: {'references', 'www', 'url', 'https'}, support: 0.1853
+4-itemset: {'www', 'url', 'title', 'https'}, support: 0.1906
+4-itemset: {'one', 'title', 'cite', 'https'}, support: 0.1518
+4-itemset: {'web', 'url', 'cite', 'https'}, support: 0.1895
+4-itemset: {'references', 'www', 'title', 'web'}, support: 0.1780
+4-itemset: {'date', 'url', 'archive', 'https'}, support: 0.1529
+4-itemset: {'one', 'url', 'cite', 'https'}, support: 0.1508
+4-itemset: {'references', 'web', 'cite', 'https'}, support: 0.1791
+4-itemset: {'date', 'url', 'archive', 'web'}, support: 0.1518
+4-itemset: {'references', 'www', 'title', 'https'}, support: 0.1822
+4-itemset: {'url', 'title', 'web', 'https'}, support: 0.1906
+4-itemset: {'www', 'url', 'cite', 'https'}, support: 0.1885
+4-itemset: {'references', 'url', 'web', 'https'}, support: 0.1853
+4-itemset: {'http', 'url', 'title', 'cite'}, support: 0.1634
+4-itemset: {'http', 'www', 'web', 'https'}, support: 0.1539
+4-itemset: {'http', 'www', 'url', 'web'}, support: 0.1613
+4-itemset: {'http', 'title', 'cite', 'https'}, support: 0.1508
+4-itemset: {'date', 'title', 'cite', 'web'}, support: 0.1864
+4-itemset: {'date', 'www', 'url', 'https'}, support: 0.1895
+4-itemset: {'one', 'date', 'title', 'cite'}, support: 0.1508
+4-itemset: {'references', 'http', 'url', 'title'}, support: 0.1571
+4-itemset: {'date', 'url', 'cite', 'https'}, support: 0.1895
+4-itemset: {'date', 'www', 'title', 'web'}, support: 0.1759
+4-itemset: {'date', 'people', 'url', 'https'}, support: 0.1508
+4-itemset: {'references', 'date', 'title', 'https'}, support: 0.1853
+4-itemset: {'references', 'date', 'www', 'cite'}, support: 0.1759
+4-itemset: {'references', 'date', 'title', 'web'}, support: 0.1791
+4-itemset: {'date', 'http', 'url', 'cite'}, support: 0.1529
+4-itemset: {'references', 'url', 'title', 'https'}, support: 0.1937
+4-itemset: {'date', 'http', 'url', 'https'}, support: 0.1571
+4-itemset: {'references', 'www', 'web', 'https'}, support: 0.1770
+4-itemset: {'one', 'url', 'title', 'cite'}, support: 0.1602
+4-itemset: {'references', 'title', 'cite', 'https'}, support: 0.1927
+4-itemset: {'url', 'title', 'cite', 'https'}, support: 0.2031
+4-itemset: {'references', 'one', 'title', 'cite'}, support: 0.1592
+4-itemset: {'date', 'archive', 'web', 'https'}, support: 0.1518
+4-itemset: {'www', 'url', 'web', 'https'}, support: 0.1895
+4-itemset: {'people', 'url', 'title', 'https'}, support: 0.1518
+4-itemset: {'references', 'url', 'cite', 'people'}, support: 0.1529
+4-itemset: {'web', 'www', 'url', 'cite'}, support: 0.1864
+4-itemset: {'url', 'title', 'cite', 'people'}, support: 0.1602
+4-itemset: {'people', 'title', 'cite', 'https'}, support: 0.1508
+4-itemset: {'web', 'www', 'cite', 'https'}, support: 0.1791
+4-itemset: {'references', 'http', 'www', 'title'}, support: 0.1508
+4-itemset: {'http', 'url', 'title', 'https'}, support: 0.1508
+4-itemset: {'references', 'date', 'url', 'cite'}, support: 0.1885
+4-itemset: {'http', 'url', 'web', 'https'}, support: 0.1571
+4-itemset: {'http', 'www', 'title', 'cite'}, support: 0.1550
+4-itemset: {'references', 'date', 'www', 'https'}, support: 0.1812
+4-itemset: {'references', 'http', 'title', 'cite'}, support: 0.1581
+4-itemset: {'references', 'url', 'title', 'web'}, support: 0.1895
+4-itemset: {'references', 'www', 'url', 'cite'}, support: 0.1853
+4-itemset: {'references', 'www', 'url', 'title'}, support: 0.1874
+4-itemset: {'references', 'web', 'url', 'cite'}, support: 0.1885
+4-itemset: {'date', 'http', 'url', 'www'}, support: 0.1571
+4-itemset: {'date', 'http', 'www', 'https'}, support: 0.1529
+4-itemset: {'references', 'www', 'title', 'cite'}, support: 0.1864
+4-itemset: {'references', 'url', 'title', 'one'}, support: 0.1571
+4-itemset: {'references', 'date', 'web', 'https'}, support: 0.1801
+4-itemset: {'http', 'title', 'cite', 'web'}, support: 0.1560
+4-itemset: {'http', 'www', 'url', 'https'}, support: 0.1571
+4-itemset: {'references', 'http', 'url', 'web'}, support: 0.1550
+4-itemset: {'http', 'url', 'title', 'web'}, support: 0.1571
+4-itemset: {'http', 'www', 'url', 'cite'}, support: 0.1539
+4-itemset: {'http', 'www', 'url', 'title'}, support: 0.1550
+4-itemset: {'http', 'url', 'cite', 'web'}, support: 0.1560
+4-itemset: {'references', 'http', 'www', 'url'}, support: 0.1529
+4-itemset: {'people', 'url', 'cite', 'https'}, support: 0.1508
+4-itemset: {'web', 'www', 'title', 'cite'}, support: 0.1864
+4-itemset: {'references', 'web', 'title', 'cite'}, support: 0.1885
+4-itemset: {'references', 'one', 'url', 'cite'}, support: 0.1571
+4-itemset: {'date', 'http', 'url', 'web'}, support: 0.1581
+4-itemset: {'date', 'http', 'web', 'https'}, support: 0.1529
+4-itemset: {'references', 'url', 'cite', 'https'}, support: 0.1916
+4-itemset: {'references', 'date', 'http', 'url'}, support: 0.1529
+4-itemset: {'date', 'http', 'url', 'title'}, support: 0.1539
+4-itemset: {'pages', 'url', 'title', 'cite'}, support: 0.1508
+4-itemset: {'date', 'www', 'cite', 'web'}, support: 0.1749
+4-itemset: {'date', 'url', 'title', 'https'}, support: 0.1916
+4-itemset: {'references', 'http', 'url', 'cite'}, support: 0.1560
+4-itemset: {'references', 'date', 'url', 'https'}, support: 0.1895
+4-itemset: {'date', 'url', 'title', 'cite'}, support: 0.1969
+4-itemset: {'date', 'www', 'web', 'https'}, support: 0.1812
+4-itemset: {'date', 'www', 'url', 'web'}, support: 0.1853
+4-itemset: {'url', 'archive', 'web', 'https'}, support: 0.1518
+4-itemset: {'date', 'title', 'cite', 'https'}, support: 0.1895
+4-itemset: {'references', 'date', 'www', 'web'}, support: 0.1738

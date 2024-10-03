@@ -1,0 +1,21 @@
+Anime ID: 4103 Predicted Rating: 10.0
+Anime ID: 20355 Predicted Rating: 10.0
+Anime ID: 34625 Predicted Rating: 10.0
+Anime ID: 34930 Predicted Rating: 10.0
+Anime ID: 32384 Predicted Rating: 8.536065427451165
+Anime ID: 40441 Predicted Rating: 8.536065427451165
+Anime ID: 11483 Predicted Rating: 8.254625998164261
+Anime ID: 12919 Predicted Rating: 8.132224607195198
+Anime ID: 20889 Predicted Rating: 8.132224607195198
+Anime ID: 28831 Predicted Rating: 8.132224607195198
+Anime ID: 29904 Predicted Rating: 8.132224607195198
+Anime ID: 4460 Predicted Rating: 8.126368585190331
+Anime ID: 5622 Predicted Rating: 8.126368585190331
+Anime ID: 8689 Predicted Rating: 8.126368585190331
+Anime ID: 28657 Predicted Rating: 8.126368585190331
+Anime ID: 2349 Predicted Rating: 8.113502900163228
+Anime ID: 32139 Predicted Rating: 8.106585208201565
+Anime ID: 6842 Predicted Rating: 8.089270607712894
+Anime ID: 7836 Predicted Rating: 8.089270607712894
+Anime ID: 9748 Predicted Rating: 8.089270607712894
+SSE: 409.66199749017716

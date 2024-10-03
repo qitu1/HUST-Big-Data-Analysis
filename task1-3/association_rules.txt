@@ -1,0 +1,2776 @@
+Rule: {'pages'} -> {'www'}, confidence: 0.5714
+Rule: {'www'} -> {'pages'}, confidence: 0.6758
+Rule: {'www'} -> {'web'}, confidence: 0.8721
+Rule: {'web'} -> {'www'}, confidence: 0.8604
+Rule: {'title'} -> {'people'}, confidence: 0.7017
+Rule: {'people'} -> {'title'}, confidence: 0.5138
+Rule: {'www'} -> {'people'}, confidence: 0.7215
+Rule: {'people'} -> {'www'}, confidence: 0.4862
+Rule: {'title'} -> {'web'}, confidence: 0.8151
+Rule: {'web'} -> {'title'}, confidence: 0.8739
+Rule: {'english'} -> {'people'}, confidence: 0.6141
+Rule: {'people'} -> {'english'}, confidence: 0.4554
+Rule: {'one'} -> {'web'}, confidence: 0.5068
+Rule: {'web'} -> {'one'}, confidence: 0.6757
+Rule: {'http'} -> {'title'}, confidence: 0.8497
+Rule: {'title'} -> {'http'}, confidence: 0.6891
+Rule: {'one'} -> {'like'}, confidence: 0.5101
+Rule: {'like'} -> {'one'}, confidence: 0.6959
+Rule: {'date'} -> {'www'}, confidence: 0.8120
+Rule: {'www'} -> {'date'}, confidence: 0.8676
+Rule: {'url'} -> {'archive'}, confidence: 0.6711
+Rule: {'archive'} -> {'url'}, confidence: 0.9679
+Rule: {'basic'} -> {'words'}, confidence: 0.8333
+Rule: {'words'} -> {'basic'}, confidence: 0.7754
+Rule: {'http'} -> {'web'}, confidence: 0.8497
+Rule: {'web'} -> {'http'}, confidence: 0.7387
+Rule: {'right'} -> {'thumb'}, confidence: 0.8065
+Rule: {'thumb'} -> {'right'}, confidence: 0.5415
+Rule: {'date'} -> {'https'}, confidence: 0.8419
+Rule: {'https'} -> {'date'}, confidence: 0.8955
+Rule: {'pages'} -> {'url'}, confidence: 0.5907
+Rule: {'url'} -> {'pages'}, confidence: 0.6800
+Rule: {'jpg'} -> {'title'}, confidence: 0.6446
+Rule: {'title'} -> {'jpg'}, confidence: 0.6555
+Rule: {'pages'} -> {'people'}, confidence: 0.6564
+Rule: {'people'} -> {'pages'}, confidence: 0.5231
+Rule: {'url'} -> {'cite'}, confidence: 0.9200
+Rule: {'cite'} -> {'url'}, confidence: 0.9810
+Rule: {'pages'} -> {'cite'}, confidence: 0.5676
+Rule: {'cite'} -> {'pages'}, confidence: 0.6967
+Rule: {'references'} -> {'thumb'}, confidence: 0.6680
+Rule: {'thumb'} -> {'references'}, confidence: 0.6029
+Rule: {'url'} -> {'thumb'}, confidence: 0.6800
+Rule: {'thumb'} -> {'url'}, confidence: 0.5523
+Rule: {'thumb'} -> {'https'}, confidence: 0.5668
+Rule: {'https'} -> {'thumb'}, confidence: 0.7136
+Rule: {'jpg'} -> {'cite'}, confidence: 0.5950
+Rule: {'cite'} -> {'jpg'}, confidence: 0.6825
+Rule: {'english'} -> {'basic'}, confidence: 0.6141
+Rule: {'basic'} -> {'english'}, confidence: 0.8506
+Rule: {'title'} -> {'cite'}, confidence: 0.8866
+Rule: {'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'jpg'} -> {'https'}, confidence: 0.6405
+Rule: {'https'} -> {'jpg'}, confidence: 0.7045
+Rule: {'references'} -> {'pages'}, confidence: 0.6440
+Rule: {'pages'} -> {'references'}, confidence: 0.6216
+Rule: {'pages'} -> {'one'}, confidence: 0.6255
+Rule: {'one'} -> {'pages'}, confidence: 0.5473
+Rule: {'cite'} -> {'thumb'}, confidence: 0.6967
+Rule: {'thumb'} -> {'cite'}, confidence: 0.5307
+Rule: {'thumb'} -> {'people'}, confidence: 0.6931
+Rule: {'people'} -> {'thumb'}, confidence: 0.5908
+Rule: {'references'} -> {'web'}, confidence: 0.7520
+Rule: {'web'} -> {'references'}, confidence: 0.8468
+Rule: {'references'} -> {'different'}, confidence: 0.5800
+Rule: {'different'} -> {'references'}, confidence: 0.6591
+Rule: {'different'} -> {'thumb'}, confidence: 0.7091
+Rule: {'thumb'} -> {'different'}, confidence: 0.5632
+Rule: {'references'} -> {'http'}, confidence: 0.6640
+Rule: {'http'} -> {'references'}, confidence: 0.8601
+Rule: {'date'} -> {'thumb'}, confidence: 0.6838
+Rule: {'thumb'} -> {'date'}, confidence: 0.5776
+Rule: {'http'} -> {'url'}, confidence: 0.8756
+Rule: {'url'} -> {'http'}, confidence: 0.7511
+Rule: {'cite'} -> {'people'}, confidence: 0.7346
+Rule: {'people'} -> {'cite'}, confidence: 0.4769
+Rule: {'url'} -> {'web'}, confidence: 0.9156
+Rule: {'web'} -> {'url'}, confidence: 0.9279
+Rule: {'pages'} -> {'web'}, confidence: 0.5637
+Rule: {'web'} -> {'pages'}, confidence: 0.6577
+Rule: {'url'} -> {'people'}, confidence: 0.7244
+Rule: {'people'} -> {'url'}, confidence: 0.5015
+Rule: {'title'} -> {'thumb'}, confidence: 0.6597
+Rule: {'thumb'} -> {'title'}, confidence: 0.5668
+Rule: {'jpg'} -> {'people'}, confidence: 0.7479
+Rule: {'people'} -> {'jpg'}, confidence: 0.5569
+Rule: {'web'} -> {'thumb'}, confidence: 0.6622
+Rule: {'thumb'} -> {'web'}, confidence: 0.5307
+Rule: {'jpg'} -> {'url'}, confidence: 0.6157
+Rule: {'url'} -> {'jpg'}, confidence: 0.6622
+Rule: {'pages'} -> {'title'}, confidence: 0.6023
+Rule: {'title'} -> {'pages'}, confidence: 0.6555
+Rule: {'url'} -> {'title'}, confidence: 0.9289
+Rule: {'title'} -> {'url'}, confidence: 0.8782
+Rule: {'date'} -> {'title'}, confidence: 0.8376
+Rule: {'title'} -> {'date'}, confidence: 0.8235
+Rule: {'jpg'} -> {'date'}, confidence: 0.6446
+Rule: {'date'} -> {'jpg'}, confidence: 0.6667
+Rule: {'http'} -> {'www'}, confidence: 0.8964
+Rule: {'www'} -> {'http'}, confidence: 0.7900
+Rule: {'like'} -> {'thumb'}, confidence: 0.7558
+Rule: {'thumb'} -> {'like'}, confidence: 0.5921
+Rule: {'jpg'} -> {'like'}, confidence: 0.6364
+Rule: {'like'} -> {'jpg'}, confidence: 0.7097
+Rule: {'references'} -> {'like'}, confidence: 0.6080
+Rule: {'like'} -> {'references'}, confidence: 0.7005
+Rule: {'pages'} -> {'like'}, confidence: 0.5560
+Rule: {'like'} -> {'pages'}, confidence: 0.6636
+Rule: {'http'} -> {'https'}, confidence: 0.8238
+Rule: {'https'} -> {'http'}, confidence: 0.7227
+Rule: {'http'} -> {'cite'}, confidence: 0.8187
+Rule: {'cite'} -> {'http'}, confidence: 0.7488
+Rule: {'references'} -> {'one'}, confidence: 0.7360
+Rule: {'one'} -> {'references'}, confidence: 0.6216
+Rule: {'references'} -> {'title'}, confidence: 0.8200
+Rule: {'title'} -> {'references'}, confidence: 0.8613
+Rule: {'jpg'} -> {'thumb'}, confidence: 0.9256
+Rule: {'thumb'} -> {'jpg'}, confidence: 0.8087
+Rule: {'references'} -> {'www'}, confidence: 0.7760
+Rule: {'www'} -> {'references'}, confidence: 0.8858
+Rule: {'www'} -> {'one'}, confidence: 0.7078
+Rule: {'one'} -> {'www'}, confidence: 0.5236
+Rule: {'people'} -> {'https'}, confidence: 0.4831
+Rule: {'https'} -> {'people'}, confidence: 0.7136
+Rule: {'cite'} -> {'web'}, confidence: 0.9052
+Rule: {'web'} -> {'cite'}, confidence: 0.8604
+Rule: {'www'} -> {'https'}, confidence: 0.9041
+Rule: {'https'} -> {'www'}, confidence: 0.9000
+Rule: {'one'} -> {'people'}, confidence: 0.6284
+Rule: {'people'} -> {'one'}, confidence: 0.5723
+Rule: {'references'} -> {'people'}, confidence: 0.7360
+Rule: {'people'} -> {'references'}, confidence: 0.5662
+Rule: {'cite'} -> {'one'}, confidence: 0.7393
+Rule: {'one'} -> {'cite'}, confidence: 0.5270
+Rule: {'pages'} -> {'jpg'}, confidence: 0.5637
+Rule: {'jpg'} -> {'pages'}, confidence: 0.6033
+Rule: {'references'} -> {'https'}, confidence: 0.8000
+Rule: {'https'} -> {'references'}, confidence: 0.9091
+Rule: {'jpg'} -> {'web'}, confidence: 0.5950
+Rule: {'web'} -> {'jpg'}, confidence: 0.6486
+Rule: {'different'} -> {'one'}, confidence: 0.6909
+Rule: {'one'} -> {'different'}, confidence: 0.5135
+Rule: {'date'} -> {'one'}, confidence: 0.7051
+Rule: {'one'} -> {'date'}, confidence: 0.5574
+Rule: {'references'} -> {'date'}, confidence: 0.7840
+Rule: {'date'} -> {'references'}, confidence: 0.8376
+Rule: {'english'} -> {'words'}, confidence: 0.6805
+Rule: {'words'} -> {'english'}, confidence: 0.8770
+Rule: {'archive'} -> {'web'}, confidence: 0.9423
+Rule: {'web'} -> {'archive'}, confidence: 0.6622
+Rule: {'archive'} -> {'https'}, confidence: 0.9808
+Rule: {'https'} -> {'archive'}, confidence: 0.6955
+Rule: {'different'} -> {'people'}, confidence: 0.7227
+Rule: {'people'} -> {'different'}, confidence: 0.4892
+Rule: {'date'} -> {'people'}, confidence: 0.7051
+Rule: {'people'} -> {'date'}, confidence: 0.5077
+Rule: {'date'} -> {'web'}, confidence: 0.8120
+Rule: {'web'} -> {'date'}, confidence: 0.8559
+Rule: {'pages'} -> {'date'}, confidence: 0.5907
+Rule: {'date'} -> {'pages'}, confidence: 0.6538
+Rule: {'pages'} -> {'https'}, confidence: 0.5907
+Rule: {'https'} -> {'pages'}, confidence: 0.6955
+Rule: {'url'} -> {'https'}, confidence: 0.9200
+Rule: {'https'} -> {'url'}, confidence: 0.9409
+Rule: {'title'} -> {'one'}, confidence: 0.7143
+Rule: {'one'} -> {'title'}, confidence: 0.5743
+Rule: {'cite'} -> {'https'}, confidence: 0.9242
+Rule: {'https'} -> {'cite'}, confidence: 0.8864
+Rule: {'jpg'} -> {'www'}, confidence: 0.6322
+Rule: {'www'} -> {'jpg'}, confidence: 0.6986
+Rule: {'date'} -> {'http'}, confidence: 0.6923
+Rule: {'http'} -> {'date'}, confidence: 0.8394
+Rule: {'web'} -> {'people'}, confidence: 0.6892
+Rule: {'people'} -> {'web'}, confidence: 0.4708
+Rule: {'www'} -> {'title'}, confidence: 0.8904
+Rule: {'title'} -> {'www'}, confidence: 0.8193
+Rule: {'pages'} -> {'thumb'}, confidence: 0.6139
+Rule: {'thumb'} -> {'pages'}, confidence: 0.5740
+Rule: {'date'} -> {'archive'}, confidence: 0.6325
+Rule: {'archive'} -> {'date'}, confidence: 0.9487
+Rule: {'references'} -> {'cite'}, confidence: 0.7920
+Rule: {'cite'} -> {'references'}, confidence: 0.9384
+Rule: {'www'} -> {'url'}, confidence: 0.9087
+Rule: {'url'} -> {'www'}, confidence: 0.8844
+Rule: {'one'} -> {'https'}, confidence: 0.5338
+Rule: {'https'} -> {'one'}, confidence: 0.7182
+Rule: {'references'} -> {'url'}, confidence: 0.8120
+Rule: {'url'} -> {'references'}, confidence: 0.9022
+Rule: {'www'} -> {'cite'}, confidence: 0.8584
+Rule: {'cite'} -> {'www'}, confidence: 0.8910
+Rule: {'url'} -> {'one'}, confidence: 0.7067
+Rule: {'one'} -> {'url'}, confidence: 0.5372
+Rule: {'title'} -> {'https'}, confidence: 0.8319
+Rule: {'https'} -> {'title'}, confidence: 0.9000
+Rule: {'date'} -> {'cite'}, confidence: 0.8120
+Rule: {'cite'} -> {'date'}, confidence: 0.9005
+Rule: {'date'} -> {'url'}, confidence: 0.8632
+Rule: {'url'} -> {'date'}, confidence: 0.8978
+Rule: {'like'} -> {'people'}, confidence: 0.7880
+Rule: {'people'} -> {'like'}, confidence: 0.5262
+Rule: {'www'} -> {'thumb'}, confidence: 0.6986
+Rule: {'thumb'} -> {'www'}, confidence: 0.5523
+Rule: {'references'} -> {'jpg'}, confidence: 0.6480
+Rule: {'jpg'} -> {'references'}, confidence: 0.6694
+Rule: {'jpg'} -> {'one'}, confidence: 0.6488
+Rule: {'one'} -> {'jpg'}, confidence: 0.5304
+Rule: {'web'} -> {'https'}, confidence: 0.8784
+Rule: {'https'} -> {'web'}, confidence: 0.8864
+Rule: {'one'} -> {'thumb'}, confidence: 0.5878
+Rule: {'thumb'} -> {'one'}, confidence: 0.6282
+Rule: {'url'} -> {'cite', 'https'}, confidence: 0.8622
+Rule: {'cite'} -> {'url', 'https'}, confidence: 0.9194
+Rule: {'https'} -> {'url', 'cite'}, confidence: 0.8818
+Rule: {'url', 'cite'} -> {'https'}, confidence: 0.9372
+Rule: {'url', 'https'} -> {'cite'}, confidence: 0.9372
+Rule: {'cite', 'https'} -> {'url'}, confidence: 0.9949
+Rule: {'references'} -> {'one', 'cite'}, confidence: 0.6080
+Rule: {'cite'} -> {'references', 'one'}, confidence: 0.7204
+Rule: {'one'} -> {'references', 'cite'}, confidence: 0.5135
+Rule: {'references', 'cite'} -> {'one'}, confidence: 0.7677
+Rule: {'references', 'one'} -> {'cite'}, confidence: 0.8261
+Rule: {'one', 'cite'} -> {'references'}, confidence: 0.9744
+Rule: {'www'} -> {'title', 'web'}, confidence: 0.8219
+Rule: {'title'} -> {'www', 'web'}, confidence: 0.7563
+Rule: {'web'} -> {'www', 'title'}, confidence: 0.8108
+Rule: {'www', 'title'} -> {'web'}, confidence: 0.9231
+Rule: {'www', 'web'} -> {'title'}, confidence: 0.9424
+Rule: {'title', 'web'} -> {'www'}, confidence: 0.9278
+Rule: {'https'} -> {'url', 'people'}, confidence: 0.6909
+Rule: {'url'} -> {'people', 'https'}, confidence: 0.6756
+Rule: {'people'} -> {'url', 'https'}, confidence: 0.4677
+Rule: {'url', 'https'} -> {'people'}, confidence: 0.7343
+Rule: {'people', 'https'} -> {'url'}, confidence: 0.9682
+Rule: {'url', 'people'} -> {'https'}, confidence: 0.9325
+Rule: {'references'} -> {'title', 'https'}, confidence: 0.7480
+Rule: {'title'} -> {'references', 'https'}, confidence: 0.7857
+Rule: {'https'} -> {'references', 'title'}, confidence: 0.8500
+Rule: {'references', 'title'} -> {'https'}, confidence: 0.9122
+Rule: {'references', 'https'} -> {'title'}, confidence: 0.9350
+Rule: {'title', 'https'} -> {'references'}, confidence: 0.9444
+Rule: {'url'} -> {'title', 'one'}, confidence: 0.6800
+Rule: {'title'} -> {'url', 'one'}, confidence: 0.6429
+Rule: {'one'} -> {'url', 'title'}, confidence: 0.5169
+Rule: {'url', 'title'} -> {'one'}, confidence: 0.7321
+Rule: {'url', 'one'} -> {'title'}, confidence: 0.9623
+Rule: {'title', 'one'} -> {'url'}, confidence: 0.9000
+Rule: {'url'} -> {'cite', 'people'}, confidence: 0.6800
+Rule: {'cite'} -> {'url', 'people'}, confidence: 0.7251
+Rule: {'people'} -> {'url', 'cite'}, confidence: 0.4708
+Rule: {'url', 'cite'} -> {'people'}, confidence: 0.7391
+Rule: {'url', 'people'} -> {'cite'}, confidence: 0.9387
+Rule: {'cite', 'people'} -> {'url'}, confidence: 0.9871
+Rule: {'https'} -> {'cite', 'people'}, confidence: 0.6545
+Rule: {'cite'} -> {'people', 'https'}, confidence: 0.6825
+Rule: {'people'} -> {'cite', 'https'}, confidence: 0.4431
+Rule: {'cite', 'https'} -> {'people'}, confidence: 0.7385
+Rule: {'people', 'https'} -> {'cite'}, confidence: 0.9172
+Rule: {'cite', 'people'} -> {'https'}, confidence: 0.9290
+Rule: {'references'} -> {'one', 'https'}, confidence: 0.6040
+Rule: {'one'} -> {'references', 'https'}, confidence: 0.5101
+Rule: {'https'} -> {'references', 'one'}, confidence: 0.6864
+Rule: {'references', 'one'} -> {'https'}, confidence: 0.8207
+Rule: {'references', 'https'} -> {'one'}, confidence: 0.7550
+Rule: {'one', 'https'} -> {'references'}, confidence: 0.9557
+Rule: {'http'} -> {'url', 'https'}, confidence: 0.7979
+Rule: {'url'} -> {'http', 'https'}, confidence: 0.6844
+Rule: {'https'} -> {'http', 'url'}, confidence: 0.7000
+Rule: {'http', 'url'} -> {'https'}, confidence: 0.9112
+Rule: {'http', 'https'} -> {'url'}, confidence: 0.9686
+Rule: {'url', 'https'} -> {'http'}, confidence: 0.7440
+Rule: {'references'} -> {'http', 'title'}, confidence: 0.6160
+Rule: {'http'} -> {'references', 'title'}, confidence: 0.7979
+Rule: {'title'} -> {'references', 'http'}, confidence: 0.6471
+Rule: {'references', 'http'} -> {'title'}, confidence: 0.9277
+Rule: {'references', 'title'} -> {'http'}, confidence: 0.7512
+Rule: {'http', 'title'} -> {'references'}, confidence: 0.9390
+Rule: {'http'} -> {'www', 'cite'}, confidence: 0.7668
+Rule: {'www'} -> {'http', 'cite'}, confidence: 0.6758
+Rule: {'cite'} -> {'http', 'www'}, confidence: 0.7014
+Rule: {'http', 'www'} -> {'cite'}, confidence: 0.8555
+Rule: {'http', 'cite'} -> {'www'}, confidence: 0.9367
+Rule: {'www', 'cite'} -> {'http'}, confidence: 0.7872
+Rule: {'http'} -> {'title', 'web'}, confidence: 0.7824
+Rule: {'title'} -> {'http', 'web'}, confidence: 0.6345
+Rule: {'web'} -> {'http', 'title'}, confidence: 0.6802
+Rule: {'http', 'title'} -> {'web'}, confidence: 0.9207
+Rule: {'http', 'web'} -> {'title'}, confidence: 0.9207
+Rule: {'title', 'web'} -> {'http'}, confidence: 0.7784
+Rule: {'archive'} -> {'web', 'https'}, confidence: 0.9423
+Rule: {'web'} -> {'archive', 'https'}, confidence: 0.6622
+Rule: {'https'} -> {'archive', 'web'}, confidence: 0.6682
+Rule: {'archive', 'web'} -> {'https'}, confidence: 1.0000
+Rule: {'archive', 'https'} -> {'web'}, confidence: 0.9608
+Rule: {'web', 'https'} -> {'archive'}, confidence: 0.7538
+Rule: {'date'} -> {'title', 'https'}, confidence: 0.7863
+Rule: {'title'} -> {'date', 'https'}, confidence: 0.7731
+Rule: {'https'} -> {'date', 'title'}, confidence: 0.8364
+Rule: {'date', 'title'} -> {'https'}, confidence: 0.9388
+Rule: {'date', 'https'} -> {'title'}, confidence: 0.9340
+Rule: {'title', 'https'} -> {'date'}, confidence: 0.9293
+Rule: {'date'} -> {'url', 'title'}, confidence: 0.8120
+Rule: {'url'} -> {'date', 'title'}, confidence: 0.8444
+Rule: {'title'} -> {'date', 'url'}, confidence: 0.7983
+Rule: {'date', 'url'} -> {'title'}, confidence: 0.9406
+Rule: {'date', 'title'} -> {'url'}, confidence: 0.9694
+Rule: {'url', 'title'} -> {'date'}, confidence: 0.9091
+Rule: {'one'} -> {'url', 'web'}, confidence: 0.4865
+Rule: {'url'} -> {'web', 'one'}, confidence: 0.6400
+Rule: {'web'} -> {'url', 'one'}, confidence: 0.6486
+Rule: {'url', 'one'} -> {'web'}, confidence: 0.9057
+Rule: {'web', 'one'} -> {'url'}, confidence: 0.9600
+Rule: {'url', 'web'} -> {'one'}, confidence: 0.6990
+Rule: {'references'} -> {'web', 'https'}, confidence: 0.7120
+Rule: {'web'} -> {'references', 'https'}, confidence: 0.8018
+Rule: {'https'} -> {'references', 'web'}, confidence: 0.8091
+Rule: {'references', 'web'} -> {'https'}, confidence: 0.9468
+Rule: {'references', 'https'} -> {'web'}, confidence: 0.8900
+Rule: {'web', 'https'} -> {'references'}, confidence: 0.9128
+Rule: {'url'} -> {'cite', 'thumb'}, confidence: 0.6444
+Rule: {'cite'} -> {'url', 'thumb'}, confidence: 0.6872
+Rule: {'thumb'} -> {'url', 'cite'}, confidence: 0.5235
+Rule: {'url', 'cite'} -> {'thumb'}, confidence: 0.7005
+Rule: {'url', 'thumb'} -> {'cite'}, confidence: 0.9477
+Rule: {'cite', 'thumb'} -> {'url'}, confidence: 0.9864
+Rule: {'jpg'} -> {'url', 'https'}, confidence: 0.6033
+Rule: {'url'} -> {'jpg', 'https'}, confidence: 0.6489
+Rule: {'https'} -> {'jpg', 'url'}, confidence: 0.6636
+Rule: {'jpg', 'url'} -> {'https'}, confidence: 0.9799
+Rule: {'jpg', 'https'} -> {'url'}, confidence: 0.9419
+Rule: {'url', 'https'} -> {'jpg'}, confidence: 0.7053
+Rule: {'http'} -> {'date', 'www'}, confidence: 0.7927
+Rule: {'date'} -> {'http', 'www'}, confidence: 0.6538
+Rule: {'www'} -> {'date', 'http'}, confidence: 0.6986
+Rule: {'date', 'http'} -> {'www'}, confidence: 0.9444
+Rule: {'http', 'www'} -> {'date'}, confidence: 0.8844
+Rule: {'date', 'www'} -> {'http'}, confidence: 0.8053
+Rule: {'pages'} -> {'title', 'cite'}, confidence: 0.5676
+Rule: {'title'} -> {'pages', 'cite'}, confidence: 0.6176
+Rule: {'cite'} -> {'pages', 'title'}, confidence: 0.6967
+Rule: {'pages', 'title'} -> {'cite'}, confidence: 0.9423
+Rule: {'pages', 'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'title', 'cite'} -> {'pages'}, confidence: 0.6967
+Rule: {'cite'} -> {'one', 'https'}, confidence: 0.6872
+Rule: {'one'} -> {'cite', 'https'}, confidence: 0.4899
+Rule: {'https'} -> {'one', 'cite'}, confidence: 0.6591
+Rule: {'one', 'cite'} -> {'https'}, confidence: 0.9295
+Rule: {'cite', 'https'} -> {'one'}, confidence: 0.7436
+Rule: {'one', 'https'} -> {'cite'}, confidence: 0.9177
+Rule: {'jpg'} -> {'title', 'cite'}, confidence: 0.5950
+Rule: {'title'} -> {'jpg', 'cite'}, confidence: 0.6050
+Rule: {'cite'} -> {'jpg', 'title'}, confidence: 0.6825
+Rule: {'jpg', 'title'} -> {'cite'}, confidence: 0.9231
+Rule: {'jpg', 'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'title', 'cite'} -> {'jpg'}, confidence: 0.6825
+Rule: {'url'} -> {'title', 'thumb'}, confidence: 0.6444
+Rule: {'title'} -> {'url', 'thumb'}, confidence: 0.6092
+Rule: {'thumb'} -> {'url', 'title'}, confidence: 0.5235
+Rule: {'url', 'title'} -> {'thumb'}, confidence: 0.6938
+Rule: {'url', 'thumb'} -> {'title'}, confidence: 0.9477
+Rule: {'title', 'thumb'} -> {'url'}, confidence: 0.9236
+Rule: {'date'} -> {'http', 'web'}, confidence: 0.6453
+Rule: {'http'} -> {'date', 'web'}, confidence: 0.7824
+Rule: {'web'} -> {'date', 'http'}, confidence: 0.6802
+Rule: {'date', 'http'} -> {'web'}, confidence: 0.9321
+Rule: {'date', 'web'} -> {'http'}, confidence: 0.7947
+Rule: {'http', 'web'} -> {'date'}, confidence: 0.9207
+Rule: {'references'} -> {'www', 'https'}, confidence: 0.7360
+Rule: {'www'} -> {'references', 'https'}, confidence: 0.8402
+Rule: {'https'} -> {'references', 'www'}, confidence: 0.8364
+Rule: {'references', 'www'} -> {'https'}, confidence: 0.9485
+Rule: {'references', 'https'} -> {'www'}, confidence: 0.9200
+Rule: {'www', 'https'} -> {'references'}, confidence: 0.9293
+Rule: {'references'} -> {'url', 'one'}, confidence: 0.6120
+Rule: {'url'} -> {'references', 'one'}, confidence: 0.6800
+Rule: {'one'} -> {'references', 'url'}, confidence: 0.5169
+Rule: {'references', 'url'} -> {'one'}, confidence: 0.7537
+Rule: {'references', 'one'} -> {'url'}, confidence: 0.8315
+Rule: {'url', 'one'} -> {'references'}, confidence: 0.9623
+Rule: {'jpg'} -> {'thumb', 'people'}, confidence: 0.7025
+Rule: {'thumb'} -> {'jpg', 'people'}, confidence: 0.6137
+Rule: {'people'} -> {'jpg', 'thumb'}, confidence: 0.5231
+Rule: {'jpg', 'thumb'} -> {'people'}, confidence: 0.7589
+Rule: {'jpg', 'people'} -> {'thumb'}, confidence: 0.9392
+Rule: {'thumb', 'people'} -> {'jpg'}, confidence: 0.8854
+Rule: {'references'} -> {'date', 'one'}, confidence: 0.5960
+Rule: {'date'} -> {'references', 'one'}, confidence: 0.6368
+Rule: {'one'} -> {'references', 'date'}, confidence: 0.5034
+Rule: {'references', 'date'} -> {'one'}, confidence: 0.7602
+Rule: {'references', 'one'} -> {'date'}, confidence: 0.8098
+Rule: {'date', 'one'} -> {'references'}, confidence: 0.9030
+Rule: {'jpg'} -> {'like', 'thumb'}, confidence: 0.6033
+Rule: {'like'} -> {'jpg', 'thumb'}, confidence: 0.6728
+Rule: {'thumb'} -> {'jpg', 'like'}, confidence: 0.5271
+Rule: {'jpg', 'like'} -> {'thumb'}, confidence: 0.9481
+Rule: {'jpg', 'thumb'} -> {'like'}, confidence: 0.6518
+Rule: {'like', 'thumb'} -> {'jpg'}, confidence: 0.8902
+Rule: {'http'} -> {'web', 'cite'}, confidence: 0.7720
+Rule: {'cite'} -> {'http', 'web'}, confidence: 0.7062
+Rule: {'web'} -> {'http', 'cite'}, confidence: 0.6712
+Rule: {'http', 'cite'} -> {'web'}, confidence: 0.9430
+Rule: {'http', 'web'} -> {'cite'}, confidence: 0.9085
+Rule: {'web', 'cite'} -> {'http'}, confidence: 0.7801
+Rule: {'http'} -> {'www', 'title'}, confidence: 0.7927
+Rule: {'www'} -> {'http', 'title'}, confidence: 0.6986
+Rule: {'title'} -> {'http', 'www'}, confidence: 0.6429
+Rule: {'http', 'www'} -> {'title'}, confidence: 0.8844
+Rule: {'http', 'title'} -> {'www'}, confidence: 0.9329
+Rule: {'www', 'title'} -> {'http'}, confidence: 0.7846
+Rule: {'references'} -> {'date', 'www'}, confidence: 0.7080
+Rule: {'date'} -> {'references', 'www'}, confidence: 0.7564
+Rule: {'www'} -> {'references', 'date'}, confidence: 0.8082
+Rule: {'references', 'date'} -> {'www'}, confidence: 0.9031
+Rule: {'references', 'www'} -> {'date'}, confidence: 0.9124
+Rule: {'date', 'www'} -> {'references'}, confidence: 0.9316
+Rule: {'http'} -> {'url', 'web'}, confidence: 0.8342
+Rule: {'url'} -> {'http', 'web'}, confidence: 0.7156
+Rule: {'web'} -> {'http', 'url'}, confidence: 0.7252
+Rule: {'http', 'url'} -> {'web'}, confidence: 0.9527
+Rule: {'http', 'web'} -> {'url'}, confidence: 0.9817
+Rule: {'url', 'web'} -> {'http'}, confidence: 0.7816
+Rule: {'http'} -> {'web', 'https'}, confidence: 0.7876
+Rule: {'web'} -> {'http', 'https'}, confidence: 0.6847
+Rule: {'https'} -> {'http', 'web'}, confidence: 0.6909
+Rule: {'http', 'web'} -> {'https'}, confidence: 0.9268
+Rule: {'http', 'https'} -> {'web'}, confidence: 0.9560
+Rule: {'web', 'https'} -> {'http'}, confidence: 0.7795
+Rule: {'references'} -> {'http', 'url'}, confidence: 0.6200
+Rule: {'http'} -> {'references', 'url'}, confidence: 0.8031
+Rule: {'url'} -> {'references', 'http'}, confidence: 0.6889
+Rule: {'references', 'http'} -> {'url'}, confidence: 0.9337
+Rule: {'references', 'url'} -> {'http'}, confidence: 0.7635
+Rule: {'http', 'url'} -> {'references'}, confidence: 0.9172
+Rule: {'http'} -> {'www', 'url'}, confidence: 0.8187
+Rule: {'www'} -> {'http', 'url'}, confidence: 0.7215
+Rule: {'url'} -> {'http', 'www'}, confidence: 0.7022
+Rule: {'http', 'www'} -> {'url'}, confidence: 0.9133
+Rule: {'http', 'url'} -> {'www'}, confidence: 0.9349
+Rule: {'www', 'url'} -> {'http'}, confidence: 0.7940
+Rule: {'http'} -> {'www', 'https'}, confidence: 0.7927
+Rule: {'www'} -> {'http', 'https'}, confidence: 0.6986
+Rule: {'https'} -> {'http', 'www'}, confidence: 0.6955
+Rule: {'http', 'www'} -> {'https'}, confidence: 0.8844
+Rule: {'http', 'https'} -> {'www'}, confidence: 0.9623
+Rule: {'www', 'https'} -> {'http'}, confidence: 0.7727
+Rule: {'references'} -> {'date', 'web'}, confidence: 0.7040
+Rule: {'date'} -> {'references', 'web'}, confidence: 0.7521
+Rule: {'web'} -> {'references', 'date'}, confidence: 0.7928
+Rule: {'references', 'date'} -> {'web'}, confidence: 0.8980
+Rule: {'references', 'web'} -> {'date'}, confidence: 0.9362
+Rule: {'date', 'web'} -> {'references'}, confidence: 0.9263
+Rule: {'cite'} -> {'www', 'web'}, confidence: 0.8436
+Rule: {'www'} -> {'web', 'cite'}, confidence: 0.8128
+Rule: {'web'} -> {'www', 'cite'}, confidence: 0.8018
+Rule: {'www', 'cite'} -> {'web'}, confidence: 0.9468
+Rule: {'web', 'cite'} -> {'www'}, confidence: 0.9319
+Rule: {'www', 'web'} -> {'cite'}, confidence: 0.9319
+Rule: {'title'} -> {'cite', 'people'}, confidence: 0.6513
+Rule: {'cite'} -> {'title', 'people'}, confidence: 0.7346
+Rule: {'people'} -> {'title', 'cite'}, confidence: 0.4769
+Rule: {'title', 'cite'} -> {'people'}, confidence: 0.7346
+Rule: {'title', 'people'} -> {'cite'}, confidence: 0.9281
+Rule: {'cite', 'people'} -> {'title'}, confidence: 1.0000
+Rule: {'references'} -> {'title', 'one'}, confidence: 0.6280
+Rule: {'title'} -> {'references', 'one'}, confidence: 0.6597
+Rule: {'one'} -> {'references', 'title'}, confidence: 0.5304
+Rule: {'references', 'title'} -> {'one'}, confidence: 0.7659
+Rule: {'references', 'one'} -> {'title'}, confidence: 0.8533
+Rule: {'title', 'one'} -> {'references'}, confidence: 0.9235
+Rule: {'url'} -> {'title', 'https'}, confidence: 0.8711
+Rule: {'title'} -> {'url', 'https'}, confidence: 0.8235
+Rule: {'https'} -> {'url', 'title'}, confidence: 0.8909
+Rule: {'url', 'title'} -> {'https'}, confidence: 0.9378
+Rule: {'url', 'https'} -> {'title'}, confidence: 0.9469
+Rule: {'title', 'https'} -> {'url'}, confidence: 0.9899
+Rule: {'url'} -> {'thumb', 'https'}, confidence: 0.6578
+Rule: {'thumb'} -> {'url', 'https'}, confidence: 0.5343
+Rule: {'https'} -> {'url', 'thumb'}, confidence: 0.6727
+Rule: {'url', 'thumb'} -> {'https'}, confidence: 0.9673
+Rule: {'url', 'https'} -> {'thumb'}, confidence: 0.7150
+Rule: {'thumb', 'https'} -> {'url'}, confidence: 0.9427
+Rule: {'references'} -> {'title', 'people'}, confidence: 0.6080
+Rule: {'title'} -> {'references', 'people'}, confidence: 0.6387
+Rule: {'people'} -> {'references', 'title'}, confidence: 0.4677
+Rule: {'references', 'title'} -> {'people'}, confidence: 0.7415
+Rule: {'references', 'people'} -> {'title'}, confidence: 0.8261
+Rule: {'title', 'people'} -> {'references'}, confidence: 0.9102
+Rule: {'references'} -> {'www', 'web'}, confidence: 0.7000
+Rule: {'www'} -> {'references', 'web'}, confidence: 0.7991
+Rule: {'web'} -> {'references', 'www'}, confidence: 0.7883
+Rule: {'references', 'www'} -> {'web'}, confidence: 0.9021
+Rule: {'references', 'web'} -> {'www'}, confidence: 0.9309
+Rule: {'www', 'web'} -> {'references'}, confidence: 0.9162
+Rule: {'references'} -> {'title', 'cite'}, confidence: 0.7920
+Rule: {'title'} -> {'references', 'cite'}, confidence: 0.8319
+Rule: {'cite'} -> {'references', 'title'}, confidence: 0.9384
+Rule: {'references', 'title'} -> {'cite'}, confidence: 0.9659
+Rule: {'references', 'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'title', 'cite'} -> {'references'}, confidence: 0.9384
+Rule: {'date'} -> {'http', 'https'}, confidence: 0.6410
+Rule: {'http'} -> {'date', 'https'}, confidence: 0.7772
+Rule: {'https'} -> {'date', 'http'}, confidence: 0.6818
+Rule: {'date', 'http'} -> {'https'}, confidence: 0.9259
+Rule: {'date', 'https'} -> {'http'}, confidence: 0.7614
+Rule: {'http', 'https'} -> {'date'}, confidence: 0.9434
+Rule: {'pages'} -> {'url', 'cite'}, confidence: 0.5560
+Rule: {'url'} -> {'pages', 'cite'}, confidence: 0.6400
+Rule: {'cite'} -> {'pages', 'url'}, confidence: 0.6825
+Rule: {'pages', 'url'} -> {'cite'}, confidence: 0.9412
+Rule: {'pages', 'cite'} -> {'url'}, confidence: 0.9796
+Rule: {'url', 'cite'} -> {'pages'}, confidence: 0.6957
+Rule: {'date'} -> {'http', 'url'}, confidence: 0.6752
+Rule: {'http'} -> {'date', 'url'}, confidence: 0.8187
+Rule: {'url'} -> {'date', 'http'}, confidence: 0.7022
+Rule: {'date', 'http'} -> {'url'}, confidence: 0.9753
+Rule: {'date', 'url'} -> {'http'}, confidence: 0.7822
+Rule: {'http', 'url'} -> {'date'}, confidence: 0.9349
+Rule: {'title'} -> {'one', 'https'}, confidence: 0.6134
+Rule: {'one'} -> {'title', 'https'}, confidence: 0.4932
+Rule: {'https'} -> {'title', 'one'}, confidence: 0.6636
+Rule: {'title', 'one'} -> {'https'}, confidence: 0.8588
+Rule: {'title', 'https'} -> {'one'}, confidence: 0.7374
+Rule: {'one', 'https'} -> {'title'}, confidence: 0.9241
+Rule: {'title'} -> {'cite', 'thumb'}, confidence: 0.6176
+Rule: {'cite'} -> {'title', 'thumb'}, confidence: 0.6967
+Rule: {'thumb'} -> {'title', 'cite'}, confidence: 0.5307
+Rule: {'title', 'cite'} -> {'thumb'}, confidence: 0.6967
+Rule: {'title', 'thumb'} -> {'cite'}, confidence: 0.9363
+Rule: {'cite', 'thumb'} -> {'title'}, confidence: 1.0000
+Rule: {'date'} -> {'url', 'https'}, confidence: 0.8291
+Rule: {'url'} -> {'date', 'https'}, confidence: 0.8622
+Rule: {'https'} -> {'date', 'url'}, confidence: 0.8818
+Rule: {'date', 'url'} -> {'https'}, confidence: 0.9604
+Rule: {'date', 'https'} -> {'url'}, confidence: 0.9848
+Rule: {'url', 'https'} -> {'date'}, confidence: 0.9372
+Rule: {'references'} -> {'date', 'title'}, confidence: 0.7400
+Rule: {'date'} -> {'references', 'title'}, confidence: 0.7906
+Rule: {'title'} -> {'references', 'date'}, confidence: 0.7773
+Rule: {'references', 'date'} -> {'title'}, confidence: 0.9439
+Rule: {'references', 'title'} -> {'date'}, confidence: 0.9024
+Rule: {'date', 'title'} -> {'references'}, confidence: 0.9439
+Rule: {'date'} -> {'https', 'people'}, confidence: 0.6197
+Rule: {'people'} -> {'date', 'https'}, confidence: 0.4462
+Rule: {'https'} -> {'date', 'people'}, confidence: 0.6591
+Rule: {'date', 'people'} -> {'https'}, confidence: 0.8788
+Rule: {'date', 'https'} -> {'people'}, confidence: 0.7360
+Rule: {'https', 'people'} -> {'date'}, confidence: 0.9236
+Rule: {'date'} -> {'url', 'cite'}, confidence: 0.8034
+Rule: {'url'} -> {'date', 'cite'}, confidence: 0.8356
+Rule: {'cite'} -> {'date', 'url'}, confidence: 0.8910
+Rule: {'date', 'url'} -> {'cite'}, confidence: 0.9307
+Rule: {'date', 'cite'} -> {'url'}, confidence: 0.9895
+Rule: {'url', 'cite'} -> {'date'}, confidence: 0.9082
+Rule: {'date'} -> {'cite', 'https'}, confidence: 0.7735
+Rule: {'cite'} -> {'date', 'https'}, confidence: 0.8578
+Rule: {'https'} -> {'date', 'cite'}, confidence: 0.8227
+Rule: {'date', 'cite'} -> {'https'}, confidence: 0.9526
+Rule: {'date', 'https'} -> {'cite'}, confidence: 0.9188
+Rule: {'cite', 'https'} -> {'date'}, confidence: 0.9282
+Rule: {'date'} -> {'url', 'people'}, confidence: 0.6410
+Rule: {'url'} -> {'date', 'people'}, confidence: 0.6667
+Rule: {'people'} -> {'date', 'url'}, confidence: 0.4615
+Rule: {'date', 'url'} -> {'people'}, confidence: 0.7426
+Rule: {'date', 'people'} -> {'url'}, confidence: 0.9091
+Rule: {'url', 'people'} -> {'date'}, confidence: 0.9202
+Rule: {'date'} -> {'one', 'cite'}, confidence: 0.6154
+Rule: {'cite'} -> {'date', 'one'}, confidence: 0.6825
+Rule: {'one'} -> {'date', 'cite'}, confidence: 0.4865
+Rule: {'date', 'cite'} -> {'one'}, confidence: 0.7579
+Rule: {'date', 'one'} -> {'cite'}, confidence: 0.8727
+Rule: {'one', 'cite'} -> {'date'}, confidence: 0.9231
+Rule: {'date'} -> {'thumb', 'https'}, confidence: 0.6154
+Rule: {'thumb'} -> {'date', 'https'}, confidence: 0.5199
+Rule: {'https'} -> {'date', 'thumb'}, confidence: 0.6545
+Rule: {'date', 'thumb'} -> {'https'}, confidence: 0.9000
+Rule: {'date', 'https'} -> {'thumb'}, confidence: 0.7310
+Rule: {'thumb', 'https'} -> {'date'}, confidence: 0.9172
+Rule: {'http'} -> {'title', 'https'}, confidence: 0.7513
+Rule: {'title'} -> {'http', 'https'}, confidence: 0.6092
+Rule: {'https'} -> {'http', 'title'}, confidence: 0.6591
+Rule: {'http', 'title'} -> {'https'}, confidence: 0.8841
+Rule: {'http', 'https'} -> {'title'}, confidence: 0.9119
+Rule: {'title', 'https'} -> {'http'}, confidence: 0.7323
+Rule: {'http'} -> {'url', 'title'}, confidence: 0.8135
+Rule: {'url'} -> {'http', 'title'}, confidence: 0.6978
+Rule: {'title'} -> {'http', 'url'}, confidence: 0.6597
+Rule: {'http', 'url'} -> {'title'}, confidence: 0.9290
+Rule: {'http', 'title'} -> {'url'}, confidence: 0.9573
+Rule: {'url', 'title'} -> {'http'}, confidence: 0.7512
+Rule: {'references'} -> {'date', 'https'}, confidence: 0.7360
+Rule: {'date'} -> {'references', 'https'}, confidence: 0.7863
+Rule: {'https'} -> {'references', 'date'}, confidence: 0.8364
+Rule: {'references', 'date'} -> {'https'}, confidence: 0.9388
+Rule: {'references', 'https'} -> {'date'}, confidence: 0.9200
+Rule: {'date', 'https'} -> {'references'}, confidence: 0.9340
+Rule: {'references'} -> {'http', 'cite'}, confidence: 0.6040
+Rule: {'http'} -> {'references', 'cite'}, confidence: 0.7824
+Rule: {'cite'} -> {'references', 'http'}, confidence: 0.7156
+Rule: {'references', 'http'} -> {'cite'}, confidence: 0.9096
+Rule: {'references', 'cite'} -> {'http'}, confidence: 0.7626
+Rule: {'http', 'cite'} -> {'references'}, confidence: 0.9557
+Rule: {'http'} -> {'www', 'web'}, confidence: 0.8083
+Rule: {'www'} -> {'http', 'web'}, confidence: 0.7123
+Rule: {'web'} -> {'http', 'www'}, confidence: 0.7027
+Rule: {'http', 'www'} -> {'web'}, confidence: 0.9017
+Rule: {'http', 'web'} -> {'www'}, confidence: 0.9512
+Rule: {'www', 'web'} -> {'http'}, confidence: 0.8168
+Rule: {'http'} -> {'title', 'cite'}, confidence: 0.8187
+Rule: {'title'} -> {'http', 'cite'}, confidence: 0.6639
+Rule: {'cite'} -> {'http', 'title'}, confidence: 0.7488
+Rule: {'http', 'title'} -> {'cite'}, confidence: 0.9634
+Rule: {'http', 'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'title', 'cite'} -> {'http'}, confidence: 0.7488
+Rule: {'references'} -> {'url', 'web'}, confidence: 0.7440
+Rule: {'url'} -> {'references', 'web'}, confidence: 0.8267
+Rule: {'web'} -> {'references', 'url'}, confidence: 0.8378
+Rule: {'references', 'url'} -> {'web'}, confidence: 0.9163
+Rule: {'references', 'web'} -> {'url'}, confidence: 0.9894
+Rule: {'url', 'web'} -> {'references'}, confidence: 0.9029
+Rule: {'references'} -> {'url', 'https'}, confidence: 0.7600
+Rule: {'url'} -> {'references', 'https'}, confidence: 0.8444
+Rule: {'https'} -> {'references', 'url'}, confidence: 0.8636
+Rule: {'references', 'url'} -> {'https'}, confidence: 0.9360
+Rule: {'references', 'https'} -> {'url'}, confidence: 0.9500
+Rule: {'url', 'https'} -> {'references'}, confidence: 0.9179
+Rule: {'url'} -> {'title', 'cite'}, confidence: 0.9200
+Rule: {'title'} -> {'url', 'cite'}, confidence: 0.8697
+Rule: {'cite'} -> {'url', 'title'}, confidence: 0.9810
+Rule: {'url', 'title'} -> {'cite'}, confidence: 0.9904
+Rule: {'url', 'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'title', 'cite'} -> {'url'}, confidence: 0.9810
+Rule: {'date'} -> {'archive', 'web'}, confidence: 0.6197
+Rule: {'archive'} -> {'date', 'web'}, confidence: 0.9295
+Rule: {'web'} -> {'date', 'archive'}, confidence: 0.6532
+Rule: {'date', 'archive'} -> {'web'}, confidence: 0.9797
+Rule: {'date', 'web'} -> {'archive'}, confidence: 0.7632
+Rule: {'archive', 'web'} -> {'date'}, confidence: 0.9864
+Rule: {'www'} -> {'web', 'https'}, confidence: 0.8311
+Rule: {'web'} -> {'www', 'https'}, confidence: 0.8198
+Rule: {'https'} -> {'www', 'web'}, confidence: 0.8273
+Rule: {'www', 'web'} -> {'https'}, confidence: 0.9529
+Rule: {'www', 'https'} -> {'web'}, confidence: 0.9192
+Rule: {'web', 'https'} -> {'www'}, confidence: 0.9333
+Rule: {'https'} -> {'title', 'people'}, confidence: 0.6636
+Rule: {'title'} -> {'people', 'https'}, confidence: 0.6134
+Rule: {'people'} -> {'title', 'https'}, confidence: 0.4492
+Rule: {'title', 'https'} -> {'people'}, confidence: 0.7374
+Rule: {'people', 'https'} -> {'title'}, confidence: 0.9299
+Rule: {'title', 'people'} -> {'https'}, confidence: 0.8743
+Rule: {'www'} -> {'url', 'web'}, confidence: 0.8630
+Rule: {'url'} -> {'www', 'web'}, confidence: 0.8400
+Rule: {'web'} -> {'www', 'url'}, confidence: 0.8514
+Rule: {'www', 'url'} -> {'web'}, confidence: 0.9497
+Rule: {'www', 'web'} -> {'url'}, confidence: 0.9895
+Rule: {'url', 'web'} -> {'www'}, confidence: 0.9175
+Rule: {'url'} -> {'title', 'people'}, confidence: 0.6844
+Rule: {'title'} -> {'url', 'people'}, confidence: 0.6471
+Rule: {'people'} -> {'url', 'title'}, confidence: 0.4738
+Rule: {'url', 'title'} -> {'people'}, confidence: 0.7368
+Rule: {'url', 'people'} -> {'title'}, confidence: 0.9448
+Rule: {'title', 'people'} -> {'url'}, confidence: 0.9222
+Rule: {'title'} -> {'cite', 'https'}, confidence: 0.8193
+Rule: {'cite'} -> {'title', 'https'}, confidence: 0.9242
+Rule: {'https'} -> {'title', 'cite'}, confidence: 0.8864
+Rule: {'title', 'cite'} -> {'https'}, confidence: 0.9242
+Rule: {'title', 'https'} -> {'cite'}, confidence: 0.9848
+Rule: {'cite', 'https'} -> {'title'}, confidence: 1.0000
+Rule: {'references'} -> {'https', 'people'}, confidence: 0.5920
+Rule: {'people'} -> {'references', 'https'}, confidence: 0.4554
+Rule: {'https'} -> {'references', 'people'}, confidence: 0.6727
+Rule: {'references', 'people'} -> {'https'}, confidence: 0.8043
+Rule: {'references', 'https'} -> {'people'}, confidence: 0.7400
+Rule: {'https', 'people'} -> {'references'}, confidence: 0.9427
+Rule: {'references'} -> {'date', 'http'}, confidence: 0.5920
+Rule: {'http'} -> {'references', 'date'}, confidence: 0.7668
+Rule: {'date'} -> {'references', 'http'}, confidence: 0.6325
+Rule: {'references', 'http'} -> {'date'}, confidence: 0.8916
+Rule: {'references', 'date'} -> {'http'}, confidence: 0.7551
+Rule: {'date', 'http'} -> {'references'}, confidence: 0.9136
+Rule: {'one'} -> {'url', 'cite'}, confidence: 0.5169
+Rule: {'url'} -> {'cite', 'one'}, confidence: 0.6800
+Rule: {'cite'} -> {'url', 'one'}, confidence: 0.7251
+Rule: {'url', 'one'} -> {'cite'}, confidence: 0.9623
+Rule: {'cite', 'one'} -> {'url'}, confidence: 0.9808
+Rule: {'url', 'cite'} -> {'one'}, confidence: 0.7391
+Rule: {'references'} -> {'cite', 'https'}, confidence: 0.7360
+Rule: {'cite'} -> {'references', 'https'}, confidence: 0.8720
+Rule: {'https'} -> {'references', 'cite'}, confidence: 0.8364
+Rule: {'references', 'cite'} -> {'https'}, confidence: 0.9293
+Rule: {'references', 'https'} -> {'cite'}, confidence: 0.9200
+Rule: {'cite', 'https'} -> {'references'}, confidence: 0.9436
+Rule: {'cite'} -> {'web', 'https'}, confidence: 0.8578
+Rule: {'web'} -> {'cite', 'https'}, confidence: 0.8153
+Rule: {'https'} -> {'web', 'cite'}, confidence: 0.8227
+Rule: {'web', 'cite'} -> {'https'}, confidence: 0.9476
+Rule: {'cite', 'https'} -> {'web'}, confidence: 0.9282
+Rule: {'web', 'https'} -> {'cite'}, confidence: 0.9282
+Rule: {'www'} -> {'url', 'title'}, confidence: 0.8630
+Rule: {'url'} -> {'www', 'title'}, confidence: 0.8400
+Rule: {'title'} -> {'www', 'url'}, confidence: 0.7941
+Rule: {'www', 'url'} -> {'title'}, confidence: 0.9497
+Rule: {'www', 'title'} -> {'url'}, confidence: 0.9692
+Rule: {'url', 'title'} -> {'www'}, confidence: 0.9043
+Rule: {'url'} -> {'web', 'people'}, confidence: 0.6622
+Rule: {'web'} -> {'url', 'people'}, confidence: 0.6712
+Rule: {'people'} -> {'url', 'web'}, confidence: 0.4585
+Rule: {'url', 'web'} -> {'people'}, confidence: 0.7233
+Rule: {'url', 'people'} -> {'web'}, confidence: 0.9141
+Rule: {'web', 'people'} -> {'url'}, confidence: 0.9739
+Rule: {'www'} -> {'title', 'https'}, confidence: 0.8356
+Rule: {'title'} -> {'www', 'https'}, confidence: 0.7689
+Rule: {'https'} -> {'www', 'title'}, confidence: 0.8318
+Rule: {'www', 'title'} -> {'https'}, confidence: 0.9385
+Rule: {'www', 'https'} -> {'title'}, confidence: 0.9242
+Rule: {'title', 'https'} -> {'www'}, confidence: 0.9242
+Rule: {'web'} -> {'url', 'cite'}, confidence: 0.8604
+Rule: {'url'} -> {'cite', 'web'}, confidence: 0.8489
+Rule: {'cite'} -> {'url', 'web'}, confidence: 0.9052
+Rule: {'url', 'web'} -> {'cite'}, confidence: 0.9272
+Rule: {'cite', 'web'} -> {'url'}, confidence: 1.0000
+Rule: {'url', 'cite'} -> {'web'}, confidence: 0.9227
+Rule: {'references'} -> {'thumb', 'https'}, confidence: 0.5800
+Rule: {'thumb'} -> {'references', 'https'}, confidence: 0.5235
+Rule: {'https'} -> {'references', 'thumb'}, confidence: 0.6591
+Rule: {'references', 'thumb'} -> {'https'}, confidence: 0.8683
+Rule: {'references', 'https'} -> {'thumb'}, confidence: 0.7250
+Rule: {'thumb', 'https'} -> {'references'}, confidence: 0.9236
+Rule: {'references'} -> {'url', 'title'}, confidence: 0.7880
+Rule: {'url'} -> {'references', 'title'}, confidence: 0.8756
+Rule: {'title'} -> {'references', 'url'}, confidence: 0.8277
+Rule: {'references', 'url'} -> {'title'}, confidence: 0.9704
+Rule: {'references', 'title'} -> {'url'}, confidence: 0.9610
+Rule: {'url', 'title'} -> {'references'}, confidence: 0.9426
+Rule: {'pages'} -> {'url', 'https'}, confidence: 0.5637
+Rule: {'url'} -> {'pages', 'https'}, confidence: 0.6489
+Rule: {'https'} -> {'pages', 'url'}, confidence: 0.6636
+Rule: {'pages', 'url'} -> {'https'}, confidence: 0.9542
+Rule: {'pages', 'https'} -> {'url'}, confidence: 0.9542
+Rule: {'url', 'https'} -> {'pages'}, confidence: 0.7053
+Rule: {'date'} -> {'http', 'cite'}, confidence: 0.6282
+Rule: {'http'} -> {'date', 'cite'}, confidence: 0.7617
+Rule: {'cite'} -> {'date', 'http'}, confidence: 0.6967
+Rule: {'date', 'http'} -> {'cite'}, confidence: 0.9074
+Rule: {'date', 'cite'} -> {'http'}, confidence: 0.7737
+Rule: {'http', 'cite'} -> {'date'}, confidence: 0.9304
+Rule: {'references'} -> {'http', 'www'}, confidence: 0.6120
+Rule: {'http'} -> {'references', 'www'}, confidence: 0.7927
+Rule: {'www'} -> {'references', 'http'}, confidence: 0.6986
+Rule: {'references', 'http'} -> {'www'}, confidence: 0.9217
+Rule: {'references', 'www'} -> {'http'}, confidence: 0.7887
+Rule: {'http', 'www'} -> {'references'}, confidence: 0.8844
+Rule: {'date'} -> {'url', 'web'}, confidence: 0.8120
+Rule: {'url'} -> {'date', 'web'}, confidence: 0.8444
+Rule: {'web'} -> {'date', 'url'}, confidence: 0.8559
+Rule: {'date', 'url'} -> {'web'}, confidence: 0.9406
+Rule: {'date', 'web'} -> {'url'}, confidence: 1.0000
+Rule: {'url', 'web'} -> {'date'}, confidence: 0.9223
+Rule: {'date'} -> {'web', 'https'}, confidence: 0.7906
+Rule: {'web'} -> {'date', 'https'}, confidence: 0.8333
+Rule: {'https'} -> {'date', 'web'}, confidence: 0.8409
+Rule: {'date', 'web'} -> {'https'}, confidence: 0.9737
+Rule: {'date', 'https'} -> {'web'}, confidence: 0.9391
+Rule: {'web', 'https'} -> {'date'}, confidence: 0.9487
+Rule: {'date'} -> {'www', 'url'}, confidence: 0.7906
+Rule: {'www'} -> {'date', 'url'}, confidence: 0.8447
+Rule: {'url'} -> {'date', 'www'}, confidence: 0.8222
+Rule: {'date', 'www'} -> {'url'}, confidence: 0.9737
+Rule: {'date', 'url'} -> {'www'}, confidence: 0.9158
+Rule: {'www', 'url'} -> {'date'}, confidence: 0.9296
+Rule: {'url'} -> {'archive', 'https'}, confidence: 0.6667
+Rule: {'archive'} -> {'url', 'https'}, confidence: 0.9615
+Rule: {'https'} -> {'url', 'archive'}, confidence: 0.6818
+Rule: {'url', 'archive'} -> {'https'}, confidence: 0.9934
+Rule: {'url', 'https'} -> {'archive'}, confidence: 0.7246
+Rule: {'archive', 'https'} -> {'url'}, confidence: 0.9804
+Rule: {'date'} -> {'www', 'https'}, confidence: 0.7821
+Rule: {'www'} -> {'date', 'https'}, confidence: 0.8356
+Rule: {'https'} -> {'date', 'www'}, confidence: 0.8318
+Rule: {'date', 'www'} -> {'https'}, confidence: 0.9632
+Rule: {'date', 'https'} -> {'www'}, confidence: 0.9289
+Rule: {'www', 'https'} -> {'date'}, confidence: 0.9242
+Rule: {'references'} -> {'http', 'web'}, confidence: 0.5960
+Rule: {'http'} -> {'references', 'web'}, confidence: 0.7720
+Rule: {'web'} -> {'references', 'http'}, confidence: 0.6712
+Rule: {'references', 'http'} -> {'web'}, confidence: 0.8976
+Rule: {'references', 'web'} -> {'http'}, confidence: 0.7926
+Rule: {'http', 'web'} -> {'references'}, confidence: 0.9085
+Rule: {'date'} -> {'www', 'cite'}, confidence: 0.7436
+Rule: {'www'} -> {'date', 'cite'}, confidence: 0.7945
+Rule: {'cite'} -> {'date', 'www'}, confidence: 0.8246
+Rule: {'date', 'www'} -> {'cite'}, confidence: 0.9158
+Rule: {'date', 'cite'} -> {'www'}, confidence: 0.9158
+Rule: {'www', 'cite'} -> {'date'}, confidence: 0.9255
+Rule: {'date'} -> {'url', 'one'}, confidence: 0.6282
+Rule: {'url'} -> {'date', 'one'}, confidence: 0.6533
+Rule: {'one'} -> {'date', 'url'}, confidence: 0.4966
+Rule: {'date', 'url'} -> {'one'}, confidence: 0.7277
+Rule: {'date', 'one'} -> {'url'}, confidence: 0.8909
+Rule: {'url', 'one'} -> {'date'}, confidence: 0.9245
+Rule: {'date'} -> {'title', 'web'}, confidence: 0.7650
+Rule: {'title'} -> {'date', 'web'}, confidence: 0.7521
+Rule: {'web'} -> {'date', 'title'}, confidence: 0.8063
+Rule: {'date', 'title'} -> {'web'}, confidence: 0.9133
+Rule: {'date', 'web'} -> {'title'}, confidence: 0.9421
+Rule: {'title', 'web'} -> {'date'}, confidence: 0.9227
+Rule: {'url'} -> {'title', 'web'}, confidence: 0.8533
+Rule: {'title'} -> {'url', 'web'}, confidence: 0.8067
+Rule: {'web'} -> {'url', 'title'}, confidence: 0.8649
+Rule: {'url', 'title'} -> {'web'}, confidence: 0.9187
+Rule: {'url', 'web'} -> {'title'}, confidence: 0.9320
+Rule: {'title', 'web'} -> {'url'}, confidence: 0.9897
+Rule: {'www'} -> {'url', 'people'}, confidence: 0.6712
+Rule: {'url'} -> {'www', 'people'}, confidence: 0.6533
+Rule: {'people'} -> {'www', 'url'}, confidence: 0.4523
+Rule: {'www', 'url'} -> {'people'}, confidence: 0.7387
+Rule: {'www', 'people'} -> {'url'}, confidence: 0.9304
+Rule: {'url', 'people'} -> {'www'}, confidence: 0.9018
+Rule: {'www'} -> {'cite', 'https'}, confidence: 0.8265
+Rule: {'cite'} -> {'www', 'https'}, confidence: 0.8578
+Rule: {'https'} -> {'www', 'cite'}, confidence: 0.8227
+Rule: {'www', 'cite'} -> {'https'}, confidence: 0.9628
+Rule: {'www', 'https'} -> {'cite'}, confidence: 0.9141
+Rule: {'cite', 'https'} -> {'www'}, confidence: 0.9282
+Rule: {'www'} -> {'url', 'cite'}, confidence: 0.8539
+Rule: {'url'} -> {'www', 'cite'}, confidence: 0.8311
+Rule: {'cite'} -> {'www', 'url'}, confidence: 0.8863
+Rule: {'www', 'url'} -> {'cite'}, confidence: 0.9397
+Rule: {'www', 'cite'} -> {'url'}, confidence: 0.9947
+Rule: {'url', 'cite'} -> {'www'}, confidence: 0.9034
+Rule: {'https'} -> {'www', 'people'}, confidence: 0.6636
+Rule: {'www'} -> {'people', 'https'}, confidence: 0.6667
+Rule: {'people'} -> {'www', 'https'}, confidence: 0.4492
+Rule: {'www', 'https'} -> {'people'}, confidence: 0.7374
+Rule: {'people', 'https'} -> {'www'}, confidence: 0.9299
+Rule: {'www', 'people'} -> {'https'}, confidence: 0.9241
+Rule: {'title'} -> {'web', 'https'}, confidence: 0.7647
+Rule: {'web'} -> {'title', 'https'}, confidence: 0.8198
+Rule: {'https'} -> {'title', 'web'}, confidence: 0.8273
+Rule: {'title', 'web'} -> {'https'}, confidence: 0.9381
+Rule: {'title', 'https'} -> {'web'}, confidence: 0.9192
+Rule: {'web', 'https'} -> {'title'}, confidence: 0.9333
+Rule: {'references'} -> {'web', 'cite'}, confidence: 0.7200
+Rule: {'cite'} -> {'references', 'web'}, confidence: 0.8531
+Rule: {'web'} -> {'references', 'cite'}, confidence: 0.8108
+Rule: {'references', 'cite'} -> {'web'}, confidence: 0.9091
+Rule: {'references', 'web'} -> {'cite'}, confidence: 0.9574
+Rule: {'web', 'cite'} -> {'references'}, confidence: 0.9424
+Rule: {'references'} -> {'www', 'title'}, confidence: 0.7240
+Rule: {'www'} -> {'references', 'title'}, confidence: 0.8265
+Rule: {'title'} -> {'references', 'www'}, confidence: 0.7605
+Rule: {'references', 'www'} -> {'title'}, confidence: 0.9330
+Rule: {'references', 'title'} -> {'www'}, confidence: 0.8829
+Rule: {'www', 'title'} -> {'references'}, confidence: 0.9282
+Rule: {'one'} -> {'jpg', 'thumb'}, confidence: 0.4966
+Rule: {'jpg'} -> {'one', 'thumb'}, confidence: 0.6074
+Rule: {'thumb'} -> {'jpg', 'one'}, confidence: 0.5307
+Rule: {'jpg', 'one'} -> {'thumb'}, confidence: 0.9363
+Rule: {'one', 'thumb'} -> {'jpg'}, confidence: 0.8448
+Rule: {'jpg', 'thumb'} -> {'one'}, confidence: 0.6562
+Rule: {'cite'} -> {'title', 'web'}, confidence: 0.9052
+Rule: {'title'} -> {'web', 'cite'}, confidence: 0.8025
+Rule: {'web'} -> {'title', 'cite'}, confidence: 0.8604
+Rule: {'title', 'cite'} -> {'web'}, confidence: 0.9052
+Rule: {'web', 'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'title', 'web'} -> {'cite'}, confidence: 0.9845
+Rule: {'www'} -> {'url', 'https'}, confidence: 0.8721
+Rule: {'url'} -> {'www', 'https'}, confidence: 0.8489
+Rule: {'https'} -> {'www', 'url'}, confidence: 0.8682
+Rule: {'www', 'url'} -> {'https'}, confidence: 0.9598
+Rule: {'www', 'https'} -> {'url'}, confidence: 0.9646
+Rule: {'url', 'https'} -> {'www'}, confidence: 0.9227
+Rule: {'date'} -> {'archive', 'https'}, confidence: 0.6282
+Rule: {'archive'} -> {'date', 'https'}, confidence: 0.9423
+Rule: {'https'} -> {'date', 'archive'}, confidence: 0.6682
+Rule: {'date', 'archive'} -> {'https'}, confidence: 0.9932
+Rule: {'date', 'https'} -> {'archive'}, confidence: 0.7462
+Rule: {'archive', 'https'} -> {'date'}, confidence: 0.9608
+Rule: {'references'} -> {'jpg', 'thumb'}, confidence: 0.5840
+Rule: {'jpg'} -> {'references', 'thumb'}, confidence: 0.6033
+Rule: {'thumb'} -> {'references', 'jpg'}, confidence: 0.5271
+Rule: {'references', 'jpg'} -> {'thumb'}, confidence: 0.9012
+Rule: {'references', 'thumb'} -> {'jpg'}, confidence: 0.8743
+Rule: {'jpg', 'thumb'} -> {'references'}, confidence: 0.6518
+Rule: {'references'} -> {'www', 'url'}, confidence: 0.7320
+Rule: {'www'} -> {'references', 'url'}, confidence: 0.8356
+Rule: {'url'} -> {'references', 'www'}, confidence: 0.8133
+Rule: {'references', 'www'} -> {'url'}, confidence: 0.9433
+Rule: {'references', 'url'} -> {'www'}, confidence: 0.9015
+Rule: {'www', 'url'} -> {'references'}, confidence: 0.9196
+Rule: {'www'} -> {'one', 'https'}, confidence: 0.6621
+Rule: {'one'} -> {'www', 'https'}, confidence: 0.4899
+Rule: {'https'} -> {'www', 'one'}, confidence: 0.6591
+Rule: {'www', 'one'} -> {'https'}, confidence: 0.9355
+Rule: {'www', 'https'} -> {'one'}, confidence: 0.7323
+Rule: {'one', 'https'} -> {'www'}, confidence: 0.9177
+Rule: {'url'} -> {'web', 'https'}, confidence: 0.8578
+Rule: {'web'} -> {'url', 'https'}, confidence: 0.8694
+Rule: {'https'} -> {'url', 'web'}, confidence: 0.8773
+Rule: {'url', 'web'} -> {'https'}, confidence: 0.9369
+Rule: {'url', 'https'} -> {'web'}, confidence: 0.9324
+Rule: {'web', 'https'} -> {'url'}, confidence: 0.9897
+Rule: {'www'} -> {'title', 'cite'}, confidence: 0.8584
+Rule: {'title'} -> {'www', 'cite'}, confidence: 0.7899
+Rule: {'cite'} -> {'www', 'title'}, confidence: 0.8910
+Rule: {'www', 'title'} -> {'cite'}, confidence: 0.9641
+Rule: {'www', 'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'title', 'cite'} -> {'www'}, confidence: 0.8910
+Rule: {'references'} -> {'www', 'cite'}, confidence: 0.7120
+Rule: {'www'} -> {'references', 'cite'}, confidence: 0.8128
+Rule: {'cite'} -> {'references', 'www'}, confidence: 0.8436
+Rule: {'references', 'www'} -> {'cite'}, confidence: 0.9175
+Rule: {'references', 'cite'} -> {'www'}, confidence: 0.8990
+Rule: {'www', 'cite'} -> {'references'}, confidence: 0.9468
+Rule: {'references'} -> {'www', 'people'}, confidence: 0.5760
+Rule: {'www'} -> {'references', 'people'}, confidence: 0.6575
+Rule: {'people'} -> {'references', 'www'}, confidence: 0.4431
+Rule: {'references', 'www'} -> {'people'}, confidence: 0.7423
+Rule: {'references', 'people'} -> {'www'}, confidence: 0.7826
+Rule: {'www', 'people'} -> {'references'}, confidence: 0.9114
+Rule: {'references'} -> {'jpg', 'https'}, confidence: 0.5800
+Rule: {'jpg'} -> {'references', 'https'}, confidence: 0.5992
+Rule: {'https'} -> {'references', 'jpg'}, confidence: 0.6591
+Rule: {'references', 'jpg'} -> {'https'}, confidence: 0.8951
+Rule: {'references', 'https'} -> {'jpg'}, confidence: 0.7250
+Rule: {'jpg', 'https'} -> {'references'}, confidence: 0.9355
+Rule: {'references'} -> {'title', 'web'}, confidence: 0.7240
+Rule: {'title'} -> {'references', 'web'}, confidence: 0.7605
+Rule: {'web'} -> {'references', 'title'}, confidence: 0.8153
+Rule: {'references', 'title'} -> {'web'}, confidence: 0.8829
+Rule: {'references', 'web'} -> {'title'}, confidence: 0.9628
+Rule: {'title', 'web'} -> {'references'}, confidence: 0.9330
+Rule: {'http'} -> {'url', 'cite'}, confidence: 0.8083
+Rule: {'url'} -> {'http', 'cite'}, confidence: 0.6933
+Rule: {'cite'} -> {'http', 'url'}, confidence: 0.7393
+Rule: {'http', 'url'} -> {'cite'}, confidence: 0.9231
+Rule: {'http', 'cite'} -> {'url'}, confidence: 0.9873
+Rule: {'url', 'cite'} -> {'http'}, confidence: 0.7536
+Rule: {'http'} -> {'cite', 'https'}, confidence: 0.7461
+Rule: {'cite'} -> {'http', 'https'}, confidence: 0.6825
+Rule: {'https'} -> {'http', 'cite'}, confidence: 0.6545
+Rule: {'http', 'cite'} -> {'https'}, confidence: 0.9114
+Rule: {'http', 'https'} -> {'cite'}, confidence: 0.9057
+Rule: {'cite', 'https'} -> {'http'}, confidence: 0.7385
+Rule: {'date'} -> {'title', 'one'}, confidence: 0.6282
+Rule: {'title'} -> {'date', 'one'}, confidence: 0.6176
+Rule: {'one'} -> {'date', 'title'}, confidence: 0.4966
+Rule: {'date', 'title'} -> {'one'}, confidence: 0.7500
+Rule: {'date', 'one'} -> {'title'}, confidence: 0.8909
+Rule: {'title', 'one'} -> {'date'}, confidence: 0.8647
+Rule: {'date'} -> {'web', 'cite'}, confidence: 0.7607
+Rule: {'cite'} -> {'date', 'web'}, confidence: 0.8436
+Rule: {'web'} -> {'date', 'cite'}, confidence: 0.8018
+Rule: {'date', 'cite'} -> {'web'}, confidence: 0.9368
+Rule: {'date', 'web'} -> {'cite'}, confidence: 0.9368
+Rule: {'web', 'cite'} -> {'date'}, confidence: 0.9319
+Rule: {'date'} -> {'www', 'title'}, confidence: 0.7564
+Rule: {'www'} -> {'date', 'title'}, confidence: 0.8082
+Rule: {'title'} -> {'date', 'www'}, confidence: 0.7437
+Rule: {'date', 'www'} -> {'title'}, confidence: 0.9316
+Rule: {'date', 'title'} -> {'www'}, confidence: 0.9031
+Rule: {'www', 'title'} -> {'date'}, confidence: 0.9077
+Rule: {'references'} -> {'http', 'https'}, confidence: 0.5880
+Rule: {'http'} -> {'references', 'https'}, confidence: 0.7617
+Rule: {'https'} -> {'references', 'http'}, confidence: 0.6682
+Rule: {'references', 'http'} -> {'https'}, confidence: 0.8855
+Rule: {'references', 'https'} -> {'http'}, confidence: 0.7350
+Rule: {'http', 'https'} -> {'references'}, confidence: 0.9245
+Rule: {'references'} -> {'date', 'people'}, confidence: 0.5920
+Rule: {'date'} -> {'references', 'people'}, confidence: 0.6325
+Rule: {'people'} -> {'references', 'date'}, confidence: 0.4554
+Rule: {'references', 'date'} -> {'people'}, confidence: 0.7551
+Rule: {'references', 'people'} -> {'date'}, confidence: 0.8043
+Rule: {'date', 'people'} -> {'references'}, confidence: 0.8970
+Rule: {'references'} -> {'date', 'cite'}, confidence: 0.7240
+Rule: {'date'} -> {'references', 'cite'}, confidence: 0.7735
+Rule: {'cite'} -> {'references', 'date'}, confidence: 0.8578
+Rule: {'references', 'date'} -> {'cite'}, confidence: 0.9235
+Rule: {'references', 'cite'} -> {'date'}, confidence: 0.9141
+Rule: {'date', 'cite'} -> {'references'}, confidence: 0.9526
+Rule: {'date'} -> {'www', 'web'}, confidence: 0.7564
+Rule: {'www'} -> {'date', 'web'}, confidence: 0.8082
+Rule: {'web'} -> {'date', 'www'}, confidence: 0.7973
+Rule: {'date', 'www'} -> {'web'}, confidence: 0.9316
+Rule: {'date', 'web'} -> {'www'}, confidence: 0.9316
+Rule: {'www', 'web'} -> {'date'}, confidence: 0.9267
+Rule: {'date'} -> {'title', 'people'}, confidence: 0.6239
+Rule: {'title'} -> {'date', 'people'}, confidence: 0.6134
+Rule: {'people'} -> {'date', 'title'}, confidence: 0.4492
+Rule: {'date', 'title'} -> {'people'}, confidence: 0.7449
+Rule: {'date', 'people'} -> {'title'}, confidence: 0.8848
+Rule: {'title', 'people'} -> {'date'}, confidence: 0.8743
+Rule: {'url'} -> {'archive', 'web'}, confidence: 0.6444
+Rule: {'archive'} -> {'url', 'web'}, confidence: 0.9295
+Rule: {'web'} -> {'url', 'archive'}, confidence: 0.6532
+Rule: {'url', 'archive'} -> {'web'}, confidence: 0.9603
+Rule: {'url', 'web'} -> {'archive'}, confidence: 0.7039
+Rule: {'archive', 'web'} -> {'url'}, confidence: 0.9864
+Rule: {'date'} -> {'title', 'cite'}, confidence: 0.8120
+Rule: {'title'} -> {'date', 'cite'}, confidence: 0.7983
+Rule: {'cite'} -> {'date', 'title'}, confidence: 0.9005
+Rule: {'date', 'title'} -> {'cite'}, confidence: 0.9694
+Rule: {'date', 'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'title', 'cite'} -> {'date'}, confidence: 0.9005
+Rule: {'date'} -> {'one', 'https'}, confidence: 0.6239
+Rule: {'one'} -> {'date', 'https'}, confidence: 0.4932
+Rule: {'https'} -> {'date', 'one'}, confidence: 0.6636
+Rule: {'date', 'one'} -> {'https'}, confidence: 0.8848
+Rule: {'date', 'https'} -> {'one'}, confidence: 0.7411
+Rule: {'one', 'https'} -> {'date'}, confidence: 0.9241
+Rule: {'references'} -> {'date', 'url'}, confidence: 0.7480
+Rule: {'date'} -> {'references', 'url'}, confidence: 0.7991
+Rule: {'url'} -> {'references', 'date'}, confidence: 0.8311
+Rule: {'references', 'date'} -> {'url'}, confidence: 0.9541
+Rule: {'references', 'url'} -> {'date'}, confidence: 0.9212
+Rule: {'date', 'url'} -> {'references'}, confidence: 0.9257
+Rule: {'pages'} -> {'url', 'title'}, confidence: 0.5560
+Rule: {'url'} -> {'pages', 'title'}, confidence: 0.6400
+Rule: {'title'} -> {'pages', 'url'}, confidence: 0.6050
+Rule: {'pages', 'url'} -> {'title'}, confidence: 0.9412
+Rule: {'pages', 'title'} -> {'url'}, confidence: 0.9231
+Rule: {'url', 'title'} -> {'pages'}, confidence: 0.6890
+Rule: {'url'} -> {'one', 'https'}, confidence: 0.6578
+Rule: {'one'} -> {'url', 'https'}, confidence: 0.5000
+Rule: {'https'} -> {'url', 'one'}, confidence: 0.6727
+Rule: {'url', 'one'} -> {'https'}, confidence: 0.9308
+Rule: {'url', 'https'} -> {'one'}, confidence: 0.7150
+Rule: {'one', 'https'} -> {'url'}, confidence: 0.9367
+Rule: {'references'} -> {'cite', 'people'}, confidence: 0.5920
+Rule: {'cite'} -> {'references', 'people'}, confidence: 0.7014
+Rule: {'people'} -> {'references', 'cite'}, confidence: 0.4554
+Rule: {'references', 'cite'} -> {'people'}, confidence: 0.7475
+Rule: {'references', 'people'} -> {'cite'}, confidence: 0.8043
+Rule: {'cite', 'people'} -> {'references'}, confidence: 0.9548
+Rule: {'date'} -> {'http', 'title'}, confidence: 0.6368
+Rule: {'http'} -> {'date', 'title'}, confidence: 0.7720
+Rule: {'title'} -> {'date', 'http'}, confidence: 0.6261
+Rule: {'date', 'http'} -> {'title'}, confidence: 0.9198
+Rule: {'date', 'title'} -> {'http'}, confidence: 0.7602
+Rule: {'http', 'title'} -> {'date'}, confidence: 0.9085
+Rule: {'date'} -> {'url', 'archive'}, confidence: 0.6282
+Rule: {'url'} -> {'date', 'archive'}, confidence: 0.6533
+Rule: {'archive'} -> {'date', 'url'}, confidence: 0.9423
+Rule: {'date', 'url'} -> {'archive'}, confidence: 0.7277
+Rule: {'date', 'archive'} -> {'url'}, confidence: 0.9932
+Rule: {'url', 'archive'} -> {'date'}, confidence: 0.9735
+Rule: {'references'} -> {'url', 'cite'}, confidence: 0.7800
+Rule: {'url'} -> {'references', 'cite'}, confidence: 0.8667
+Rule: {'cite'} -> {'references', 'url'}, confidence: 0.9242
+Rule: {'references', 'url'} -> {'cite'}, confidence: 0.9606
+Rule: {'references', 'cite'} -> {'url'}, confidence: 0.9848
+Rule: {'url', 'cite'} -> {'references'}, confidence: 0.9420
+Rule: {'references'} -> {'www', 'one'}, confidence: 0.5920
+Rule: {'www'} -> {'references', 'one'}, confidence: 0.6758
+Rule: {'one'} -> {'references', 'www'}, confidence: 0.5000
+Rule: {'references', 'www'} -> {'one'}, confidence: 0.7629
+Rule: {'references', 'one'} -> {'www'}, confidence: 0.8043
+Rule: {'www', 'one'} -> {'references'}, confidence: 0.9548
+Rule: {'references'} -> {'url', 'people'}, confidence: 0.6080
+Rule: {'url'} -> {'references', 'people'}, confidence: 0.6756
+Rule: {'people'} -> {'references', 'url'}, confidence: 0.4677
+Rule: {'references', 'url'} -> {'people'}, confidence: 0.7488
+Rule: {'references', 'people'} -> {'url'}, confidence: 0.8261
+Rule: {'url', 'people'} -> {'references'}, confidence: 0.9325
+Rule: {'one'} -> {'title', 'cite'}, confidence: 0.5270
+Rule: {'title'} -> {'cite', 'one'}, confidence: 0.6555
+Rule: {'cite'} -> {'title', 'one'}, confidence: 0.7393
+Rule: {'title', 'one'} -> {'cite'}, confidence: 0.9176
+Rule: {'cite', 'one'} -> {'title'}, confidence: 1.0000
+Rule: {'title', 'cite'} -> {'one'}, confidence: 0.7393
+Rule: {'references'} -> {'date', 'title', 'cite'}, confidence: 0.7240
+Rule: {'date'} -> {'references', 'title', 'cite'}, confidence: 0.7735
+Rule: {'cite'} -> {'references', 'date', 'title'}, confidence: 0.8578
+Rule: {'title'} -> {'references', 'date', 'cite'}, confidence: 0.7605
+Rule: {'references', 'date'} -> {'title', 'cite'}, confidence: 0.9235
+Rule: {'references', 'cite'} -> {'date', 'title'}, confidence: 0.9141
+Rule: {'references', 'title'} -> {'date', 'cite'}, confidence: 0.8829
+Rule: {'date', 'cite'} -> {'references', 'title'}, confidence: 0.9526
+Rule: {'date', 'title'} -> {'references', 'cite'}, confidence: 0.9235
+Rule: {'title', 'cite'} -> {'references', 'date'}, confidence: 0.8578
+Rule: {'references', 'date', 'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'references', 'date', 'title'} -> {'cite'}, confidence: 0.9784
+Rule: {'references', 'title', 'cite'} -> {'date'}, confidence: 0.9141
+Rule: {'date', 'title', 'cite'} -> {'references'}, confidence: 0.9526
+Rule: {'references'} -> {'date', 'url', 'title'}, confidence: 0.7280
+Rule: {'date'} -> {'references', 'url', 'title'}, confidence: 0.7778
+Rule: {'url'} -> {'references', 'date', 'title'}, confidence: 0.8089
+Rule: {'title'} -> {'references', 'date', 'url'}, confidence: 0.7647
+Rule: {'references', 'date'} -> {'url', 'title'}, confidence: 0.9286
+Rule: {'references', 'url'} -> {'date', 'title'}, confidence: 0.8966
+Rule: {'references', 'title'} -> {'date', 'url'}, confidence: 0.8878
+Rule: {'date', 'url'} -> {'references', 'title'}, confidence: 0.9010
+Rule: {'date', 'title'} -> {'references', 'url'}, confidence: 0.9286
+Rule: {'url', 'title'} -> {'references', 'date'}, confidence: 0.8708
+Rule: {'references', 'date', 'url'} -> {'title'}, confidence: 0.9733
+Rule: {'references', 'date', 'title'} -> {'url'}, confidence: 0.9838
+Rule: {'references', 'url', 'title'} -> {'date'}, confidence: 0.9239
+Rule: {'date', 'url', 'title'} -> {'references'}, confidence: 0.9579
+Rule: {'http'} -> {'www', 'title', 'web'}, confidence: 0.7513
+Rule: {'www'} -> {'http', 'title', 'web'}, confidence: 0.6621
+Rule: {'title'} -> {'http', 'www', 'web'}, confidence: 0.6092
+Rule: {'web'} -> {'http', 'www', 'title'}, confidence: 0.6532
+Rule: {'http', 'www'} -> {'title', 'web'}, confidence: 0.8382
+Rule: {'http', 'title'} -> {'www', 'web'}, confidence: 0.8841
+Rule: {'http', 'web'} -> {'www', 'title'}, confidence: 0.8841
+Rule: {'www', 'title'} -> {'http', 'web'}, confidence: 0.7436
+Rule: {'www', 'web'} -> {'http', 'title'}, confidence: 0.7592
+Rule: {'title', 'web'} -> {'http', 'www'}, confidence: 0.7474
+Rule: {'http', 'www', 'title'} -> {'web'}, confidence: 0.9477
+Rule: {'http', 'www', 'web'} -> {'title'}, confidence: 0.9295
+Rule: {'http', 'title', 'web'} -> {'www'}, confidence: 0.9603
+Rule: {'www', 'title', 'web'} -> {'http'}, confidence: 0.8056
+Rule: {'references'} -> {'www', 'cite', 'https'}, confidence: 0.6880
+Rule: {'cite'} -> {'references', 'www', 'https'}, confidence: 0.8152
+Rule: {'https'} -> {'references', 'www', 'cite'}, confidence: 0.7818
+Rule: {'www'} -> {'references', 'cite', 'https'}, confidence: 0.7854
+Rule: {'references', 'cite'} -> {'www', 'https'}, confidence: 0.8687
+Rule: {'references', 'https'} -> {'www', 'cite'}, confidence: 0.8600
+Rule: {'references', 'www'} -> {'cite', 'https'}, confidence: 0.8866
+Rule: {'cite', 'https'} -> {'references', 'www'}, confidence: 0.8821
+Rule: {'www', 'cite'} -> {'references', 'https'}, confidence: 0.9149
+Rule: {'www', 'https'} -> {'references', 'cite'}, confidence: 0.8687
+Rule: {'references', 'cite', 'https'} -> {'www'}, confidence: 0.9348
+Rule: {'references', 'www', 'cite'} -> {'https'}, confidence: 0.9663
+Rule: {'references', 'www', 'https'} -> {'cite'}, confidence: 0.9348
+Rule: {'www', 'cite', 'https'} -> {'references'}, confidence: 0.9503
+Rule: {'references'} -> {'title', 'web', 'https'}, confidence: 0.6880
+Rule: {'https'} -> {'references', 'title', 'web'}, confidence: 0.7818
+Rule: {'title'} -> {'references', 'web', 'https'}, confidence: 0.7227
+Rule: {'web'} -> {'references', 'title', 'https'}, confidence: 0.7748
+Rule: {'references', 'https'} -> {'title', 'web'}, confidence: 0.8600
+Rule: {'references', 'title'} -> {'web', 'https'}, confidence: 0.8390
+Rule: {'references', 'web'} -> {'title', 'https'}, confidence: 0.9149
+Rule: {'title', 'https'} -> {'references', 'web'}, confidence: 0.8687
+Rule: {'web', 'https'} -> {'references', 'title'}, confidence: 0.8821
+Rule: {'title', 'web'} -> {'references', 'https'}, confidence: 0.8866
+Rule: {'references', 'title', 'https'} -> {'web'}, confidence: 0.9198
+Rule: {'references', 'web', 'https'} -> {'title'}, confidence: 0.9663
+Rule: {'references', 'title', 'web'} -> {'https'}, confidence: 0.9503
+Rule: {'title', 'web', 'https'} -> {'references'}, confidence: 0.9451
+Rule: {'https'} -> {'url', 'title', 'one'}, confidence: 0.6545
+Rule: {'url'} -> {'title', 'one', 'https'}, confidence: 0.6400
+Rule: {'title'} -> {'url', 'one', 'https'}, confidence: 0.6050
+Rule: {'one'} -> {'url', 'title', 'https'}, confidence: 0.4865
+Rule: {'url', 'https'} -> {'title', 'one'}, confidence: 0.6957
+Rule: {'title', 'https'} -> {'url', 'one'}, confidence: 0.7273
+Rule: {'one', 'https'} -> {'url', 'title'}, confidence: 0.9114
+Rule: {'url', 'title'} -> {'one', 'https'}, confidence: 0.6890
+Rule: {'url', 'one'} -> {'title', 'https'}, confidence: 0.9057
+Rule: {'title', 'one'} -> {'url', 'https'}, confidence: 0.8471
+Rule: {'url', 'title', 'https'} -> {'one'}, confidence: 0.7347
+Rule: {'url', 'one', 'https'} -> {'title'}, confidence: 0.9730
+Rule: {'title', 'one', 'https'} -> {'url'}, confidence: 0.9863
+Rule: {'url', 'title', 'one'} -> {'https'}, confidence: 0.9412
+Rule: {'cite'} -> {'url', 'title', 'thumb'}, confidence: 0.6872
+Rule: {'url'} -> {'title', 'cite', 'thumb'}, confidence: 0.6444
+Rule: {'title'} -> {'url', 'cite', 'thumb'}, confidence: 0.6092
+Rule: {'thumb'} -> {'url', 'title', 'cite'}, confidence: 0.5235
+Rule: {'url', 'cite'} -> {'title', 'thumb'}, confidence: 0.7005
+Rule: {'title', 'cite'} -> {'url', 'thumb'}, confidence: 0.6872
+Rule: {'cite', 'thumb'} -> {'url', 'title'}, confidence: 0.9864
+Rule: {'url', 'title'} -> {'cite', 'thumb'}, confidence: 0.6938
+Rule: {'url', 'thumb'} -> {'title', 'cite'}, confidence: 0.9477
+Rule: {'title', 'thumb'} -> {'url', 'cite'}, confidence: 0.9236
+Rule: {'url', 'title', 'cite'} -> {'thumb'}, confidence: 0.7005
+Rule: {'url', 'cite', 'thumb'} -> {'title'}, confidence: 1.0000
+Rule: {'title', 'cite', 'thumb'} -> {'url'}, confidence: 0.9864
+Rule: {'url', 'title', 'thumb'} -> {'cite'}, confidence: 1.0000
+Rule: {'references'} -> {'title', 'cite', 'people'}, confidence: 0.5920
+Rule: {'cite'} -> {'references', 'title', 'people'}, confidence: 0.7014
+Rule: {'title'} -> {'references', 'cite', 'people'}, confidence: 0.6218
+Rule: {'people'} -> {'references', 'title', 'cite'}, confidence: 0.4554
+Rule: {'references', 'cite'} -> {'title', 'people'}, confidence: 0.7475
+Rule: {'references', 'title'} -> {'cite', 'people'}, confidence: 0.7220
+Rule: {'references', 'people'} -> {'title', 'cite'}, confidence: 0.8043
+Rule: {'title', 'cite'} -> {'references', 'people'}, confidence: 0.7014
+Rule: {'cite', 'people'} -> {'references', 'title'}, confidence: 0.9548
+Rule: {'title', 'people'} -> {'references', 'cite'}, confidence: 0.8862
+Rule: {'references', 'title', 'cite'} -> {'people'}, confidence: 0.7475
+Rule: {'references', 'cite', 'people'} -> {'title'}, confidence: 1.0000
+Rule: {'references', 'title', 'people'} -> {'cite'}, confidence: 0.9737
+Rule: {'title', 'cite', 'people'} -> {'references'}, confidence: 0.9548
+Rule: {'references'} -> {'web', 'www', 'cite'}, confidence: 0.6760
+Rule: {'cite'} -> {'references', 'www', 'web'}, confidence: 0.8009
+Rule: {'www'} -> {'references', 'web', 'cite'}, confidence: 0.7717
+Rule: {'web'} -> {'references', 'www', 'cite'}, confidence: 0.7613
+Rule: {'references', 'cite'} -> {'www', 'web'}, confidence: 0.8535
+Rule: {'references', 'www'} -> {'web', 'cite'}, confidence: 0.8711
+Rule: {'references', 'web'} -> {'www', 'cite'}, confidence: 0.8989
+Rule: {'www', 'cite'} -> {'references', 'web'}, confidence: 0.8989
+Rule: {'web', 'cite'} -> {'references', 'www'}, confidence: 0.8848
+Rule: {'www', 'web'} -> {'references', 'cite'}, confidence: 0.8848
+Rule: {'references', 'www', 'cite'} -> {'web'}, confidence: 0.9494
+Rule: {'references', 'web', 'cite'} -> {'www'}, confidence: 0.9389
+Rule: {'references', 'www', 'web'} -> {'cite'}, confidence: 0.9657
+Rule: {'web', 'www', 'cite'} -> {'references'}, confidence: 0.9494
+Rule: {'https'} -> {'www', 'title', 'web'}, confidence: 0.7818
+Rule: {'www'} -> {'title', 'web', 'https'}, confidence: 0.7854
+Rule: {'title'} -> {'www', 'web', 'https'}, confidence: 0.7227
+Rule: {'web'} -> {'www', 'title', 'https'}, confidence: 0.7748
+Rule: {'www', 'https'} -> {'title', 'web'}, confidence: 0.8687
+Rule: {'title', 'https'} -> {'www', 'web'}, confidence: 0.8687
+Rule: {'web', 'https'} -> {'www', 'title'}, confidence: 0.8821
+Rule: {'www', 'title'} -> {'web', 'https'}, confidence: 0.8821
+Rule: {'www', 'web'} -> {'title', 'https'}, confidence: 0.9005
+Rule: {'title', 'web'} -> {'www', 'https'}, confidence: 0.8866
+Rule: {'www', 'title', 'https'} -> {'web'}, confidence: 0.9399
+Rule: {'www', 'web', 'https'} -> {'title'}, confidence: 0.9451
+Rule: {'title', 'web', 'https'} -> {'www'}, confidence: 0.9451
+Rule: {'www', 'title', 'web'} -> {'https'}, confidence: 0.9556
+Rule: {'www'} -> {'url', 'title', 'web'}, confidence: 0.8174
+Rule: {'url'} -> {'www', 'title', 'web'}, confidence: 0.7956
+Rule: {'title'} -> {'www', 'url', 'web'}, confidence: 0.7521
+Rule: {'web'} -> {'www', 'url', 'title'}, confidence: 0.8063
+Rule: {'www', 'url'} -> {'title', 'web'}, confidence: 0.8995
+Rule: {'www', 'title'} -> {'url', 'web'}, confidence: 0.9179
+Rule: {'www', 'web'} -> {'url', 'title'}, confidence: 0.9372
+Rule: {'url', 'title'} -> {'www', 'web'}, confidence: 0.8565
+Rule: {'url', 'web'} -> {'www', 'title'}, confidence: 0.8689
+Rule: {'title', 'web'} -> {'www', 'url'}, confidence: 0.9227
+Rule: {'www', 'url', 'title'} -> {'web'}, confidence: 0.9471
+Rule: {'www', 'url', 'web'} -> {'title'}, confidence: 0.9471
+Rule: {'www', 'title', 'web'} -> {'url'}, confidence: 0.9944
+Rule: {'url', 'title', 'web'} -> {'www'}, confidence: 0.9323
+Rule: {'references'} -> {'url', 'title', 'cite'}, confidence: 0.7800
+Rule: {'cite'} -> {'references', 'url', 'title'}, confidence: 0.9242
+Rule: {'url'} -> {'references', 'title', 'cite'}, confidence: 0.8667
+Rule: {'title'} -> {'references', 'url', 'cite'}, confidence: 0.8193
+Rule: {'references', 'cite'} -> {'url', 'title'}, confidence: 0.9848
+Rule: {'references', 'url'} -> {'title', 'cite'}, confidence: 0.9606
+Rule: {'references', 'title'} -> {'url', 'cite'}, confidence: 0.9512
+Rule: {'url', 'cite'} -> {'references', 'title'}, confidence: 0.9420
+Rule: {'title', 'cite'} -> {'references', 'url'}, confidence: 0.9242
+Rule: {'url', 'title'} -> {'references', 'cite'}, confidence: 0.9330
+Rule: {'references', 'url', 'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'references', 'title', 'cite'} -> {'url'}, confidence: 0.9848
+Rule: {'references', 'url', 'title'} -> {'cite'}, confidence: 0.9898
+Rule: {'url', 'title', 'cite'} -> {'references'}, confidence: 0.9420
+Rule: {'references'} -> {'www', 'url', 'web'}, confidence: 0.6960
+Rule: {'www'} -> {'references', 'url', 'web'}, confidence: 0.7945
+Rule: {'url'} -> {'references', 'www', 'web'}, confidence: 0.7733
+Rule: {'web'} -> {'references', 'www', 'url'}, confidence: 0.7838
+Rule: {'references', 'www'} -> {'url', 'web'}, confidence: 0.8969
+Rule: {'references', 'url'} -> {'www', 'web'}, confidence: 0.8571
+Rule: {'references', 'web'} -> {'www', 'url'}, confidence: 0.9255
+Rule: {'www', 'url'} -> {'references', 'web'}, confidence: 0.8744
+Rule: {'www', 'web'} -> {'references', 'url'}, confidence: 0.9110
+Rule: {'url', 'web'} -> {'references', 'www'}, confidence: 0.8447
+Rule: {'references', 'www', 'url'} -> {'web'}, confidence: 0.9508
+Rule: {'references', 'www', 'web'} -> {'url'}, confidence: 0.9943
+Rule: {'references', 'url', 'web'} -> {'www'}, confidence: 0.9355
+Rule: {'www', 'url', 'web'} -> {'references'}, confidence: 0.9206
+Rule: {'references'} -> {'url', 'title', 'people'}, confidence: 0.5880
+Rule: {'url'} -> {'references', 'title', 'people'}, confidence: 0.6533
+Rule: {'title'} -> {'references', 'url', 'people'}, confidence: 0.6176
+Rule: {'people'} -> {'references', 'url', 'title'}, confidence: 0.4523
+Rule: {'references', 'url'} -> {'title', 'people'}, confidence: 0.7241
+Rule: {'references', 'title'} -> {'url', 'people'}, confidence: 0.7171
+Rule: {'references', 'people'} -> {'url', 'title'}, confidence: 0.7989
+Rule: {'url', 'title'} -> {'references', 'people'}, confidence: 0.7033
+Rule: {'url', 'people'} -> {'references', 'title'}, confidence: 0.9018
+Rule: {'title', 'people'} -> {'references', 'url'}, confidence: 0.8802
+Rule: {'references', 'url', 'title'} -> {'people'}, confidence: 0.7462
+Rule: {'references', 'url', 'people'} -> {'title'}, confidence: 0.9671
+Rule: {'references', 'title', 'people'} -> {'url'}, confidence: 0.9671
+Rule: {'url', 'title', 'people'} -> {'references'}, confidence: 0.9545
+Rule: {'cite'} -> {'title', 'web', 'https'}, confidence: 0.8578
+Rule: {'https'} -> {'web', 'title', 'cite'}, confidence: 0.8227
+Rule: {'title'} -> {'web', 'cite', 'https'}, confidence: 0.7605
+Rule: {'web'} -> {'title', 'cite', 'https'}, confidence: 0.8153
+Rule: {'cite', 'https'} -> {'title', 'web'}, confidence: 0.9282
+Rule: {'title', 'cite'} -> {'web', 'https'}, confidence: 0.8578
+Rule: {'web', 'cite'} -> {'title', 'https'}, confidence: 0.9476
+Rule: {'title', 'https'} -> {'web', 'cite'}, confidence: 0.9141
+Rule: {'web', 'https'} -> {'title', 'cite'}, confidence: 0.9282
+Rule: {'title', 'web'} -> {'cite', 'https'}, confidence: 0.9330
+Rule: {'title', 'cite', 'https'} -> {'web'}, confidence: 0.9282
+Rule: {'web', 'cite', 'https'} -> {'title'}, confidence: 1.0000
+Rule: {'web', 'title', 'cite'} -> {'https'}, confidence: 0.9476
+Rule: {'title', 'web', 'https'} -> {'cite'}, confidence: 0.9945
+Rule: {'cite'} -> {'url', 'title', 'web'}, confidence: 0.9052
+Rule: {'url'} -> {'web', 'title', 'cite'}, confidence: 0.8489
+Rule: {'title'} -> {'web', 'url', 'cite'}, confidence: 0.8025
+Rule: {'web'} -> {'url', 'title', 'cite'}, confidence: 0.8604
+Rule: {'url', 'cite'} -> {'title', 'web'}, confidence: 0.9227
+Rule: {'title', 'cite'} -> {'url', 'web'}, confidence: 0.9052
+Rule: {'web', 'cite'} -> {'url', 'title'}, confidence: 1.0000
+Rule: {'url', 'title'} -> {'web', 'cite'}, confidence: 0.9139
+Rule: {'url', 'web'} -> {'title', 'cite'}, confidence: 0.9272
+Rule: {'title', 'web'} -> {'url', 'cite'}, confidence: 0.9845
+Rule: {'url', 'title', 'cite'} -> {'web'}, confidence: 0.9227
+Rule: {'web', 'url', 'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'web', 'title', 'cite'} -> {'url'}, confidence: 1.0000
+Rule: {'url', 'title', 'web'} -> {'cite'}, confidence: 0.9948
+Rule: {'date'} -> {'http', 'www', 'web'}, confidence: 0.6239
+Rule: {'http'} -> {'date', 'www', 'web'}, confidence: 0.7565
+Rule: {'www'} -> {'date', 'http', 'web'}, confidence: 0.6667
+Rule: {'web'} -> {'date', 'http', 'www'}, confidence: 0.6577
+Rule: {'date', 'http'} -> {'www', 'web'}, confidence: 0.9012
+Rule: {'date', 'www'} -> {'http', 'web'}, confidence: 0.7684
+Rule: {'date', 'web'} -> {'http', 'www'}, confidence: 0.7684
+Rule: {'http', 'www'} -> {'date', 'web'}, confidence: 0.8439
+Rule: {'http', 'web'} -> {'date', 'www'}, confidence: 0.8902
+Rule: {'www', 'web'} -> {'date', 'http'}, confidence: 0.7644
+Rule: {'date', 'http', 'www'} -> {'web'}, confidence: 0.9542
+Rule: {'date', 'http', 'web'} -> {'www'}, confidence: 0.9669
+Rule: {'date', 'www', 'web'} -> {'http'}, confidence: 0.8249
+Rule: {'http', 'www', 'web'} -> {'date'}, confidence: 0.9359
+Rule: {'date'} -> {'http', 'title', 'cite'}, confidence: 0.6282
+Rule: {'cite'} -> {'date', 'http', 'title'}, confidence: 0.6967
+Rule: {'http'} -> {'date', 'title', 'cite'}, confidence: 0.7617
+Rule: {'title'} -> {'date', 'http', 'cite'}, confidence: 0.6176
+Rule: {'date', 'cite'} -> {'http', 'title'}, confidence: 0.7737
+Rule: {'date', 'http'} -> {'title', 'cite'}, confidence: 0.9074
+Rule: {'date', 'title'} -> {'http', 'cite'}, confidence: 0.7500
+Rule: {'http', 'cite'} -> {'date', 'title'}, confidence: 0.9304
+Rule: {'title', 'cite'} -> {'date', 'http'}, confidence: 0.6967
+Rule: {'http', 'title'} -> {'date', 'cite'}, confidence: 0.8963
+Rule: {'date', 'http', 'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'date', 'title', 'cite'} -> {'http'}, confidence: 0.7737
+Rule: {'date', 'http', 'title'} -> {'cite'}, confidence: 0.9866
+Rule: {'http', 'title', 'cite'} -> {'date'}, confidence: 0.9304
+Rule: {'references'} -> {'date', 'url', 'web'}, confidence: 0.7040
+Rule: {'date'} -> {'references', 'url', 'web'}, confidence: 0.7521
+Rule: {'url'} -> {'references', 'date', 'web'}, confidence: 0.7822
+Rule: {'web'} -> {'references', 'date', 'url'}, confidence: 0.7928
+Rule: {'references', 'date'} -> {'url', 'web'}, confidence: 0.8980
+Rule: {'references', 'url'} -> {'date', 'web'}, confidence: 0.8670
+Rule: {'references', 'web'} -> {'date', 'url'}, confidence: 0.9362
+Rule: {'date', 'url'} -> {'references', 'web'}, confidence: 0.8713
+Rule: {'date', 'web'} -> {'references', 'url'}, confidence: 0.9263
+Rule: {'url', 'web'} -> {'references', 'date'}, confidence: 0.8544
+Rule: {'references', 'date', 'url'} -> {'web'}, confidence: 0.9412
+Rule: {'references', 'date', 'web'} -> {'url'}, confidence: 1.0000
+Rule: {'references', 'url', 'web'} -> {'date'}, confidence: 0.9462
+Rule: {'date', 'url', 'web'} -> {'references'}, confidence: 0.9263
+Rule: {'date'} -> {'url', 'title', 'web'}, confidence: 0.7650
+Rule: {'url'} -> {'date', 'title', 'web'}, confidence: 0.7956
+Rule: {'title'} -> {'date', 'url', 'web'}, confidence: 0.7521
+Rule: {'web'} -> {'date', 'url', 'title'}, confidence: 0.8063
+Rule: {'date', 'url'} -> {'title', 'web'}, confidence: 0.8861
+Rule: {'date', 'title'} -> {'url', 'web'}, confidence: 0.9133
+Rule: {'date', 'web'} -> {'url', 'title'}, confidence: 0.9421
+Rule: {'url', 'title'} -> {'date', 'web'}, confidence: 0.8565
+Rule: {'url', 'web'} -> {'date', 'title'}, confidence: 0.8689
+Rule: {'title', 'web'} -> {'date', 'url'}, confidence: 0.9227
+Rule: {'date', 'url', 'title'} -> {'web'}, confidence: 0.9421
+Rule: {'date', 'url', 'web'} -> {'title'}, confidence: 0.9421
+Rule: {'date', 'title', 'web'} -> {'url'}, confidence: 1.0000
+Rule: {'url', 'title', 'web'} -> {'date'}, confidence: 0.9323
+Rule: {'date'} -> {'www', 'cite', 'https'}, confidence: 0.7265
+Rule: {'cite'} -> {'date', 'www', 'https'}, confidence: 0.8057
+Rule: {'https'} -> {'date', 'www', 'cite'}, confidence: 0.7727
+Rule: {'www'} -> {'date', 'cite', 'https'}, confidence: 0.7763
+Rule: {'date', 'cite'} -> {'www', 'https'}, confidence: 0.8947
+Rule: {'date', 'https'} -> {'www', 'cite'}, confidence: 0.8629
+Rule: {'date', 'www'} -> {'cite', 'https'}, confidence: 0.8947
+Rule: {'cite', 'https'} -> {'date', 'www'}, confidence: 0.8718
+Rule: {'www', 'cite'} -> {'date', 'https'}, confidence: 0.9043
+Rule: {'www', 'https'} -> {'date', 'cite'}, confidence: 0.8586
+Rule: {'date', 'cite', 'https'} -> {'www'}, confidence: 0.9392
+Rule: {'date', 'www', 'cite'} -> {'https'}, confidence: 0.9770
+Rule: {'date', 'www', 'https'} -> {'cite'}, confidence: 0.9290
+Rule: {'www', 'cite', 'https'} -> {'date'}, confidence: 0.9392
+Rule: {'date'} -> {'www', 'url', 'cite'}, confidence: 0.7436
+Rule: {'cite'} -> {'date', 'www', 'url'}, confidence: 0.8246
+Rule: {'www'} -> {'date', 'url', 'cite'}, confidence: 0.7945
+Rule: {'url'} -> {'date', 'www', 'cite'}, confidence: 0.7733
+Rule: {'date', 'cite'} -> {'www', 'url'}, confidence: 0.9158
+Rule: {'date', 'www'} -> {'url', 'cite'}, confidence: 0.9158
+Rule: {'date', 'url'} -> {'www', 'cite'}, confidence: 0.8614
+Rule: {'www', 'cite'} -> {'date', 'url'}, confidence: 0.9255
+Rule: {'url', 'cite'} -> {'date', 'www'}, confidence: 0.8406
+Rule: {'www', 'url'} -> {'date', 'cite'}, confidence: 0.8744
+Rule: {'date', 'www', 'cite'} -> {'url'}, confidence: 1.0000
+Rule: {'date', 'url', 'cite'} -> {'www'}, confidence: 0.9255
+Rule: {'date', 'www', 'url'} -> {'cite'}, confidence: 0.9405
+Rule: {'www', 'url', 'cite'} -> {'date'}, confidence: 0.9305
+Rule: {'date'} -> {'title', 'web', 'https'}, confidence: 0.7436
+Rule: {'https'} -> {'date', 'title', 'web'}, confidence: 0.7909
+Rule: {'title'} -> {'date', 'web', 'https'}, confidence: 0.7311
+Rule: {'web'} -> {'date', 'title', 'https'}, confidence: 0.7838
+Rule: {'date', 'https'} -> {'title', 'web'}, confidence: 0.8832
+Rule: {'date', 'title'} -> {'web', 'https'}, confidence: 0.8878
+Rule: {'date', 'web'} -> {'title', 'https'}, confidence: 0.9158
+Rule: {'title', 'https'} -> {'date', 'web'}, confidence: 0.8788
+Rule: {'web', 'https'} -> {'date', 'title'}, confidence: 0.8923
+Rule: {'title', 'web'} -> {'date', 'https'}, confidence: 0.8969
+Rule: {'date', 'title', 'https'} -> {'web'}, confidence: 0.9457
+Rule: {'date', 'web', 'https'} -> {'title'}, confidence: 0.9405
+Rule: {'date', 'title', 'web'} -> {'https'}, confidence: 0.9721
+Rule: {'title', 'web', 'https'} -> {'date'}, confidence: 0.9560
+Rule: {'references'} -> {'date', 'cite', 'web'}, confidence: 0.6800
+Rule: {'date'} -> {'references', 'web', 'cite'}, confidence: 0.7265
+Rule: {'cite'} -> {'references', 'date', 'web'}, confidence: 0.8057
+Rule: {'web'} -> {'references', 'date', 'cite'}, confidence: 0.7658
+Rule: {'references', 'date'} -> {'web', 'cite'}, confidence: 0.8673
+Rule: {'references', 'cite'} -> {'date', 'web'}, confidence: 0.8586
+Rule: {'references', 'web'} -> {'date', 'cite'}, confidence: 0.9043
+Rule: {'date', 'cite'} -> {'references', 'web'}, confidence: 0.8947
+Rule: {'date', 'web'} -> {'references', 'cite'}, confidence: 0.8947
+Rule: {'web', 'cite'} -> {'references', 'date'}, confidence: 0.8901
+Rule: {'references', 'date', 'cite'} -> {'web'}, confidence: 0.9392
+Rule: {'references', 'date', 'web'} -> {'cite'}, confidence: 0.9659
+Rule: {'references', 'web', 'cite'} -> {'date'}, confidence: 0.9444
+Rule: {'date', 'cite', 'web'} -> {'references'}, confidence: 0.9551
+Rule: {'references'} -> {'date', 'www', 'title'}, confidence: 0.6800
+Rule: {'date'} -> {'references', 'www', 'title'}, confidence: 0.7265
+Rule: {'www'} -> {'references', 'date', 'title'}, confidence: 0.7763
+Rule: {'title'} -> {'references', 'date', 'www'}, confidence: 0.7143
+Rule: {'references', 'date'} -> {'www', 'title'}, confidence: 0.8673
+Rule: {'references', 'www'} -> {'date', 'title'}, confidence: 0.8763
+Rule: {'references', 'title'} -> {'date', 'www'}, confidence: 0.8293
+Rule: {'date', 'www'} -> {'references', 'title'}, confidence: 0.8947
+Rule: {'date', 'title'} -> {'references', 'www'}, confidence: 0.8673
+Rule: {'www', 'title'} -> {'references', 'date'}, confidence: 0.8718
+Rule: {'references', 'date', 'www'} -> {'title'}, confidence: 0.9605
+Rule: {'references', 'date', 'title'} -> {'www'}, confidence: 0.9189
+Rule: {'references', 'www', 'title'} -> {'date'}, confidence: 0.9392
+Rule: {'date', 'www', 'title'} -> {'references'}, confidence: 0.9605
+Rule: {'references'} -> {'date', 'cite', 'https'}, confidence: 0.6960
+Rule: {'date'} -> {'references', 'cite', 'https'}, confidence: 0.7436
+Rule: {'cite'} -> {'references', 'date', 'https'}, confidence: 0.8246
+Rule: {'https'} -> {'references', 'date', 'cite'}, confidence: 0.7909
+Rule: {'references', 'date'} -> {'cite', 'https'}, confidence: 0.8878
+Rule: {'references', 'cite'} -> {'date', 'https'}, confidence: 0.8788
+Rule: {'references', 'https'} -> {'date', 'cite'}, confidence: 0.8700
+Rule: {'date', 'cite'} -> {'references', 'https'}, confidence: 0.9158
+Rule: {'date', 'https'} -> {'references', 'cite'}, confidence: 0.8832
+Rule: {'cite', 'https'} -> {'references', 'date'}, confidence: 0.8923
+Rule: {'references', 'date', 'cite'} -> {'https'}, confidence: 0.9613
+Rule: {'references', 'date', 'https'} -> {'cite'}, confidence: 0.9457
+Rule: {'references', 'cite', 'https'} -> {'date'}, confidence: 0.9457
+Rule: {'date', 'cite', 'https'} -> {'references'}, confidence: 0.9613
+Rule: {'date'} -> {'web', 'cite', 'https'}, confidence: 0.7393
+Rule: {'cite'} -> {'date', 'web', 'https'}, confidence: 0.8199
+Rule: {'https'} -> {'date', 'cite', 'web'}, confidence: 0.7864
+Rule: {'web'} -> {'date', 'cite', 'https'}, confidence: 0.7793
+Rule: {'date', 'cite'} -> {'web', 'https'}, confidence: 0.9105
+Rule: {'date', 'https'} -> {'web', 'cite'}, confidence: 0.8782
+Rule: {'date', 'web'} -> {'cite', 'https'}, confidence: 0.9105
+Rule: {'cite', 'https'} -> {'date', 'web'}, confidence: 0.8872
+Rule: {'web', 'cite'} -> {'date', 'https'}, confidence: 0.9058
+Rule: {'web', 'https'} -> {'date', 'cite'}, confidence: 0.8872
+Rule: {'date', 'cite', 'https'} -> {'web'}, confidence: 0.9558
+Rule: {'date', 'cite', 'web'} -> {'https'}, confidence: 0.9719
+Rule: {'date', 'web', 'https'} -> {'cite'}, confidence: 0.9351
+Rule: {'web', 'cite', 'https'} -> {'date'}, confidence: 0.9558
+Rule: {'date'} -> {'www', 'url', 'title'}, confidence: 0.7521
+Rule: {'www'} -> {'date', 'url', 'title'}, confidence: 0.8037
+Rule: {'url'} -> {'date', 'www', 'title'}, confidence: 0.7822
+Rule: {'title'} -> {'date', 'www', 'url'}, confidence: 0.7395
+Rule: {'date', 'www'} -> {'url', 'title'}, confidence: 0.9263
+Rule: {'date', 'url'} -> {'www', 'title'}, confidence: 0.8713
+Rule: {'date', 'title'} -> {'www', 'url'}, confidence: 0.8980
+Rule: {'www', 'url'} -> {'date', 'title'}, confidence: 0.8844
+Rule: {'www', 'title'} -> {'date', 'url'}, confidence: 0.9026
+Rule: {'url', 'title'} -> {'date', 'www'}, confidence: 0.8421
+Rule: {'date', 'www', 'url'} -> {'title'}, confidence: 0.9514
+Rule: {'date', 'www', 'title'} -> {'url'}, confidence: 0.9944
+Rule: {'date', 'url', 'title'} -> {'www'}, confidence: 0.9263
+Rule: {'www', 'url', 'title'} -> {'date'}, confidence: 0.9312
+Rule: {'date'} -> {'www', 'title', 'https'}, confidence: 0.7350
+Rule: {'https'} -> {'date', 'www', 'title'}, confidence: 0.7818
+Rule: {'www'} -> {'date', 'title', 'https'}, confidence: 0.7854
+Rule: {'title'} -> {'date', 'www', 'https'}, confidence: 0.7227
+Rule: {'date', 'https'} -> {'www', 'title'}, confidence: 0.8731
+Rule: {'date', 'www'} -> {'title', 'https'}, confidence: 0.9053
+Rule: {'date', 'title'} -> {'www', 'https'}, confidence: 0.8776
+Rule: {'www', 'https'} -> {'date', 'title'}, confidence: 0.8687
+Rule: {'title', 'https'} -> {'date', 'www'}, confidence: 0.8687
+Rule: {'www', 'title'} -> {'date', 'https'}, confidence: 0.8821
+Rule: {'date', 'www', 'https'} -> {'title'}, confidence: 0.9399
+Rule: {'date', 'title', 'https'} -> {'www'}, confidence: 0.9348
+Rule: {'date', 'www', 'title'} -> {'https'}, confidence: 0.9718
+Rule: {'www', 'title', 'https'} -> {'date'}, confidence: 0.9399
+Rule: {'date'} -> {'web', 'url', 'cite'}, confidence: 0.7607
+Rule: {'cite'} -> {'date', 'url', 'web'}, confidence: 0.8436
+Rule: {'url'} -> {'date', 'cite', 'web'}, confidence: 0.7911
+Rule: {'web'} -> {'date', 'url', 'cite'}, confidence: 0.8018
+Rule: {'date', 'cite'} -> {'url', 'web'}, confidence: 0.9368
+Rule: {'date', 'url'} -> {'web', 'cite'}, confidence: 0.8812
+Rule: {'date', 'web'} -> {'url', 'cite'}, confidence: 0.9368
+Rule: {'url', 'cite'} -> {'date', 'web'}, confidence: 0.8599
+Rule: {'web', 'cite'} -> {'date', 'url'}, confidence: 0.9319
+Rule: {'url', 'web'} -> {'date', 'cite'}, confidence: 0.8641
+Rule: {'date', 'url', 'cite'} -> {'web'}, confidence: 0.9468
+Rule: {'date', 'cite', 'web'} -> {'url'}, confidence: 1.0000
+Rule: {'date', 'url', 'web'} -> {'cite'}, confidence: 0.9368
+Rule: {'web', 'url', 'cite'} -> {'date'}, confidence: 0.9319
+Rule: {'references'} -> {'date', 'www', 'url'}, confidence: 0.6960
+Rule: {'date'} -> {'references', 'www', 'url'}, confidence: 0.7436
+Rule: {'www'} -> {'references', 'date', 'url'}, confidence: 0.7945
+Rule: {'url'} -> {'references', 'date', 'www'}, confidence: 0.7733
+Rule: {'references', 'date'} -> {'www', 'url'}, confidence: 0.8878
+Rule: {'references', 'www'} -> {'date', 'url'}, confidence: 0.8969
+Rule: {'references', 'url'} -> {'date', 'www'}, confidence: 0.8571
+Rule: {'date', 'www'} -> {'references', 'url'}, confidence: 0.9158
+Rule: {'date', 'url'} -> {'references', 'www'}, confidence: 0.8614
+Rule: {'www', 'url'} -> {'references', 'date'}, confidence: 0.8744
+Rule: {'references', 'date', 'www'} -> {'url'}, confidence: 0.9831
+Rule: {'references', 'date', 'url'} -> {'www'}, confidence: 0.9305
+Rule: {'references', 'www', 'url'} -> {'date'}, confidence: 0.9508
+Rule: {'date', 'www', 'url'} -> {'references'}, confidence: 0.9405
+Rule: {'date'} -> {'url', 'web', 'https'}, confidence: 0.7906
+Rule: {'https'} -> {'date', 'url', 'web'}, confidence: 0.8409
+Rule: {'url'} -> {'date', 'web', 'https'}, confidence: 0.8222
+Rule: {'web'} -> {'date', 'url', 'https'}, confidence: 0.8333
+Rule: {'date', 'https'} -> {'url', 'web'}, confidence: 0.9391
+Rule: {'date', 'url'} -> {'web', 'https'}, confidence: 0.9158
+Rule: {'date', 'web'} -> {'url', 'https'}, confidence: 0.9737
+Rule: {'url', 'https'} -> {'date', 'web'}, confidence: 0.8937
+Rule: {'web', 'https'} -> {'date', 'url'}, confidence: 0.9487
+Rule: {'url', 'web'} -> {'date', 'https'}, confidence: 0.8981
+Rule: {'date', 'url', 'https'} -> {'web'}, confidence: 0.9536
+Rule: {'date', 'web', 'https'} -> {'url'}, confidence: 1.0000
+Rule: {'date', 'url', 'web'} -> {'https'}, confidence: 0.9737
+Rule: {'url', 'web', 'https'} -> {'date'}, confidence: 0.9585
+Rule: {'date'} -> {'www', 'title', 'cite'}, confidence: 0.7436
+Rule: {'cite'} -> {'date', 'www', 'title'}, confidence: 0.8246
+Rule: {'www'} -> {'date', 'title', 'cite'}, confidence: 0.7945
+Rule: {'title'} -> {'date', 'www', 'cite'}, confidence: 0.7311
+Rule: {'date', 'cite'} -> {'www', 'title'}, confidence: 0.9158
+Rule: {'date', 'www'} -> {'title', 'cite'}, confidence: 0.9158
+Rule: {'date', 'title'} -> {'www', 'cite'}, confidence: 0.8878
+Rule: {'www', 'cite'} -> {'date', 'title'}, confidence: 0.9255
+Rule: {'title', 'cite'} -> {'date', 'www'}, confidence: 0.8246
+Rule: {'www', 'title'} -> {'date', 'cite'}, confidence: 0.8923
+Rule: {'date', 'www', 'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'date', 'title', 'cite'} -> {'www'}, confidence: 0.9158
+Rule: {'date', 'www', 'title'} -> {'cite'}, confidence: 0.9831
+Rule: {'www', 'title', 'cite'} -> {'date'}, confidence: 0.9255
+Rule: {'cite'} -> {'www', 'title', 'https'}, confidence: 0.8578
+Rule: {'https'} -> {'www', 'title', 'cite'}, confidence: 0.8227
+Rule: {'www'} -> {'title', 'cite', 'https'}, confidence: 0.8265
+Rule: {'title'} -> {'www', 'cite', 'https'}, confidence: 0.7605
+Rule: {'cite', 'https'} -> {'www', 'title'}, confidence: 0.9282
+Rule: {'www', 'cite'} -> {'title', 'https'}, confidence: 0.9628
+Rule: {'title', 'cite'} -> {'www', 'https'}, confidence: 0.8578
+Rule: {'www', 'https'} -> {'title', 'cite'}, confidence: 0.9141
+Rule: {'title', 'https'} -> {'www', 'cite'}, confidence: 0.9141
+Rule: {'www', 'title'} -> {'cite', 'https'}, confidence: 0.9282
+Rule: {'www', 'cite', 'https'} -> {'title'}, confidence: 1.0000
+Rule: {'title', 'cite', 'https'} -> {'www'}, confidence: 0.9282
+Rule: {'www', 'title', 'cite'} -> {'https'}, confidence: 0.9628
+Rule: {'www', 'title', 'https'} -> {'cite'}, confidence: 0.9891
+Rule: {'cite'} -> {'www', 'url', 'title'}, confidence: 0.8863
+Rule: {'www'} -> {'url', 'title', 'cite'}, confidence: 0.8539
+Rule: {'url'} -> {'www', 'title', 'cite'}, confidence: 0.8311
+Rule: {'title'} -> {'www', 'url', 'cite'}, confidence: 0.7857
+Rule: {'www', 'cite'} -> {'url', 'title'}, confidence: 0.9947
+Rule: {'url', 'cite'} -> {'www', 'title'}, confidence: 0.9034
+Rule: {'title', 'cite'} -> {'www', 'url'}, confidence: 0.8863
+Rule: {'www', 'url'} -> {'title', 'cite'}, confidence: 0.9397
+Rule: {'www', 'title'} -> {'url', 'cite'}, confidence: 0.9590
+Rule: {'url', 'title'} -> {'www', 'cite'}, confidence: 0.8947
+Rule: {'www', 'url', 'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'www', 'title', 'cite'} -> {'url'}, confidence: 0.9947
+Rule: {'url', 'title', 'cite'} -> {'www'}, confidence: 0.9034
+Rule: {'www', 'url', 'title'} -> {'cite'}, confidence: 0.9894
+Rule: {'references'} -> {'www', 'url', 'https'}, confidence: 0.7080
+Rule: {'https'} -> {'references', 'www', 'url'}, confidence: 0.8045
+Rule: {'www'} -> {'references', 'url', 'https'}, confidence: 0.8082
+Rule: {'url'} -> {'references', 'www', 'https'}, confidence: 0.7867
+Rule: {'references', 'https'} -> {'www', 'url'}, confidence: 0.8850
+Rule: {'references', 'www'} -> {'url', 'https'}, confidence: 0.9124
+Rule: {'references', 'url'} -> {'www', 'https'}, confidence: 0.8719
+Rule: {'www', 'https'} -> {'references', 'url'}, confidence: 0.8939
+Rule: {'url', 'https'} -> {'references', 'www'}, confidence: 0.8551
+Rule: {'www', 'url'} -> {'references', 'https'}, confidence: 0.8894
+Rule: {'references', 'www', 'https'} -> {'url'}, confidence: 0.9620
+Rule: {'references', 'url', 'https'} -> {'www'}, confidence: 0.9316
+Rule: {'references', 'www', 'url'} -> {'https'}, confidence: 0.9672
+Rule: {'www', 'url', 'https'} -> {'references'}, confidence: 0.9267
+Rule: {'https'} -> {'www', 'url', 'title'}, confidence: 0.8273
+Rule: {'www'} -> {'url', 'title', 'https'}, confidence: 0.8311
+Rule: {'url'} -> {'www', 'title', 'https'}, confidence: 0.8089
+Rule: {'title'} -> {'www', 'url', 'https'}, confidence: 0.7647
+Rule: {'www', 'https'} -> {'url', 'title'}, confidence: 0.9192
+Rule: {'url', 'https'} -> {'www', 'title'}, confidence: 0.8792
+Rule: {'title', 'https'} -> {'www', 'url'}, confidence: 0.9192
+Rule: {'www', 'url'} -> {'title', 'https'}, confidence: 0.9146
+Rule: {'www', 'title'} -> {'url', 'https'}, confidence: 0.9333
+Rule: {'url', 'title'} -> {'www', 'https'}, confidence: 0.8708
+Rule: {'www', 'url', 'https'} -> {'title'}, confidence: 0.9529
+Rule: {'www', 'title', 'https'} -> {'url'}, confidence: 0.9945
+Rule: {'url', 'title', 'https'} -> {'www'}, confidence: 0.9286
+Rule: {'www', 'url', 'title'} -> {'https'}, confidence: 0.9630
+Rule: {'cite'} -> {'title', 'one', 'https'}, confidence: 0.6872
+Rule: {'https'} -> {'one', 'title', 'cite'}, confidence: 0.6591
+Rule: {'title'} -> {'one', 'cite', 'https'}, confidence: 0.6092
+Rule: {'one'} -> {'title', 'cite', 'https'}, confidence: 0.4899
+Rule: {'cite', 'https'} -> {'title', 'one'}, confidence: 0.7436
+Rule: {'title', 'cite'} -> {'one', 'https'}, confidence: 0.6872
+Rule: {'one', 'cite'} -> {'title', 'https'}, confidence: 0.9295
+Rule: {'title', 'https'} -> {'one', 'cite'}, confidence: 0.7323
+Rule: {'one', 'https'} -> {'title', 'cite'}, confidence: 0.9177
+Rule: {'title', 'one'} -> {'cite', 'https'}, confidence: 0.8529
+Rule: {'title', 'cite', 'https'} -> {'one'}, confidence: 0.7436
+Rule: {'one', 'cite', 'https'} -> {'title'}, confidence: 1.0000
+Rule: {'one', 'title', 'cite'} -> {'https'}, confidence: 0.9295
+Rule: {'title', 'one', 'https'} -> {'cite'}, confidence: 0.9932
+Rule: {'cite'} -> {'url', 'web', 'https'}, confidence: 0.8578
+Rule: {'https'} -> {'web', 'url', 'cite'}, confidence: 0.8227
+Rule: {'url'} -> {'web', 'cite', 'https'}, confidence: 0.8044
+Rule: {'web'} -> {'url', 'cite', 'https'}, confidence: 0.8153
+Rule: {'cite', 'https'} -> {'url', 'web'}, confidence: 0.9282
+Rule: {'url', 'cite'} -> {'web', 'https'}, confidence: 0.8744
+Rule: {'web', 'cite'} -> {'url', 'https'}, confidence: 0.9476
+Rule: {'url', 'https'} -> {'web', 'cite'}, confidence: 0.8744
+Rule: {'web', 'https'} -> {'url', 'cite'}, confidence: 0.9282
+Rule: {'url', 'web'} -> {'cite', 'https'}, confidence: 0.8786
+Rule: {'url', 'cite', 'https'} -> {'web'}, confidence: 0.9330
+Rule: {'web', 'cite', 'https'} -> {'url'}, confidence: 1.0000
+Rule: {'web', 'url', 'cite'} -> {'https'}, confidence: 0.9476
+Rule: {'url', 'web', 'https'} -> {'cite'}, confidence: 0.9378
+Rule: {'references'} -> {'www', 'title', 'web'}, confidence: 0.6800
+Rule: {'www'} -> {'references', 'title', 'web'}, confidence: 0.7763
+Rule: {'title'} -> {'references', 'www', 'web'}, confidence: 0.7143
+Rule: {'web'} -> {'references', 'www', 'title'}, confidence: 0.7658
+Rule: {'references', 'www'} -> {'title', 'web'}, confidence: 0.8763
+Rule: {'references', 'title'} -> {'www', 'web'}, confidence: 0.8293
+Rule: {'references', 'web'} -> {'www', 'title'}, confidence: 0.9043
+Rule: {'www', 'title'} -> {'references', 'web'}, confidence: 0.8718
+Rule: {'www', 'web'} -> {'references', 'title'}, confidence: 0.8901
+Rule: {'title', 'web'} -> {'references', 'www'}, confidence: 0.8763
+Rule: {'references', 'www', 'title'} -> {'web'}, confidence: 0.9392
+Rule: {'references', 'www', 'web'} -> {'title'}, confidence: 0.9714
+Rule: {'references', 'title', 'web'} -> {'www'}, confidence: 0.9392
+Rule: {'www', 'title', 'web'} -> {'references'}, confidence: 0.9444
+Rule: {'date'} -> {'url', 'archive', 'https'}, confidence: 0.6239
+Rule: {'https'} -> {'date', 'url', 'archive'}, confidence: 0.6636
+Rule: {'url'} -> {'date', 'archive', 'https'}, confidence: 0.6489
+Rule: {'archive'} -> {'date', 'url', 'https'}, confidence: 0.9359
+Rule: {'date', 'https'} -> {'url', 'archive'}, confidence: 0.7411
+Rule: {'date', 'url'} -> {'archive', 'https'}, confidence: 0.7228
+Rule: {'date', 'archive'} -> {'url', 'https'}, confidence: 0.9865
+Rule: {'url', 'https'} -> {'date', 'archive'}, confidence: 0.7053
+Rule: {'archive', 'https'} -> {'date', 'url'}, confidence: 0.9542
+Rule: {'url', 'archive'} -> {'date', 'https'}, confidence: 0.9669
+Rule: {'date', 'url', 'https'} -> {'archive'}, confidence: 0.7526
+Rule: {'date', 'archive', 'https'} -> {'url'}, confidence: 0.9932
+Rule: {'date', 'url', 'archive'} -> {'https'}, confidence: 0.9932
+Rule: {'url', 'archive', 'https'} -> {'date'}, confidence: 0.9733
+Rule: {'cite'} -> {'url', 'one', 'https'}, confidence: 0.6825
+Rule: {'https'} -> {'one', 'url', 'cite'}, confidence: 0.6545
+Rule: {'url'} -> {'one', 'cite', 'https'}, confidence: 0.6400
+Rule: {'one'} -> {'url', 'cite', 'https'}, confidence: 0.4865
+Rule: {'cite', 'https'} -> {'url', 'one'}, confidence: 0.7385
+Rule: {'url', 'cite'} -> {'one', 'https'}, confidence: 0.6957
+Rule: {'one', 'cite'} -> {'url', 'https'}, confidence: 0.9231
+Rule: {'url', 'https'} -> {'one', 'cite'}, confidence: 0.6957
+Rule: {'one', 'https'} -> {'url', 'cite'}, confidence: 0.9114
+Rule: {'url', 'one'} -> {'cite', 'https'}, confidence: 0.9057
+Rule: {'url', 'cite', 'https'} -> {'one'}, confidence: 0.7423
+Rule: {'one', 'cite', 'https'} -> {'url'}, confidence: 0.9931
+Rule: {'one', 'url', 'cite'} -> {'https'}, confidence: 0.9412
+Rule: {'url', 'one', 'https'} -> {'cite'}, confidence: 0.9730
+Rule: {'references'} -> {'web', 'cite', 'https'}, confidence: 0.6840
+Rule: {'cite'} -> {'references', 'web', 'https'}, confidence: 0.8104
+Rule: {'https'} -> {'references', 'web', 'cite'}, confidence: 0.7773
+Rule: {'web'} -> {'references', 'cite', 'https'}, confidence: 0.7703
+Rule: {'references', 'cite'} -> {'web', 'https'}, confidence: 0.8636
+Rule: {'references', 'https'} -> {'web', 'cite'}, confidence: 0.8550
+Rule: {'references', 'web'} -> {'cite', 'https'}, confidence: 0.9096
+Rule: {'cite', 'https'} -> {'references', 'web'}, confidence: 0.8769
+Rule: {'web', 'cite'} -> {'references', 'https'}, confidence: 0.8953
+Rule: {'web', 'https'} -> {'references', 'cite'}, confidence: 0.8769
+Rule: {'references', 'cite', 'https'} -> {'web'}, confidence: 0.9293
+Rule: {'references', 'web', 'cite'} -> {'https'}, confidence: 0.9500
+Rule: {'references', 'web', 'https'} -> {'cite'}, confidence: 0.9607
+Rule: {'web', 'cite', 'https'} -> {'references'}, confidence: 0.9448
+Rule: {'date'} -> {'url', 'archive', 'web'}, confidence: 0.6197
+Rule: {'url'} -> {'date', 'archive', 'web'}, confidence: 0.6444
+Rule: {'archive'} -> {'date', 'url', 'web'}, confidence: 0.9295
+Rule: {'web'} -> {'date', 'url', 'archive'}, confidence: 0.6532
+Rule: {'date', 'url'} -> {'archive', 'web'}, confidence: 0.7178
+Rule: {'date', 'archive'} -> {'url', 'web'}, confidence: 0.9797
+Rule: {'date', 'web'} -> {'url', 'archive'}, confidence: 0.7632
+Rule: {'url', 'archive'} -> {'date', 'web'}, confidence: 0.9603
+Rule: {'url', 'web'} -> {'date', 'archive'}, confidence: 0.7039
+Rule: {'archive', 'web'} -> {'date', 'url'}, confidence: 0.9864
+Rule: {'date', 'url', 'archive'} -> {'web'}, confidence: 0.9864
+Rule: {'date', 'url', 'web'} -> {'archive'}, confidence: 0.7632
+Rule: {'date', 'archive', 'web'} -> {'url'}, confidence: 1.0000
+Rule: {'url', 'archive', 'web'} -> {'date'}, confidence: 1.0000
+Rule: {'references'} -> {'www', 'title', 'https'}, confidence: 0.6960
+Rule: {'https'} -> {'references', 'www', 'title'}, confidence: 0.7909
+Rule: {'www'} -> {'references', 'title', 'https'}, confidence: 0.7945
+Rule: {'title'} -> {'references', 'www', 'https'}, confidence: 0.7311
+Rule: {'references', 'https'} -> {'www', 'title'}, confidence: 0.8700
+Rule: {'references', 'www'} -> {'title', 'https'}, confidence: 0.8969
+Rule: {'references', 'title'} -> {'www', 'https'}, confidence: 0.8488
+Rule: {'www', 'https'} -> {'references', 'title'}, confidence: 0.8788
+Rule: {'title', 'https'} -> {'references', 'www'}, confidence: 0.8788
+Rule: {'www', 'title'} -> {'references', 'https'}, confidence: 0.8923
+Rule: {'references', 'www', 'https'} -> {'title'}, confidence: 0.9457
+Rule: {'references', 'title', 'https'} -> {'www'}, confidence: 0.9305
+Rule: {'references', 'www', 'title'} -> {'https'}, confidence: 0.9613
+Rule: {'www', 'title', 'https'} -> {'references'}, confidence: 0.9508
+Rule: {'https'} -> {'url', 'title', 'web'}, confidence: 0.8273
+Rule: {'url'} -> {'title', 'web', 'https'}, confidence: 0.8089
+Rule: {'title'} -> {'url', 'web', 'https'}, confidence: 0.7647
+Rule: {'web'} -> {'url', 'title', 'https'}, confidence: 0.8198
+Rule: {'url', 'https'} -> {'title', 'web'}, confidence: 0.8792
+Rule: {'title', 'https'} -> {'url', 'web'}, confidence: 0.9192
+Rule: {'web', 'https'} -> {'url', 'title'}, confidence: 0.9333
+Rule: {'url', 'title'} -> {'web', 'https'}, confidence: 0.8708
+Rule: {'url', 'web'} -> {'title', 'https'}, confidence: 0.8835
+Rule: {'title', 'web'} -> {'url', 'https'}, confidence: 0.9381
+Rule: {'url', 'title', 'https'} -> {'web'}, confidence: 0.9286
+Rule: {'url', 'web', 'https'} -> {'title'}, confidence: 0.9430
+Rule: {'title', 'web', 'https'} -> {'url'}, confidence: 1.0000
+Rule: {'url', 'title', 'web'} -> {'https'}, confidence: 0.9479
+Rule: {'cite'} -> {'www', 'url', 'https'}, confidence: 0.8531
+Rule: {'https'} -> {'www', 'url', 'cite'}, confidence: 0.8182
+Rule: {'www'} -> {'url', 'cite', 'https'}, confidence: 0.8219
+Rule: {'url'} -> {'www', 'cite', 'https'}, confidence: 0.8000
+Rule: {'cite', 'https'} -> {'www', 'url'}, confidence: 0.9231
+Rule: {'www', 'cite'} -> {'url', 'https'}, confidence: 0.9574
+Rule: {'url', 'cite'} -> {'www', 'https'}, confidence: 0.8696
+Rule: {'www', 'https'} -> {'url', 'cite'}, confidence: 0.9091
+Rule: {'url', 'https'} -> {'www', 'cite'}, confidence: 0.8696
+Rule: {'www', 'url'} -> {'cite', 'https'}, confidence: 0.9045
+Rule: {'www', 'cite', 'https'} -> {'url'}, confidence: 0.9945
+Rule: {'url', 'cite', 'https'} -> {'www'}, confidence: 0.9278
+Rule: {'www', 'url', 'cite'} -> {'https'}, confidence: 0.9626
+Rule: {'www', 'url', 'https'} -> {'cite'}, confidence: 0.9424
+Rule: {'references'} -> {'url', 'web', 'https'}, confidence: 0.7080
+Rule: {'https'} -> {'references', 'url', 'web'}, confidence: 0.8045
+Rule: {'url'} -> {'references', 'web', 'https'}, confidence: 0.7867
+Rule: {'web'} -> {'references', 'url', 'https'}, confidence: 0.7973
+Rule: {'references', 'https'} -> {'url', 'web'}, confidence: 0.8850
+Rule: {'references', 'url'} -> {'web', 'https'}, confidence: 0.8719
+Rule: {'references', 'web'} -> {'url', 'https'}, confidence: 0.9415
+Rule: {'url', 'https'} -> {'references', 'web'}, confidence: 0.8551
+Rule: {'web', 'https'} -> {'references', 'url'}, confidence: 0.9077
+Rule: {'url', 'web'} -> {'references', 'https'}, confidence: 0.8592
+Rule: {'references', 'url', 'https'} -> {'web'}, confidence: 0.9316
+Rule: {'references', 'web', 'https'} -> {'url'}, confidence: 0.9944
+Rule: {'references', 'url', 'web'} -> {'https'}, confidence: 0.9516
+Rule: {'url', 'web', 'https'} -> {'references'}, confidence: 0.9171
+Rule: {'cite'} -> {'http', 'url', 'title'}, confidence: 0.7393
+Rule: {'http'} -> {'url', 'title', 'cite'}, confidence: 0.8083
+Rule: {'url'} -> {'http', 'title', 'cite'}, confidence: 0.6933
+Rule: {'title'} -> {'http', 'url', 'cite'}, confidence: 0.6555
+Rule: {'http', 'cite'} -> {'url', 'title'}, confidence: 0.9873
+Rule: {'url', 'cite'} -> {'http', 'title'}, confidence: 0.7536
+Rule: {'title', 'cite'} -> {'http', 'url'}, confidence: 0.7393
+Rule: {'http', 'url'} -> {'title', 'cite'}, confidence: 0.9231
+Rule: {'http', 'title'} -> {'url', 'cite'}, confidence: 0.9512
+Rule: {'url', 'title'} -> {'http', 'cite'}, confidence: 0.7464
+Rule: {'http', 'url', 'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'http', 'title', 'cite'} -> {'url'}, confidence: 0.9873
+Rule: {'url', 'title', 'cite'} -> {'http'}, confidence: 0.7536
+Rule: {'http', 'url', 'title'} -> {'cite'}, confidence: 0.9936
+Rule: {'https'} -> {'http', 'www', 'web'}, confidence: 0.6682
+Rule: {'http'} -> {'www', 'web', 'https'}, confidence: 0.7617
+Rule: {'www'} -> {'http', 'web', 'https'}, confidence: 0.6712
+Rule: {'web'} -> {'http', 'www', 'https'}, confidence: 0.6622
+Rule: {'http', 'https'} -> {'www', 'web'}, confidence: 0.9245
+Rule: {'www', 'https'} -> {'http', 'web'}, confidence: 0.7424
+Rule: {'web', 'https'} -> {'http', 'www'}, confidence: 0.7538
+Rule: {'http', 'www'} -> {'web', 'https'}, confidence: 0.8497
+Rule: {'http', 'web'} -> {'www', 'https'}, confidence: 0.8963
+Rule: {'www', 'web'} -> {'http', 'https'}, confidence: 0.7696
+Rule: {'http', 'www', 'https'} -> {'web'}, confidence: 0.9608
+Rule: {'http', 'web', 'https'} -> {'www'}, confidence: 0.9671
+Rule: {'www', 'web', 'https'} -> {'http'}, confidence: 0.8077
+Rule: {'http', 'www', 'web'} -> {'https'}, confidence: 0.9423
+Rule: {'http'} -> {'www', 'url', 'web'}, confidence: 0.7979
+Rule: {'www'} -> {'http', 'url', 'web'}, confidence: 0.7032
+Rule: {'url'} -> {'http', 'www', 'web'}, confidence: 0.6844
+Rule: {'web'} -> {'http', 'www', 'url'}, confidence: 0.6937
+Rule: {'http', 'www'} -> {'url', 'web'}, confidence: 0.8902
+Rule: {'http', 'url'} -> {'www', 'web'}, confidence: 0.9112
+Rule: {'http', 'web'} -> {'www', 'url'}, confidence: 0.9390
+Rule: {'www', 'url'} -> {'http', 'web'}, confidence: 0.7739
+Rule: {'www', 'web'} -> {'http', 'url'}, confidence: 0.8063
+Rule: {'url', 'web'} -> {'http', 'www'}, confidence: 0.7476
+Rule: {'http', 'www', 'url'} -> {'web'}, confidence: 0.9747
+Rule: {'http', 'www', 'web'} -> {'url'}, confidence: 0.9872
+Rule: {'http', 'url', 'web'} -> {'www'}, confidence: 0.9565
+Rule: {'www', 'url', 'web'} -> {'http'}, confidence: 0.8148
+Rule: {'cite'} -> {'http', 'title', 'https'}, confidence: 0.6825
+Rule: {'https'} -> {'http', 'title', 'cite'}, confidence: 0.6545
+Rule: {'http'} -> {'title', 'cite', 'https'}, confidence: 0.7461
+Rule: {'title'} -> {'http', 'cite', 'https'}, confidence: 0.6050
+Rule: {'cite', 'https'} -> {'http', 'title'}, confidence: 0.7385
+Rule: {'http', 'cite'} -> {'title', 'https'}, confidence: 0.9114
+Rule: {'title', 'cite'} -> {'http', 'https'}, confidence: 0.6825
+Rule: {'http', 'https'} -> {'title', 'cite'}, confidence: 0.9057
+Rule: {'title', 'https'} -> {'http', 'cite'}, confidence: 0.7273
+Rule: {'http', 'title'} -> {'cite', 'https'}, confidence: 0.8780
+Rule: {'http', 'cite', 'https'} -> {'title'}, confidence: 1.0000
+Rule: {'title', 'cite', 'https'} -> {'http'}, confidence: 0.7385
+Rule: {'http', 'title', 'cite'} -> {'https'}, confidence: 0.9114
+Rule: {'http', 'title', 'https'} -> {'cite'}, confidence: 0.9931
+Rule: {'date'} -> {'web', 'title', 'cite'}, confidence: 0.7607
+Rule: {'cite'} -> {'date', 'title', 'web'}, confidence: 0.8436
+Rule: {'title'} -> {'date', 'cite', 'web'}, confidence: 0.7479
+Rule: {'web'} -> {'date', 'title', 'cite'}, confidence: 0.8018
+Rule: {'date', 'cite'} -> {'title', 'web'}, confidence: 0.9368
+Rule: {'date', 'title'} -> {'web', 'cite'}, confidence: 0.9082
+Rule: {'date', 'web'} -> {'title', 'cite'}, confidence: 0.9368
+Rule: {'title', 'cite'} -> {'date', 'web'}, confidence: 0.8436
+Rule: {'web', 'cite'} -> {'date', 'title'}, confidence: 0.9319
+Rule: {'title', 'web'} -> {'date', 'cite'}, confidence: 0.9175
+Rule: {'date', 'title', 'cite'} -> {'web'}, confidence: 0.9368
+Rule: {'date', 'cite', 'web'} -> {'title'}, confidence: 1.0000
+Rule: {'date', 'title', 'web'} -> {'cite'}, confidence: 0.9944
+Rule: {'web', 'title', 'cite'} -> {'date'}, confidence: 0.9319
+Rule: {'date'} -> {'www', 'url', 'https'}, confidence: 0.7735
+Rule: {'https'} -> {'date', 'www', 'url'}, confidence: 0.8227
+Rule: {'www'} -> {'date', 'url', 'https'}, confidence: 0.8265
+Rule: {'url'} -> {'date', 'www', 'https'}, confidence: 0.8044
+Rule: {'date', 'https'} -> {'www', 'url'}, confidence: 0.9188
+Rule: {'date', 'www'} -> {'url', 'https'}, confidence: 0.9526
+Rule: {'date', 'url'} -> {'www', 'https'}, confidence: 0.8960
+Rule: {'www', 'https'} -> {'date', 'url'}, confidence: 0.9141
+Rule: {'url', 'https'} -> {'date', 'www'}, confidence: 0.8744
+Rule: {'www', 'url'} -> {'date', 'https'}, confidence: 0.9095
+Rule: {'date', 'www', 'https'} -> {'url'}, confidence: 0.9891
+Rule: {'date', 'url', 'https'} -> {'www'}, confidence: 0.9330
+Rule: {'date', 'www', 'url'} -> {'https'}, confidence: 0.9784
+Rule: {'www', 'url', 'https'} -> {'date'}, confidence: 0.9476
+Rule: {'date'} -> {'one', 'title', 'cite'}, confidence: 0.6154
+Rule: {'cite'} -> {'date', 'title', 'one'}, confidence: 0.6825
+Rule: {'title'} -> {'one', 'date', 'cite'}, confidence: 0.6050
+Rule: {'one'} -> {'date', 'title', 'cite'}, confidence: 0.4865
+Rule: {'date', 'cite'} -> {'title', 'one'}, confidence: 0.7579
+Rule: {'date', 'title'} -> {'one', 'cite'}, confidence: 0.7347
+Rule: {'date', 'one'} -> {'title', 'cite'}, confidence: 0.8727
+Rule: {'title', 'cite'} -> {'date', 'one'}, confidence: 0.6825
+Rule: {'one', 'cite'} -> {'date', 'title'}, confidence: 0.9231
+Rule: {'title', 'one'} -> {'date', 'cite'}, confidence: 0.8471
+Rule: {'date', 'title', 'cite'} -> {'one'}, confidence: 0.7579
+Rule: {'one', 'date', 'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'date', 'title', 'one'} -> {'cite'}, confidence: 0.9796
+Rule: {'one', 'title', 'cite'} -> {'date'}, confidence: 0.9231
+Rule: {'references'} -> {'http', 'url', 'title'}, confidence: 0.6000
+Rule: {'http'} -> {'references', 'url', 'title'}, confidence: 0.7772
+Rule: {'url'} -> {'references', 'http', 'title'}, confidence: 0.6667
+Rule: {'title'} -> {'references', 'http', 'url'}, confidence: 0.6303
+Rule: {'references', 'http'} -> {'url', 'title'}, confidence: 0.9036
+Rule: {'references', 'url'} -> {'http', 'title'}, confidence: 0.7389
+Rule: {'references', 'title'} -> {'http', 'url'}, confidence: 0.7317
+Rule: {'http', 'url'} -> {'references', 'title'}, confidence: 0.8876
+Rule: {'http', 'title'} -> {'references', 'url'}, confidence: 0.9146
+Rule: {'url', 'title'} -> {'references', 'http'}, confidence: 0.7177
+Rule: {'references', 'http', 'url'} -> {'title'}, confidence: 0.9677
+Rule: {'references', 'http', 'title'} -> {'url'}, confidence: 0.9740
+Rule: {'references', 'url', 'title'} -> {'http'}, confidence: 0.7614
+Rule: {'http', 'url', 'title'} -> {'references'}, confidence: 0.9554
+Rule: {'date'} -> {'url', 'cite', 'https'}, confidence: 0.7735
+Rule: {'cite'} -> {'date', 'url', 'https'}, confidence: 0.8578
+Rule: {'https'} -> {'date', 'url', 'cite'}, confidence: 0.8227
+Rule: {'url'} -> {'date', 'cite', 'https'}, confidence: 0.8044
+Rule: {'date', 'cite'} -> {'url', 'https'}, confidence: 0.9526
+Rule: {'date', 'https'} -> {'url', 'cite'}, confidence: 0.9188
+Rule: {'date', 'url'} -> {'cite', 'https'}, confidence: 0.8960
+Rule: {'cite', 'https'} -> {'date', 'url'}, confidence: 0.9282
+Rule: {'url', 'cite'} -> {'date', 'https'}, confidence: 0.8744
+Rule: {'url', 'https'} -> {'date', 'cite'}, confidence: 0.8744
+Rule: {'date', 'cite', 'https'} -> {'url'}, confidence: 1.0000
+Rule: {'date', 'url', 'cite'} -> {'https'}, confidence: 0.9628
+Rule: {'date', 'url', 'https'} -> {'cite'}, confidence: 0.9330
+Rule: {'url', 'cite', 'https'} -> {'date'}, confidence: 0.9330
+Rule: {'date'} -> {'www', 'title', 'web'}, confidence: 0.7179
+Rule: {'www'} -> {'date', 'title', 'web'}, confidence: 0.7671
+Rule: {'title'} -> {'date', 'www', 'web'}, confidence: 0.7059
+Rule: {'web'} -> {'date', 'www', 'title'}, confidence: 0.7568
+Rule: {'date', 'www'} -> {'title', 'web'}, confidence: 0.8842
+Rule: {'date', 'title'} -> {'www', 'web'}, confidence: 0.8571
+Rule: {'date', 'web'} -> {'www', 'title'}, confidence: 0.8842
+Rule: {'www', 'title'} -> {'date', 'web'}, confidence: 0.8615
+Rule: {'www', 'web'} -> {'date', 'title'}, confidence: 0.8796
+Rule: {'title', 'web'} -> {'date', 'www'}, confidence: 0.8660
+Rule: {'date', 'www', 'title'} -> {'web'}, confidence: 0.9492
+Rule: {'date', 'www', 'web'} -> {'title'}, confidence: 0.9492
+Rule: {'date', 'title', 'web'} -> {'www'}, confidence: 0.9385
+Rule: {'www', 'title', 'web'} -> {'date'}, confidence: 0.9333
+Rule: {'date'} -> {'people', 'url', 'https'}, confidence: 0.6154
+Rule: {'https'} -> {'date', 'url', 'people'}, confidence: 0.6545
+Rule: {'url'} -> {'date', 'people', 'https'}, confidence: 0.6400
+Rule: {'people'} -> {'date', 'url', 'https'}, confidence: 0.4431
+Rule: {'date', 'https'} -> {'url', 'people'}, confidence: 0.7310
+Rule: {'date', 'url'} -> {'people', 'https'}, confidence: 0.7129
+Rule: {'date', 'people'} -> {'url', 'https'}, confidence: 0.8727
+Rule: {'url', 'https'} -> {'date', 'people'}, confidence: 0.6957
+Rule: {'people', 'https'} -> {'date', 'url'}, confidence: 0.9172
+Rule: {'url', 'people'} -> {'date', 'https'}, confidence: 0.8834
+Rule: {'date', 'url', 'https'} -> {'people'}, confidence: 0.7423
+Rule: {'date', 'people', 'https'} -> {'url'}, confidence: 0.9931
+Rule: {'date', 'url', 'people'} -> {'https'}, confidence: 0.9600
+Rule: {'people', 'url', 'https'} -> {'date'}, confidence: 0.9474
+Rule: {'references'} -> {'date', 'title', 'https'}, confidence: 0.7080
+Rule: {'date'} -> {'references', 'title', 'https'}, confidence: 0.7564
+Rule: {'https'} -> {'references', 'date', 'title'}, confidence: 0.8045
+Rule: {'title'} -> {'references', 'date', 'https'}, confidence: 0.7437
+Rule: {'references', 'date'} -> {'title', 'https'}, confidence: 0.9031
+Rule: {'references', 'https'} -> {'date', 'title'}, confidence: 0.8850
+Rule: {'references', 'title'} -> {'date', 'https'}, confidence: 0.8634
+Rule: {'date', 'https'} -> {'references', 'title'}, confidence: 0.8985
+Rule: {'date', 'title'} -> {'references', 'https'}, confidence: 0.9031
+Rule: {'title', 'https'} -> {'references', 'date'}, confidence: 0.8939
+Rule: {'references', 'date', 'https'} -> {'title'}, confidence: 0.9620
+Rule: {'references', 'date', 'title'} -> {'https'}, confidence: 0.9568
+Rule: {'references', 'title', 'https'} -> {'date'}, confidence: 0.9465
+Rule: {'date', 'title', 'https'} -> {'references'}, confidence: 0.9620
+Rule: {'references'} -> {'date', 'www', 'cite'}, confidence: 0.6720
+Rule: {'date'} -> {'references', 'www', 'cite'}, confidence: 0.7179
+Rule: {'cite'} -> {'references', 'date', 'www'}, confidence: 0.7962
+Rule: {'www'} -> {'references', 'date', 'cite'}, confidence: 0.7671
+Rule: {'references', 'date'} -> {'www', 'cite'}, confidence: 0.8571
+Rule: {'references', 'cite'} -> {'date', 'www'}, confidence: 0.8485
+Rule: {'references', 'www'} -> {'date', 'cite'}, confidence: 0.8660
+Rule: {'date', 'cite'} -> {'references', 'www'}, confidence: 0.8842
+Rule: {'date', 'www'} -> {'references', 'cite'}, confidence: 0.8842
+Rule: {'www', 'cite'} -> {'references', 'date'}, confidence: 0.8936
+Rule: {'references', 'date', 'cite'} -> {'www'}, confidence: 0.9282
+Rule: {'references', 'date', 'www'} -> {'cite'}, confidence: 0.9492
+Rule: {'references', 'www', 'cite'} -> {'date'}, confidence: 0.9438
+Rule: {'date', 'www', 'cite'} -> {'references'}, confidence: 0.9655
+Rule: {'references'} -> {'date', 'title', 'web'}, confidence: 0.6840
+Rule: {'date'} -> {'references', 'title', 'web'}, confidence: 0.7308
+Rule: {'title'} -> {'references', 'date', 'web'}, confidence: 0.7185
+Rule: {'web'} -> {'references', 'date', 'title'}, confidence: 0.7703
+Rule: {'references', 'date'} -> {'title', 'web'}, confidence: 0.8724
+Rule: {'references', 'title'} -> {'date', 'web'}, confidence: 0.8341
+Rule: {'references', 'web'} -> {'date', 'title'}, confidence: 0.9096
+Rule: {'date', 'title'} -> {'references', 'web'}, confidence: 0.8724
+Rule: {'date', 'web'} -> {'references', 'title'}, confidence: 0.9000
+Rule: {'title', 'web'} -> {'references', 'date'}, confidence: 0.8814
+Rule: {'references', 'date', 'title'} -> {'web'}, confidence: 0.9243
+Rule: {'references', 'date', 'web'} -> {'title'}, confidence: 0.9716
+Rule: {'references', 'title', 'web'} -> {'date'}, confidence: 0.9448
+Rule: {'date', 'title', 'web'} -> {'references'}, confidence: 0.9553
+Rule: {'date'} -> {'http', 'url', 'cite'}, confidence: 0.6239
+Rule: {'cite'} -> {'date', 'http', 'url'}, confidence: 0.6919
+Rule: {'http'} -> {'date', 'url', 'cite'}, confidence: 0.7565
+Rule: {'url'} -> {'date', 'http', 'cite'}, confidence: 0.6489
+Rule: {'date', 'cite'} -> {'http', 'url'}, confidence: 0.7684
+Rule: {'date', 'http'} -> {'url', 'cite'}, confidence: 0.9012
+Rule: {'date', 'url'} -> {'http', 'cite'}, confidence: 0.7228
+Rule: {'http', 'cite'} -> {'date', 'url'}, confidence: 0.9241
+Rule: {'url', 'cite'} -> {'date', 'http'}, confidence: 0.7053
+Rule: {'http', 'url'} -> {'date', 'cite'}, confidence: 0.8639
+Rule: {'date', 'http', 'cite'} -> {'url'}, confidence: 0.9932
+Rule: {'date', 'url', 'cite'} -> {'http'}, confidence: 0.7766
+Rule: {'date', 'http', 'url'} -> {'cite'}, confidence: 0.9241
+Rule: {'http', 'url', 'cite'} -> {'date'}, confidence: 0.9359
+Rule: {'references'} -> {'url', 'title', 'https'}, confidence: 0.7400
+Rule: {'https'} -> {'references', 'url', 'title'}, confidence: 0.8409
+Rule: {'url'} -> {'references', 'title', 'https'}, confidence: 0.8222
+Rule: {'title'} -> {'references', 'url', 'https'}, confidence: 0.7773
+Rule: {'references', 'https'} -> {'url', 'title'}, confidence: 0.9250
+Rule: {'references', 'url'} -> {'title', 'https'}, confidence: 0.9113
+Rule: {'references', 'title'} -> {'url', 'https'}, confidence: 0.9024
+Rule: {'url', 'https'} -> {'references', 'title'}, confidence: 0.8937
+Rule: {'title', 'https'} -> {'references', 'url'}, confidence: 0.9343
+Rule: {'url', 'title'} -> {'references', 'https'}, confidence: 0.8852
+Rule: {'references', 'url', 'https'} -> {'title'}, confidence: 0.9737
+Rule: {'references', 'title', 'https'} -> {'url'}, confidence: 0.9893
+Rule: {'references', 'url', 'title'} -> {'https'}, confidence: 0.9391
+Rule: {'url', 'title', 'https'} -> {'references'}, confidence: 0.9439
+Rule: {'date'} -> {'http', 'url', 'https'}, confidence: 0.6410
+Rule: {'https'} -> {'date', 'http', 'url'}, confidence: 0.6818
+Rule: {'http'} -> {'date', 'url', 'https'}, confidence: 0.7772
+Rule: {'url'} -> {'date', 'http', 'https'}, confidence: 0.6667
+Rule: {'date', 'https'} -> {'http', 'url'}, confidence: 0.7614
+Rule: {'date', 'http'} -> {'url', 'https'}, confidence: 0.9259
+Rule: {'date', 'url'} -> {'http', 'https'}, confidence: 0.7426
+Rule: {'http', 'https'} -> {'date', 'url'}, confidence: 0.9434
+Rule: {'url', 'https'} -> {'date', 'http'}, confidence: 0.7246
+Rule: {'http', 'url'} -> {'date', 'https'}, confidence: 0.8876
+Rule: {'date', 'http', 'https'} -> {'url'}, confidence: 1.0000
+Rule: {'date', 'url', 'https'} -> {'http'}, confidence: 0.7732
+Rule: {'date', 'http', 'url'} -> {'https'}, confidence: 0.9494
+Rule: {'http', 'url', 'https'} -> {'date'}, confidence: 0.9740
+Rule: {'references'} -> {'www', 'web', 'https'}, confidence: 0.6760
+Rule: {'https'} -> {'references', 'www', 'web'}, confidence: 0.7682
+Rule: {'www'} -> {'references', 'web', 'https'}, confidence: 0.7717
+Rule: {'web'} -> {'references', 'www', 'https'}, confidence: 0.7613
+Rule: {'references', 'https'} -> {'www', 'web'}, confidence: 0.8450
+Rule: {'references', 'www'} -> {'web', 'https'}, confidence: 0.8711
+Rule: {'references', 'web'} -> {'www', 'https'}, confidence: 0.8989
+Rule: {'www', 'https'} -> {'references', 'web'}, confidence: 0.8535
+Rule: {'web', 'https'} -> {'references', 'www'}, confidence: 0.8667
+Rule: {'www', 'web'} -> {'references', 'https'}, confidence: 0.8848
+Rule: {'references', 'www', 'https'} -> {'web'}, confidence: 0.9185
+Rule: {'references', 'web', 'https'} -> {'www'}, confidence: 0.9494
+Rule: {'references', 'www', 'web'} -> {'https'}, confidence: 0.9657
+Rule: {'www', 'web', 'https'} -> {'references'}, confidence: 0.9286
+Rule: {'cite'} -> {'url', 'title', 'one'}, confidence: 0.7251
+Rule: {'url'} -> {'one', 'title', 'cite'}, confidence: 0.6800
+Rule: {'title'} -> {'one', 'url', 'cite'}, confidence: 0.6429
+Rule: {'one'} -> {'url', 'title', 'cite'}, confidence: 0.5169
+Rule: {'url', 'cite'} -> {'title', 'one'}, confidence: 0.7391
+Rule: {'title', 'cite'} -> {'url', 'one'}, confidence: 0.7251
+Rule: {'one', 'cite'} -> {'url', 'title'}, confidence: 0.9808
+Rule: {'url', 'title'} -> {'one', 'cite'}, confidence: 0.7321
+Rule: {'url', 'one'} -> {'title', 'cite'}, confidence: 0.9623
+Rule: {'title', 'one'} -> {'url', 'cite'}, confidence: 0.9000
+Rule: {'url', 'title', 'cite'} -> {'one'}, confidence: 0.7391
+Rule: {'one', 'url', 'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'one', 'title', 'cite'} -> {'url'}, confidence: 0.9808
+Rule: {'url', 'title', 'one'} -> {'cite'}, confidence: 1.0000
+Rule: {'references'} -> {'title', 'cite', 'https'}, confidence: 0.7360
+Rule: {'cite'} -> {'references', 'title', 'https'}, confidence: 0.8720
+Rule: {'https'} -> {'references', 'title', 'cite'}, confidence: 0.8364
+Rule: {'title'} -> {'references', 'cite', 'https'}, confidence: 0.7731
+Rule: {'references', 'cite'} -> {'title', 'https'}, confidence: 0.9293
+Rule: {'references', 'https'} -> {'title', 'cite'}, confidence: 0.9200
+Rule: {'references', 'title'} -> {'cite', 'https'}, confidence: 0.8976
+Rule: {'cite', 'https'} -> {'references', 'title'}, confidence: 0.9436
+Rule: {'title', 'cite'} -> {'references', 'https'}, confidence: 0.8720
+Rule: {'title', 'https'} -> {'references', 'cite'}, confidence: 0.9293
+Rule: {'references', 'cite', 'https'} -> {'title'}, confidence: 1.0000
+Rule: {'references', 'title', 'cite'} -> {'https'}, confidence: 0.9293
+Rule: {'references', 'title', 'https'} -> {'cite'}, confidence: 0.9840
+Rule: {'title', 'cite', 'https'} -> {'references'}, confidence: 0.9436
+Rule: {'cite'} -> {'url', 'title', 'https'}, confidence: 0.9194
+Rule: {'https'} -> {'url', 'title', 'cite'}, confidence: 0.8818
+Rule: {'url'} -> {'title', 'cite', 'https'}, confidence: 0.8622
+Rule: {'title'} -> {'url', 'cite', 'https'}, confidence: 0.8151
+Rule: {'cite', 'https'} -> {'url', 'title'}, confidence: 0.9949
+Rule: {'url', 'cite'} -> {'title', 'https'}, confidence: 0.9372
+Rule: {'title', 'cite'} -> {'url', 'https'}, confidence: 0.9194
+Rule: {'url', 'https'} -> {'title', 'cite'}, confidence: 0.9372
+Rule: {'title', 'https'} -> {'url', 'cite'}, confidence: 0.9798
+Rule: {'url', 'title'} -> {'cite', 'https'}, confidence: 0.9282
+Rule: {'url', 'cite', 'https'} -> {'title'}, confidence: 1.0000
+Rule: {'title', 'cite', 'https'} -> {'url'}, confidence: 0.9949
+Rule: {'url', 'title', 'cite'} -> {'https'}, confidence: 0.9372
+Rule: {'url', 'title', 'https'} -> {'cite'}, confidence: 0.9898
+Rule: {'references'} -> {'one', 'title', 'cite'}, confidence: 0.6080
+Rule: {'cite'} -> {'references', 'title', 'one'}, confidence: 0.7204
+Rule: {'title'} -> {'references', 'one', 'cite'}, confidence: 0.6387
+Rule: {'one'} -> {'references', 'title', 'cite'}, confidence: 0.5135
+Rule: {'references', 'cite'} -> {'title', 'one'}, confidence: 0.7677
+Rule: {'references', 'title'} -> {'one', 'cite'}, confidence: 0.7415
+Rule: {'references', 'one'} -> {'title', 'cite'}, confidence: 0.8261
+Rule: {'title', 'cite'} -> {'references', 'one'}, confidence: 0.7204
+Rule: {'one', 'cite'} -> {'references', 'title'}, confidence: 0.9744
+Rule: {'title', 'one'} -> {'references', 'cite'}, confidence: 0.8941
+Rule: {'references', 'title', 'cite'} -> {'one'}, confidence: 0.7677
+Rule: {'references', 'one', 'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'references', 'title', 'one'} -> {'cite'}, confidence: 0.9682
+Rule: {'one', 'title', 'cite'} -> {'references'}, confidence: 0.9744
+Rule: {'date'} -> {'archive', 'web', 'https'}, confidence: 0.6197
+Rule: {'https'} -> {'date', 'archive', 'web'}, confidence: 0.6591
+Rule: {'archive'} -> {'date', 'web', 'https'}, confidence: 0.9295
+Rule: {'web'} -> {'date', 'archive', 'https'}, confidence: 0.6532
+Rule: {'date', 'https'} -> {'archive', 'web'}, confidence: 0.7360
+Rule: {'date', 'archive'} -> {'web', 'https'}, confidence: 0.9797
+Rule: {'date', 'web'} -> {'archive', 'https'}, confidence: 0.7632
+Rule: {'archive', 'https'} -> {'date', 'web'}, confidence: 0.9477
+Rule: {'web', 'https'} -> {'date', 'archive'}, confidence: 0.7436
+Rule: {'archive', 'web'} -> {'date', 'https'}, confidence: 0.9864
+Rule: {'date', 'archive', 'https'} -> {'web'}, confidence: 0.9864
+Rule: {'date', 'web', 'https'} -> {'archive'}, confidence: 0.7838
+Rule: {'date', 'archive', 'web'} -> {'https'}, confidence: 1.0000
+Rule: {'archive', 'web', 'https'} -> {'date'}, confidence: 0.9864
+Rule: {'https'} -> {'www', 'url', 'web'}, confidence: 0.8227
+Rule: {'www'} -> {'url', 'web', 'https'}, confidence: 0.8265
+Rule: {'url'} -> {'www', 'web', 'https'}, confidence: 0.8044
+Rule: {'web'} -> {'www', 'url', 'https'}, confidence: 0.8153
+Rule: {'www', 'https'} -> {'url', 'web'}, confidence: 0.9141
+Rule: {'url', 'https'} -> {'www', 'web'}, confidence: 0.8744
+Rule: {'web', 'https'} -> {'www', 'url'}, confidence: 0.9282
+Rule: {'www', 'url'} -> {'web', 'https'}, confidence: 0.9095
+Rule: {'www', 'web'} -> {'url', 'https'}, confidence: 0.9476
+Rule: {'url', 'web'} -> {'www', 'https'}, confidence: 0.8786
+Rule: {'www', 'url', 'https'} -> {'web'}, confidence: 0.9476
+Rule: {'www', 'web', 'https'} -> {'url'}, confidence: 0.9945
+Rule: {'url', 'web', 'https'} -> {'www'}, confidence: 0.9378
+Rule: {'www', 'url', 'web'} -> {'https'}, confidence: 0.9577
+Rule: {'https'} -> {'url', 'title', 'people'}, confidence: 0.6591
+Rule: {'url'} -> {'people', 'title', 'https'}, confidence: 0.6444
+Rule: {'title'} -> {'people', 'url', 'https'}, confidence: 0.6092
+Rule: {'people'} -> {'url', 'title', 'https'}, confidence: 0.4462
+Rule: {'url', 'https'} -> {'title', 'people'}, confidence: 0.7005
+Rule: {'title', 'https'} -> {'url', 'people'}, confidence: 0.7323
+Rule: {'people', 'https'} -> {'url', 'title'}, confidence: 0.9236
+Rule: {'url', 'title'} -> {'people', 'https'}, confidence: 0.6938
+Rule: {'url', 'people'} -> {'title', 'https'}, confidence: 0.8896
+Rule: {'title', 'people'} -> {'url', 'https'}, confidence: 0.8683
+Rule: {'url', 'title', 'https'} -> {'people'}, confidence: 0.7398
+Rule: {'people', 'url', 'https'} -> {'title'}, confidence: 0.9539
+Rule: {'people', 'title', 'https'} -> {'url'}, confidence: 0.9932
+Rule: {'url', 'title', 'people'} -> {'https'}, confidence: 0.9416
+Rule: {'references'} -> {'url', 'cite', 'people'}, confidence: 0.5840
+Rule: {'cite'} -> {'references', 'url', 'people'}, confidence: 0.6919
+Rule: {'url'} -> {'references', 'cite', 'people'}, confidence: 0.6489
+Rule: {'people'} -> {'references', 'url', 'cite'}, confidence: 0.4492
+Rule: {'references', 'cite'} -> {'url', 'people'}, confidence: 0.7374
+Rule: {'references', 'url'} -> {'cite', 'people'}, confidence: 0.7192
+Rule: {'references', 'people'} -> {'url', 'cite'}, confidence: 0.7935
+Rule: {'url', 'cite'} -> {'references', 'people'}, confidence: 0.7053
+Rule: {'cite', 'people'} -> {'references', 'url'}, confidence: 0.9419
+Rule: {'url', 'people'} -> {'references', 'cite'}, confidence: 0.8957
+Rule: {'references', 'url', 'cite'} -> {'people'}, confidence: 0.7487
+Rule: {'references', 'cite', 'people'} -> {'url'}, confidence: 0.9865
+Rule: {'references', 'url', 'people'} -> {'cite'}, confidence: 0.9605
+Rule: {'url', 'cite', 'people'} -> {'references'}, confidence: 0.9542
+Rule: {'cite'} -> {'www', 'url', 'web'}, confidence: 0.8436
+Rule: {'www'} -> {'web', 'url', 'cite'}, confidence: 0.8128
+Rule: {'url'} -> {'web', 'www', 'cite'}, confidence: 0.7911
+Rule: {'web'} -> {'www', 'url', 'cite'}, confidence: 0.8018
+Rule: {'www', 'cite'} -> {'url', 'web'}, confidence: 0.9468
+Rule: {'url', 'cite'} -> {'www', 'web'}, confidence: 0.8599
+Rule: {'web', 'cite'} -> {'www', 'url'}, confidence: 0.9319
+Rule: {'www', 'url'} -> {'web', 'cite'}, confidence: 0.8945
+Rule: {'www', 'web'} -> {'url', 'cite'}, confidence: 0.9319
+Rule: {'url', 'web'} -> {'www', 'cite'}, confidence: 0.8641
+Rule: {'www', 'url', 'cite'} -> {'web'}, confidence: 0.9519
+Rule: {'web', 'www', 'cite'} -> {'url'}, confidence: 1.0000
+Rule: {'web', 'url', 'cite'} -> {'www'}, confidence: 0.9319
+Rule: {'www', 'url', 'web'} -> {'cite'}, confidence: 0.9418
+Rule: {'cite'} -> {'url', 'title', 'people'}, confidence: 0.7251
+Rule: {'url'} -> {'title', 'cite', 'people'}, confidence: 0.6800
+Rule: {'title'} -> {'url', 'cite', 'people'}, confidence: 0.6429
+Rule: {'people'} -> {'url', 'title', 'cite'}, confidence: 0.4708
+Rule: {'url', 'cite'} -> {'title', 'people'}, confidence: 0.7391
+Rule: {'title', 'cite'} -> {'url', 'people'}, confidence: 0.7251
+Rule: {'cite', 'people'} -> {'url', 'title'}, confidence: 0.9871
+Rule: {'url', 'title'} -> {'cite', 'people'}, confidence: 0.7321
+Rule: {'url', 'people'} -> {'title', 'cite'}, confidence: 0.9387
+Rule: {'title', 'people'} -> {'url', 'cite'}, confidence: 0.9162
+Rule: {'url', 'title', 'cite'} -> {'people'}, confidence: 0.7391
+Rule: {'url', 'cite', 'people'} -> {'title'}, confidence: 1.0000
+Rule: {'title', 'cite', 'people'} -> {'url'}, confidence: 0.9871
+Rule: {'url', 'title', 'people'} -> {'cite'}, confidence: 0.9935
+Rule: {'cite'} -> {'people', 'title', 'https'}, confidence: 0.6825
+Rule: {'https'} -> {'title', 'cite', 'people'}, confidence: 0.6545
+Rule: {'title'} -> {'people', 'cite', 'https'}, confidence: 0.6050
+Rule: {'people'} -> {'title', 'cite', 'https'}, confidence: 0.4431
+Rule: {'cite', 'https'} -> {'title', 'people'}, confidence: 0.7385
+Rule: {'title', 'cite'} -> {'people', 'https'}, confidence: 0.6825
+Rule: {'cite', 'people'} -> {'title', 'https'}, confidence: 0.9290
+Rule: {'title', 'https'} -> {'cite', 'people'}, confidence: 0.7273
+Rule: {'people', 'https'} -> {'title', 'cite'}, confidence: 0.9172
+Rule: {'title', 'people'} -> {'cite', 'https'}, confidence: 0.8623
+Rule: {'title', 'cite', 'https'} -> {'people'}, confidence: 0.7385
+Rule: {'people', 'cite', 'https'} -> {'title'}, confidence: 1.0000
+Rule: {'title', 'cite', 'people'} -> {'https'}, confidence: 0.9290
+Rule: {'people', 'title', 'https'} -> {'cite'}, confidence: 0.9863
+Rule: {'cite'} -> {'www', 'web', 'https'}, confidence: 0.8104
+Rule: {'https'} -> {'web', 'www', 'cite'}, confidence: 0.7773
+Rule: {'www'} -> {'web', 'cite', 'https'}, confidence: 0.7808
+Rule: {'web'} -> {'www', 'cite', 'https'}, confidence: 0.7703
+Rule: {'cite', 'https'} -> {'www', 'web'}, confidence: 0.8769
+Rule: {'www', 'cite'} -> {'web', 'https'}, confidence: 0.9096
+Rule: {'web', 'cite'} -> {'www', 'https'}, confidence: 0.8953
+Rule: {'www', 'https'} -> {'web', 'cite'}, confidence: 0.8636
+Rule: {'web', 'https'} -> {'www', 'cite'}, confidence: 0.8769
+Rule: {'www', 'web'} -> {'cite', 'https'}, confidence: 0.8953
+Rule: {'www', 'cite', 'https'} -> {'web'}, confidence: 0.9448
+Rule: {'web', 'cite', 'https'} -> {'www'}, confidence: 0.9448
+Rule: {'web', 'www', 'cite'} -> {'https'}, confidence: 0.9607
+Rule: {'www', 'web', 'https'} -> {'cite'}, confidence: 0.9396
+Rule: {'references'} -> {'http', 'www', 'title'}, confidence: 0.5760
+Rule: {'http'} -> {'references', 'www', 'title'}, confidence: 0.7461
+Rule: {'www'} -> {'references', 'http', 'title'}, confidence: 0.6575
+Rule: {'title'} -> {'references', 'http', 'www'}, confidence: 0.6050
+Rule: {'references', 'http'} -> {'www', 'title'}, confidence: 0.8675
+Rule: {'references', 'www'} -> {'http', 'title'}, confidence: 0.7423
+Rule: {'references', 'title'} -> {'http', 'www'}, confidence: 0.7024
+Rule: {'http', 'www'} -> {'references', 'title'}, confidence: 0.8324
+Rule: {'http', 'title'} -> {'references', 'www'}, confidence: 0.8780
+Rule: {'www', 'title'} -> {'references', 'http'}, confidence: 0.7385
+Rule: {'references', 'http', 'www'} -> {'title'}, confidence: 0.9412
+Rule: {'references', 'http', 'title'} -> {'www'}, confidence: 0.9351
+Rule: {'references', 'www', 'title'} -> {'http'}, confidence: 0.7956
+Rule: {'http', 'www', 'title'} -> {'references'}, confidence: 0.9412
+Rule: {'https'} -> {'http', 'url', 'title'}, confidence: 0.6545
+Rule: {'http'} -> {'url', 'title', 'https'}, confidence: 0.7461
+Rule: {'url'} -> {'http', 'title', 'https'}, confidence: 0.6400
+Rule: {'title'} -> {'http', 'url', 'https'}, confidence: 0.6050
+Rule: {'http', 'https'} -> {'url', 'title'}, confidence: 0.9057
+Rule: {'url', 'https'} -> {'http', 'title'}, confidence: 0.6957
+Rule: {'title', 'https'} -> {'http', 'url'}, confidence: 0.7273
+Rule: {'http', 'url'} -> {'title', 'https'}, confidence: 0.8521
+Rule: {'http', 'title'} -> {'url', 'https'}, confidence: 0.8780
+Rule: {'url', 'title'} -> {'http', 'https'}, confidence: 0.6890
+Rule: {'http', 'url', 'https'} -> {'title'}, confidence: 0.9351
+Rule: {'http', 'title', 'https'} -> {'url'}, confidence: 0.9931
+Rule: {'url', 'title', 'https'} -> {'http'}, confidence: 0.7347
+Rule: {'http', 'url', 'title'} -> {'https'}, confidence: 0.9172
+Rule: {'references'} -> {'date', 'url', 'cite'}, confidence: 0.7200
+Rule: {'date'} -> {'references', 'url', 'cite'}, confidence: 0.7692
+Rule: {'cite'} -> {'references', 'date', 'url'}, confidence: 0.8531
+Rule: {'url'} -> {'references', 'date', 'cite'}, confidence: 0.8000
+Rule: {'references', 'date'} -> {'url', 'cite'}, confidence: 0.9184
+Rule: {'references', 'cite'} -> {'date', 'url'}, confidence: 0.9091
+Rule: {'references', 'url'} -> {'date', 'cite'}, confidence: 0.8867
+Rule: {'date', 'cite'} -> {'references', 'url'}, confidence: 0.9474
+Rule: {'date', 'url'} -> {'references', 'cite'}, confidence: 0.8911
+Rule: {'url', 'cite'} -> {'references', 'date'}, confidence: 0.8696
+Rule: {'references', 'date', 'cite'} -> {'url'}, confidence: 0.9945
+Rule: {'references', 'date', 'url'} -> {'cite'}, confidence: 0.9626
+Rule: {'references', 'url', 'cite'} -> {'date'}, confidence: 0.9231
+Rule: {'date', 'url', 'cite'} -> {'references'}, confidence: 0.9574
+Rule: {'https'} -> {'http', 'url', 'web'}, confidence: 0.6818
+Rule: {'http'} -> {'url', 'web', 'https'}, confidence: 0.7772
+Rule: {'url'} -> {'http', 'web', 'https'}, confidence: 0.6667
+Rule: {'web'} -> {'http', 'url', 'https'}, confidence: 0.6757
+Rule: {'http', 'https'} -> {'url', 'web'}, confidence: 0.9434
+Rule: {'url', 'https'} -> {'http', 'web'}, confidence: 0.7246
+Rule: {'web', 'https'} -> {'http', 'url'}, confidence: 0.7692
+Rule: {'http', 'url'} -> {'web', 'https'}, confidence: 0.8876
+Rule: {'http', 'web'} -> {'url', 'https'}, confidence: 0.9146
+Rule: {'url', 'web'} -> {'http', 'https'}, confidence: 0.7282
+Rule: {'http', 'url', 'https'} -> {'web'}, confidence: 0.9740
+Rule: {'http', 'web', 'https'} -> {'url'}, confidence: 0.9868
+Rule: {'url', 'web', 'https'} -> {'http'}, confidence: 0.7772
+Rule: {'http', 'url', 'web'} -> {'https'}, confidence: 0.9317
+Rule: {'cite'} -> {'http', 'www', 'title'}, confidence: 0.7014
+Rule: {'http'} -> {'www', 'title', 'cite'}, confidence: 0.7668
+Rule: {'www'} -> {'http', 'title', 'cite'}, confidence: 0.6758
+Rule: {'title'} -> {'http', 'www', 'cite'}, confidence: 0.6218
+Rule: {'http', 'cite'} -> {'www', 'title'}, confidence: 0.9367
+Rule: {'www', 'cite'} -> {'http', 'title'}, confidence: 0.7872
+Rule: {'title', 'cite'} -> {'http', 'www'}, confidence: 0.7014
+Rule: {'http', 'www'} -> {'title', 'cite'}, confidence: 0.8555
+Rule: {'http', 'title'} -> {'www', 'cite'}, confidence: 0.9024
+Rule: {'www', 'title'} -> {'http', 'cite'}, confidence: 0.7590
+Rule: {'http', 'www', 'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'http', 'title', 'cite'} -> {'www'}, confidence: 0.9367
+Rule: {'www', 'title', 'cite'} -> {'http'}, confidence: 0.7872
+Rule: {'http', 'www', 'title'} -> {'cite'}, confidence: 0.9673
+Rule: {'references'} -> {'date', 'www', 'https'}, confidence: 0.6920
+Rule: {'date'} -> {'references', 'www', 'https'}, confidence: 0.7393
+Rule: {'https'} -> {'references', 'date', 'www'}, confidence: 0.7864
+Rule: {'www'} -> {'references', 'date', 'https'}, confidence: 0.7900
+Rule: {'references', 'date'} -> {'www', 'https'}, confidence: 0.8827
+Rule: {'references', 'https'} -> {'date', 'www'}, confidence: 0.8650
+Rule: {'references', 'www'} -> {'date', 'https'}, confidence: 0.8918
+Rule: {'date', 'https'} -> {'references', 'www'}, confidence: 0.8782
+Rule: {'date', 'www'} -> {'references', 'https'}, confidence: 0.9105
+Rule: {'www', 'https'} -> {'references', 'date'}, confidence: 0.8737
+Rule: {'references', 'date', 'https'} -> {'www'}, confidence: 0.9402
+Rule: {'references', 'date', 'www'} -> {'https'}, confidence: 0.9774
+Rule: {'references', 'www', 'https'} -> {'date'}, confidence: 0.9402
+Rule: {'date', 'www', 'https'} -> {'references'}, confidence: 0.9454
+Rule: {'references'} -> {'http', 'title', 'cite'}, confidence: 0.6040
+Rule: {'cite'} -> {'references', 'http', 'title'}, confidence: 0.7156
+Rule: {'http'} -> {'references', 'title', 'cite'}, confidence: 0.7824
+Rule: {'title'} -> {'references', 'http', 'cite'}, confidence: 0.6345
+Rule: {'references', 'cite'} -> {'http', 'title'}, confidence: 0.7626
+Rule: {'references', 'http'} -> {'title', 'cite'}, confidence: 0.9096
+Rule: {'references', 'title'} -> {'http', 'cite'}, confidence: 0.7366
+Rule: {'http', 'cite'} -> {'references', 'title'}, confidence: 0.9557
+Rule: {'title', 'cite'} -> {'references', 'http'}, confidence: 0.7156
+Rule: {'http', 'title'} -> {'references', 'cite'}, confidence: 0.9207
+Rule: {'references', 'http', 'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'references', 'title', 'cite'} -> {'http'}, confidence: 0.7626
+Rule: {'references', 'http', 'title'} -> {'cite'}, confidence: 0.9805
+Rule: {'http', 'title', 'cite'} -> {'references'}, confidence: 0.9557
+Rule: {'references'} -> {'url', 'title', 'web'}, confidence: 0.7240
+Rule: {'url'} -> {'references', 'title', 'web'}, confidence: 0.8044
+Rule: {'title'} -> {'references', 'url', 'web'}, confidence: 0.7605
+Rule: {'web'} -> {'references', 'url', 'title'}, confidence: 0.8153
+Rule: {'references', 'url'} -> {'title', 'web'}, confidence: 0.8916
+Rule: {'references', 'title'} -> {'url', 'web'}, confidence: 0.8829
+Rule: {'references', 'web'} -> {'url', 'title'}, confidence: 0.9628
+Rule: {'url', 'title'} -> {'references', 'web'}, confidence: 0.8660
+Rule: {'url', 'web'} -> {'references', 'title'}, confidence: 0.8786
+Rule: {'title', 'web'} -> {'references', 'url'}, confidence: 0.9330
+Rule: {'references', 'url', 'title'} -> {'web'}, confidence: 0.9188
+Rule: {'references', 'url', 'web'} -> {'title'}, confidence: 0.9731
+Rule: {'references', 'title', 'web'} -> {'url'}, confidence: 1.0000
+Rule: {'url', 'title', 'web'} -> {'references'}, confidence: 0.9427
+Rule: {'references'} -> {'www', 'url', 'cite'}, confidence: 0.7080
+Rule: {'cite'} -> {'references', 'www', 'url'}, confidence: 0.8389
+Rule: {'www'} -> {'references', 'url', 'cite'}, confidence: 0.8082
+Rule: {'url'} -> {'references', 'www', 'cite'}, confidence: 0.7867
+Rule: {'references', 'cite'} -> {'www', 'url'}, confidence: 0.8939
+Rule: {'references', 'www'} -> {'url', 'cite'}, confidence: 0.9124
+Rule: {'references', 'url'} -> {'www', 'cite'}, confidence: 0.8719
+Rule: {'www', 'cite'} -> {'references', 'url'}, confidence: 0.9415
+Rule: {'url', 'cite'} -> {'references', 'www'}, confidence: 0.8551
+Rule: {'www', 'url'} -> {'references', 'cite'}, confidence: 0.8894
+Rule: {'references', 'www', 'cite'} -> {'url'}, confidence: 0.9944
+Rule: {'references', 'url', 'cite'} -> {'www'}, confidence: 0.9077
+Rule: {'references', 'www', 'url'} -> {'cite'}, confidence: 0.9672
+Rule: {'www', 'url', 'cite'} -> {'references'}, confidence: 0.9465
+Rule: {'references'} -> {'www', 'url', 'title'}, confidence: 0.7160
+Rule: {'www'} -> {'references', 'url', 'title'}, confidence: 0.8174
+Rule: {'url'} -> {'references', 'www', 'title'}, confidence: 0.7956
+Rule: {'title'} -> {'references', 'www', 'url'}, confidence: 0.7521
+Rule: {'references', 'www'} -> {'url', 'title'}, confidence: 0.9227
+Rule: {'references', 'url'} -> {'www', 'title'}, confidence: 0.8818
+Rule: {'references', 'title'} -> {'www', 'url'}, confidence: 0.8732
+Rule: {'www', 'url'} -> {'references', 'title'}, confidence: 0.8995
+Rule: {'www', 'title'} -> {'references', 'url'}, confidence: 0.9179
+Rule: {'url', 'title'} -> {'references', 'www'}, confidence: 0.8565
+Rule: {'references', 'www', 'url'} -> {'title'}, confidence: 0.9781
+Rule: {'references', 'www', 'title'} -> {'url'}, confidence: 0.9890
+Rule: {'references', 'url', 'title'} -> {'www'}, confidence: 0.9086
+Rule: {'www', 'url', 'title'} -> {'references'}, confidence: 0.9471
+Rule: {'references'} -> {'web', 'url', 'cite'}, confidence: 0.7200
+Rule: {'cite'} -> {'references', 'url', 'web'}, confidence: 0.8531
+Rule: {'url'} -> {'references', 'web', 'cite'}, confidence: 0.8000
+Rule: {'web'} -> {'references', 'url', 'cite'}, confidence: 0.8108
+Rule: {'references', 'cite'} -> {'url', 'web'}, confidence: 0.9091
+Rule: {'references', 'url'} -> {'web', 'cite'}, confidence: 0.8867
+Rule: {'references', 'web'} -> {'url', 'cite'}, confidence: 0.9574
+Rule: {'url', 'cite'} -> {'references', 'web'}, confidence: 0.8696
+Rule: {'web', 'cite'} -> {'references', 'url'}, confidence: 0.9424
+Rule: {'url', 'web'} -> {'references', 'cite'}, confidence: 0.8738
+Rule: {'references', 'url', 'cite'} -> {'web'}, confidence: 0.9231
+Rule: {'references', 'web', 'cite'} -> {'url'}, confidence: 1.0000
+Rule: {'references', 'url', 'web'} -> {'cite'}, confidence: 0.9677
+Rule: {'web', 'url', 'cite'} -> {'references'}, confidence: 0.9424
+Rule: {'date'} -> {'http', 'www', 'url'}, confidence: 0.6410
+Rule: {'http'} -> {'date', 'www', 'url'}, confidence: 0.7772
+Rule: {'www'} -> {'date', 'http', 'url'}, confidence: 0.6849
+Rule: {'url'} -> {'date', 'http', 'www'}, confidence: 0.6667
+Rule: {'date', 'http'} -> {'www', 'url'}, confidence: 0.9259
+Rule: {'date', 'www'} -> {'http', 'url'}, confidence: 0.7895
+Rule: {'date', 'url'} -> {'http', 'www'}, confidence: 0.7426
+Rule: {'http', 'www'} -> {'date', 'url'}, confidence: 0.8671
+Rule: {'http', 'url'} -> {'date', 'www'}, confidence: 0.8876
+Rule: {'www', 'url'} -> {'date', 'http'}, confidence: 0.7538
+Rule: {'date', 'http', 'www'} -> {'url'}, confidence: 0.9804
+Rule: {'date', 'http', 'url'} -> {'www'}, confidence: 0.9494
+Rule: {'date', 'www', 'url'} -> {'http'}, confidence: 0.8108
+Rule: {'http', 'www', 'url'} -> {'date'}, confidence: 0.9494
+Rule: {'date'} -> {'http', 'www', 'https'}, confidence: 0.6239
+Rule: {'https'} -> {'date', 'http', 'www'}, confidence: 0.6636
+Rule: {'http'} -> {'date', 'www', 'https'}, confidence: 0.7565
+Rule: {'www'} -> {'date', 'http', 'https'}, confidence: 0.6667
+Rule: {'date', 'https'} -> {'http', 'www'}, confidence: 0.7411
+Rule: {'date', 'http'} -> {'www', 'https'}, confidence: 0.9012
+Rule: {'date', 'www'} -> {'http', 'https'}, confidence: 0.7684
+Rule: {'http', 'https'} -> {'date', 'www'}, confidence: 0.9182
+Rule: {'www', 'https'} -> {'date', 'http'}, confidence: 0.7374
+Rule: {'http', 'www'} -> {'date', 'https'}, confidence: 0.8439
+Rule: {'date', 'http', 'https'} -> {'www'}, confidence: 0.9733
+Rule: {'date', 'www', 'https'} -> {'http'}, confidence: 0.7978
+Rule: {'date', 'http', 'www'} -> {'https'}, confidence: 0.9542
+Rule: {'http', 'www', 'https'} -> {'date'}, confidence: 0.9542
+Rule: {'references'} -> {'www', 'title', 'cite'}, confidence: 0.7120
+Rule: {'cite'} -> {'references', 'www', 'title'}, confidence: 0.8436
+Rule: {'www'} -> {'references', 'title', 'cite'}, confidence: 0.8128
+Rule: {'title'} -> {'references', 'www', 'cite'}, confidence: 0.7479
+Rule: {'references', 'cite'} -> {'www', 'title'}, confidence: 0.8990
+Rule: {'references', 'www'} -> {'title', 'cite'}, confidence: 0.9175
+Rule: {'references', 'title'} -> {'www', 'cite'}, confidence: 0.8683
+Rule: {'www', 'cite'} -> {'references', 'title'}, confidence: 0.9468
+Rule: {'title', 'cite'} -> {'references', 'www'}, confidence: 0.8436
+Rule: {'www', 'title'} -> {'references', 'cite'}, confidence: 0.9128
+Rule: {'references', 'www', 'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'references', 'title', 'cite'} -> {'www'}, confidence: 0.8990
+Rule: {'references', 'www', 'title'} -> {'cite'}, confidence: 0.9834
+Rule: {'www', 'title', 'cite'} -> {'references'}, confidence: 0.9468
+Rule: {'references'} -> {'url', 'title', 'one'}, confidence: 0.6000
+Rule: {'url'} -> {'references', 'title', 'one'}, confidence: 0.6667
+Rule: {'title'} -> {'references', 'url', 'one'}, confidence: 0.6303
+Rule: {'one'} -> {'references', 'url', 'title'}, confidence: 0.5068
+Rule: {'references', 'url'} -> {'title', 'one'}, confidence: 0.7389
+Rule: {'references', 'title'} -> {'url', 'one'}, confidence: 0.7317
+Rule: {'references', 'one'} -> {'url', 'title'}, confidence: 0.8152
+Rule: {'url', 'title'} -> {'references', 'one'}, confidence: 0.7177
+Rule: {'url', 'one'} -> {'references', 'title'}, confidence: 0.9434
+Rule: {'title', 'one'} -> {'references', 'url'}, confidence: 0.8824
+Rule: {'references', 'url', 'title'} -> {'one'}, confidence: 0.7614
+Rule: {'references', 'url', 'one'} -> {'title'}, confidence: 0.9804
+Rule: {'references', 'title', 'one'} -> {'url'}, confidence: 0.9554
+Rule: {'url', 'title', 'one'} -> {'references'}, confidence: 0.9804
+Rule: {'references'} -> {'date', 'web', 'https'}, confidence: 0.6880
+Rule: {'date'} -> {'references', 'web', 'https'}, confidence: 0.7350
+Rule: {'https'} -> {'references', 'date', 'web'}, confidence: 0.7818
+Rule: {'web'} -> {'references', 'date', 'https'}, confidence: 0.7748
+Rule: {'references', 'date'} -> {'web', 'https'}, confidence: 0.8776
+Rule: {'references', 'https'} -> {'date', 'web'}, confidence: 0.8600
+Rule: {'references', 'web'} -> {'date', 'https'}, confidence: 0.9149
+Rule: {'date', 'https'} -> {'references', 'web'}, confidence: 0.8731
+Rule: {'date', 'web'} -> {'references', 'https'}, confidence: 0.9053
+Rule: {'web', 'https'} -> {'references', 'date'}, confidence: 0.8821
+Rule: {'references', 'date', 'https'} -> {'web'}, confidence: 0.9348
+Rule: {'references', 'date', 'web'} -> {'https'}, confidence: 0.9773
+Rule: {'references', 'web', 'https'} -> {'date'}, confidence: 0.9663
+Rule: {'date', 'web', 'https'} -> {'references'}, confidence: 0.9297
+Rule: {'cite'} -> {'http', 'title', 'web'}, confidence: 0.7062
+Rule: {'http'} -> {'web', 'title', 'cite'}, confidence: 0.7720
+Rule: {'title'} -> {'http', 'cite', 'web'}, confidence: 0.6261
+Rule: {'web'} -> {'http', 'title', 'cite'}, confidence: 0.6712
+Rule: {'http', 'cite'} -> {'title', 'web'}, confidence: 0.9430
+Rule: {'title', 'cite'} -> {'http', 'web'}, confidence: 0.7062
+Rule: {'web', 'cite'} -> {'http', 'title'}, confidence: 0.7801
+Rule: {'http', 'title'} -> {'web', 'cite'}, confidence: 0.9085
+Rule: {'http', 'web'} -> {'title', 'cite'}, confidence: 0.9085
+Rule: {'title', 'web'} -> {'http', 'cite'}, confidence: 0.7680
+Rule: {'http', 'title', 'cite'} -> {'web'}, confidence: 0.9430
+Rule: {'http', 'cite', 'web'} -> {'title'}, confidence: 1.0000
+Rule: {'web', 'title', 'cite'} -> {'http'}, confidence: 0.7801
+Rule: {'http', 'title', 'web'} -> {'cite'}, confidence: 0.9868
+Rule: {'https'} -> {'http', 'www', 'url'}, confidence: 0.6818
+Rule: {'http'} -> {'www', 'url', 'https'}, confidence: 0.7772
+Rule: {'www'} -> {'http', 'url', 'https'}, confidence: 0.6849
+Rule: {'url'} -> {'http', 'www', 'https'}, confidence: 0.6667
+Rule: {'http', 'https'} -> {'www', 'url'}, confidence: 0.9434
+Rule: {'www', 'https'} -> {'http', 'url'}, confidence: 0.7576
+Rule: {'url', 'https'} -> {'http', 'www'}, confidence: 0.7246
+Rule: {'http', 'www'} -> {'url', 'https'}, confidence: 0.8671
+Rule: {'http', 'url'} -> {'www', 'https'}, confidence: 0.8876
+Rule: {'www', 'url'} -> {'http', 'https'}, confidence: 0.7538
+Rule: {'http', 'www', 'https'} -> {'url'}, confidence: 0.9804
+Rule: {'http', 'url', 'https'} -> {'www'}, confidence: 0.9740
+Rule: {'www', 'url', 'https'} -> {'http'}, confidence: 0.7853
+Rule: {'http', 'www', 'url'} -> {'https'}, confidence: 0.9494
+Rule: {'references'} -> {'http', 'url', 'web'}, confidence: 0.5920
+Rule: {'http'} -> {'references', 'url', 'web'}, confidence: 0.7668
+Rule: {'url'} -> {'references', 'http', 'web'}, confidence: 0.6578
+Rule: {'web'} -> {'references', 'http', 'url'}, confidence: 0.6667
+Rule: {'references', 'http'} -> {'url', 'web'}, confidence: 0.8916
+Rule: {'references', 'url'} -> {'http', 'web'}, confidence: 0.7291
+Rule: {'references', 'web'} -> {'http', 'url'}, confidence: 0.7872
+Rule: {'http', 'url'} -> {'references', 'web'}, confidence: 0.8757
+Rule: {'http', 'web'} -> {'references', 'url'}, confidence: 0.9024
+Rule: {'url', 'web'} -> {'references', 'http'}, confidence: 0.7184
+Rule: {'references', 'http', 'url'} -> {'web'}, confidence: 0.9548
+Rule: {'references', 'http', 'web'} -> {'url'}, confidence: 0.9933
+Rule: {'references', 'url', 'web'} -> {'http'}, confidence: 0.7957
+Rule: {'http', 'url', 'web'} -> {'references'}, confidence: 0.9193
+Rule: {'http'} -> {'url', 'title', 'web'}, confidence: 0.7772
+Rule: {'url'} -> {'http', 'title', 'web'}, confidence: 0.6667
+Rule: {'title'} -> {'http', 'url', 'web'}, confidence: 0.6303
+Rule: {'web'} -> {'http', 'url', 'title'}, confidence: 0.6757
+Rule: {'http', 'url'} -> {'title', 'web'}, confidence: 0.8876
+Rule: {'http', 'title'} -> {'url', 'web'}, confidence: 0.9146
+Rule: {'http', 'web'} -> {'url', 'title'}, confidence: 0.9146
+Rule: {'url', 'title'} -> {'http', 'web'}, confidence: 0.7177
+Rule: {'url', 'web'} -> {'http', 'title'}, confidence: 0.7282
+Rule: {'title', 'web'} -> {'http', 'url'}, confidence: 0.7732
+Rule: {'http', 'url', 'title'} -> {'web'}, confidence: 0.9554
+Rule: {'http', 'url', 'web'} -> {'title'}, confidence: 0.9317
+Rule: {'http', 'title', 'web'} -> {'url'}, confidence: 0.9934
+Rule: {'url', 'title', 'web'} -> {'http'}, confidence: 0.7812
+Rule: {'cite'} -> {'http', 'www', 'url'}, confidence: 0.6967
+Rule: {'http'} -> {'www', 'url', 'cite'}, confidence: 0.7617
+Rule: {'www'} -> {'http', 'url', 'cite'}, confidence: 0.6712
+Rule: {'url'} -> {'http', 'www', 'cite'}, confidence: 0.6533
+Rule: {'http', 'cite'} -> {'www', 'url'}, confidence: 0.9304
+Rule: {'www', 'cite'} -> {'http', 'url'}, confidence: 0.7819
+Rule: {'url', 'cite'} -> {'http', 'www'}, confidence: 0.7101
+Rule: {'http', 'www'} -> {'url', 'cite'}, confidence: 0.8497
+Rule: {'http', 'url'} -> {'www', 'cite'}, confidence: 0.8698
+Rule: {'www', 'url'} -> {'http', 'cite'}, confidence: 0.7387
+Rule: {'http', 'www', 'cite'} -> {'url'}, confidence: 0.9932
+Rule: {'http', 'url', 'cite'} -> {'www'}, confidence: 0.9423
+Rule: {'www', 'url', 'cite'} -> {'http'}, confidence: 0.7861
+Rule: {'http', 'www', 'url'} -> {'cite'}, confidence: 0.9304
+Rule: {'http'} -> {'www', 'url', 'title'}, confidence: 0.7668
+Rule: {'www'} -> {'http', 'url', 'title'}, confidence: 0.6758
+Rule: {'url'} -> {'http', 'www', 'title'}, confidence: 0.6578
+Rule: {'title'} -> {'http', 'www', 'url'}, confidence: 0.6218
+Rule: {'http', 'www'} -> {'url', 'title'}, confidence: 0.8555
+Rule: {'http', 'url'} -> {'www', 'title'}, confidence: 0.8757
+Rule: {'http', 'title'} -> {'www', 'url'}, confidence: 0.9024
+Rule: {'www', 'url'} -> {'http', 'title'}, confidence: 0.7437
+Rule: {'www', 'title'} -> {'http', 'url'}, confidence: 0.7590
+Rule: {'url', 'title'} -> {'http', 'www'}, confidence: 0.7081
+Rule: {'http', 'www', 'url'} -> {'title'}, confidence: 0.9367
+Rule: {'http', 'www', 'title'} -> {'url'}, confidence: 0.9673
+Rule: {'http', 'url', 'title'} -> {'www'}, confidence: 0.9427
+Rule: {'www', 'url', 'title'} -> {'http'}, confidence: 0.7831
+Rule: {'cite'} -> {'http', 'url', 'web'}, confidence: 0.7062
+Rule: {'http'} -> {'web', 'url', 'cite'}, confidence: 0.7720
+Rule: {'url'} -> {'http', 'cite', 'web'}, confidence: 0.6622
+Rule: {'web'} -> {'http', 'url', 'cite'}, confidence: 0.6712
+Rule: {'http', 'cite'} -> {'url', 'web'}, confidence: 0.9430
+Rule: {'url', 'cite'} -> {'http', 'web'}, confidence: 0.7198
+Rule: {'web', 'cite'} -> {'http', 'url'}, confidence: 0.7801
+Rule: {'http', 'url'} -> {'web', 'cite'}, confidence: 0.8817
+Rule: {'http', 'web'} -> {'url', 'cite'}, confidence: 0.9085
+Rule: {'url', 'web'} -> {'http', 'cite'}, confidence: 0.7233
+Rule: {'http', 'url', 'cite'} -> {'web'}, confidence: 0.9551
+Rule: {'http', 'cite', 'web'} -> {'url'}, confidence: 1.0000
+Rule: {'web', 'url', 'cite'} -> {'http'}, confidence: 0.7801
+Rule: {'http', 'url', 'web'} -> {'cite'}, confidence: 0.9255
+Rule: {'references'} -> {'http', 'www', 'url'}, confidence: 0.5840
+Rule: {'http'} -> {'references', 'www', 'url'}, confidence: 0.7565
+Rule: {'www'} -> {'references', 'http', 'url'}, confidence: 0.6667
+Rule: {'url'} -> {'references', 'http', 'www'}, confidence: 0.6489
+Rule: {'references', 'http'} -> {'www', 'url'}, confidence: 0.8795
+Rule: {'references', 'www'} -> {'http', 'url'}, confidence: 0.7526
+Rule: {'references', 'url'} -> {'http', 'www'}, confidence: 0.7192
+Rule: {'http', 'www'} -> {'references', 'url'}, confidence: 0.8439
+Rule: {'http', 'url'} -> {'references', 'www'}, confidence: 0.8639
+Rule: {'www', 'url'} -> {'references', 'http'}, confidence: 0.7337
+Rule: {'references', 'http', 'www'} -> {'url'}, confidence: 0.9542
+Rule: {'references', 'http', 'url'} -> {'www'}, confidence: 0.9419
+Rule: {'references', 'www', 'url'} -> {'http'}, confidence: 0.7978
+Rule: {'http', 'www', 'url'} -> {'references'}, confidence: 0.9241
+Rule: {'cite'} -> {'people', 'url', 'https'}, confidence: 0.6825
+Rule: {'https'} -> {'url', 'cite', 'people'}, confidence: 0.6545
+Rule: {'url'} -> {'people', 'cite', 'https'}, confidence: 0.6400
+Rule: {'people'} -> {'url', 'cite', 'https'}, confidence: 0.4431
+Rule: {'cite', 'https'} -> {'url', 'people'}, confidence: 0.7385
+Rule: {'url', 'cite'} -> {'people', 'https'}, confidence: 0.6957
+Rule: {'cite', 'people'} -> {'url', 'https'}, confidence: 0.9290
+Rule: {'url', 'https'} -> {'cite', 'people'}, confidence: 0.6957
+Rule: {'people', 'https'} -> {'url', 'cite'}, confidence: 0.9172
+Rule: {'url', 'people'} -> {'cite', 'https'}, confidence: 0.8834
+Rule: {'url', 'cite', 'https'} -> {'people'}, confidence: 0.7423
+Rule: {'people', 'cite', 'https'} -> {'url'}, confidence: 1.0000
+Rule: {'url', 'cite', 'people'} -> {'https'}, confidence: 0.9412
+Rule: {'people', 'url', 'https'} -> {'cite'}, confidence: 0.9474
+Rule: {'cite'} -> {'www', 'title', 'web'}, confidence: 0.8436
+Rule: {'www'} -> {'web', 'title', 'cite'}, confidence: 0.8128
+Rule: {'title'} -> {'web', 'www', 'cite'}, confidence: 0.7479
+Rule: {'web'} -> {'www', 'title', 'cite'}, confidence: 0.8018
+Rule: {'www', 'cite'} -> {'title', 'web'}, confidence: 0.9468
+Rule: {'title', 'cite'} -> {'www', 'web'}, confidence: 0.8436
+Rule: {'web', 'cite'} -> {'www', 'title'}, confidence: 0.9319
+Rule: {'www', 'title'} -> {'web', 'cite'}, confidence: 0.9128
+Rule: {'www', 'web'} -> {'title', 'cite'}, confidence: 0.9319
+Rule: {'title', 'web'} -> {'www', 'cite'}, confidence: 0.9175
+Rule: {'www', 'title', 'cite'} -> {'web'}, confidence: 0.9468
+Rule: {'web', 'www', 'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'web', 'title', 'cite'} -> {'www'}, confidence: 0.9319
+Rule: {'www', 'title', 'web'} -> {'cite'}, confidence: 0.9889
+Rule: {'references'} -> {'web', 'title', 'cite'}, confidence: 0.7200
+Rule: {'cite'} -> {'references', 'title', 'web'}, confidence: 0.8531
+Rule: {'title'} -> {'references', 'web', 'cite'}, confidence: 0.7563
+Rule: {'web'} -> {'references', 'title', 'cite'}, confidence: 0.8108
+Rule: {'references', 'cite'} -> {'title', 'web'}, confidence: 0.9091
+Rule: {'references', 'title'} -> {'web', 'cite'}, confidence: 0.8780
+Rule: {'references', 'web'} -> {'title', 'cite'}, confidence: 0.9574
+Rule: {'title', 'cite'} -> {'references', 'web'}, confidence: 0.8531
+Rule: {'web', 'cite'} -> {'references', 'title'}, confidence: 0.9424
+Rule: {'title', 'web'} -> {'references', 'cite'}, confidence: 0.9278
+Rule: {'references', 'title', 'cite'} -> {'web'}, confidence: 0.9091
+Rule: {'references', 'web', 'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'references', 'title', 'web'} -> {'cite'}, confidence: 0.9945
+Rule: {'web', 'title', 'cite'} -> {'references'}, confidence: 0.9424
+Rule: {'references'} -> {'one', 'url', 'cite'}, confidence: 0.6000
+Rule: {'cite'} -> {'references', 'url', 'one'}, confidence: 0.7109
+Rule: {'url'} -> {'references', 'one', 'cite'}, confidence: 0.6667
+Rule: {'one'} -> {'references', 'url', 'cite'}, confidence: 0.5068
+Rule: {'references', 'cite'} -> {'url', 'one'}, confidence: 0.7576
+Rule: {'references', 'url'} -> {'one', 'cite'}, confidence: 0.7389
+Rule: {'references', 'one'} -> {'url', 'cite'}, confidence: 0.8152
+Rule: {'url', 'cite'} -> {'references', 'one'}, confidence: 0.7246
+Rule: {'one', 'cite'} -> {'references', 'url'}, confidence: 0.9615
+Rule: {'url', 'one'} -> {'references', 'cite'}, confidence: 0.9434
+Rule: {'references', 'url', 'cite'} -> {'one'}, confidence: 0.7692
+Rule: {'references', 'one', 'cite'} -> {'url'}, confidence: 0.9868
+Rule: {'references', 'url', 'one'} -> {'cite'}, confidence: 0.9804
+Rule: {'one', 'url', 'cite'} -> {'references'}, confidence: 0.9804
+Rule: {'date'} -> {'http', 'url', 'web'}, confidence: 0.6453
+Rule: {'http'} -> {'date', 'url', 'web'}, confidence: 0.7824
+Rule: {'url'} -> {'date', 'http', 'web'}, confidence: 0.6711
+Rule: {'web'} -> {'date', 'http', 'url'}, confidence: 0.6802
+Rule: {'date', 'http'} -> {'url', 'web'}, confidence: 0.9321
+Rule: {'date', 'url'} -> {'http', 'web'}, confidence: 0.7475
+Rule: {'date', 'web'} -> {'http', 'url'}, confidence: 0.7947
+Rule: {'http', 'url'} -> {'date', 'web'}, confidence: 0.8935
+Rule: {'http', 'web'} -> {'date', 'url'}, confidence: 0.9207
+Rule: {'url', 'web'} -> {'date', 'http'}, confidence: 0.7330
+Rule: {'date', 'http', 'url'} -> {'web'}, confidence: 0.9557
+Rule: {'date', 'http', 'web'} -> {'url'}, confidence: 1.0000
+Rule: {'date', 'url', 'web'} -> {'http'}, confidence: 0.7947
+Rule: {'http', 'url', 'web'} -> {'date'}, confidence: 0.9379
+Rule: {'date'} -> {'http', 'web', 'https'}, confidence: 0.6239
+Rule: {'https'} -> {'date', 'http', 'web'}, confidence: 0.6636
+Rule: {'http'} -> {'date', 'web', 'https'}, confidence: 0.7565
+Rule: {'web'} -> {'date', 'http', 'https'}, confidence: 0.6577
+Rule: {'date', 'https'} -> {'http', 'web'}, confidence: 0.7411
+Rule: {'date', 'http'} -> {'web', 'https'}, confidence: 0.9012
+Rule: {'date', 'web'} -> {'http', 'https'}, confidence: 0.7684
+Rule: {'http', 'https'} -> {'date', 'web'}, confidence: 0.9182
+Rule: {'web', 'https'} -> {'date', 'http'}, confidence: 0.7487
+Rule: {'http', 'web'} -> {'date', 'https'}, confidence: 0.8902
+Rule: {'date', 'http', 'https'} -> {'web'}, confidence: 0.9733
+Rule: {'date', 'web', 'https'} -> {'http'}, confidence: 0.7892
+Rule: {'date', 'http', 'web'} -> {'https'}, confidence: 0.9669
+Rule: {'http', 'web', 'https'} -> {'date'}, confidence: 0.9605
+Rule: {'references'} -> {'url', 'cite', 'https'}, confidence: 0.7320
+Rule: {'cite'} -> {'references', 'url', 'https'}, confidence: 0.8673
+Rule: {'https'} -> {'references', 'url', 'cite'}, confidence: 0.8318
+Rule: {'url'} -> {'references', 'cite', 'https'}, confidence: 0.8133
+Rule: {'references', 'cite'} -> {'url', 'https'}, confidence: 0.9242
+Rule: {'references', 'https'} -> {'url', 'cite'}, confidence: 0.9150
+Rule: {'references', 'url'} -> {'cite', 'https'}, confidence: 0.9015
+Rule: {'cite', 'https'} -> {'references', 'url'}, confidence: 0.9385
+Rule: {'url', 'cite'} -> {'references', 'https'}, confidence: 0.8841
+Rule: {'url', 'https'} -> {'references', 'cite'}, confidence: 0.8841
+Rule: {'references', 'cite', 'https'} -> {'url'}, confidence: 0.9946
+Rule: {'references', 'url', 'cite'} -> {'https'}, confidence: 0.9385
+Rule: {'references', 'url', 'https'} -> {'cite'}, confidence: 0.9632
+Rule: {'url', 'cite', 'https'} -> {'references'}, confidence: 0.9433
+Rule: {'references'} -> {'date', 'http', 'url'}, confidence: 0.5840
+Rule: {'date'} -> {'references', 'http', 'url'}, confidence: 0.6239
+Rule: {'http'} -> {'references', 'date', 'url'}, confidence: 0.7565
+Rule: {'url'} -> {'references', 'date', 'http'}, confidence: 0.6489
+Rule: {'references', 'date'} -> {'http', 'url'}, confidence: 0.7449
+Rule: {'references', 'http'} -> {'date', 'url'}, confidence: 0.8795
+Rule: {'references', 'url'} -> {'date', 'http'}, confidence: 0.7192
+Rule: {'date', 'http'} -> {'references', 'url'}, confidence: 0.9012
+Rule: {'date', 'url'} -> {'references', 'http'}, confidence: 0.7228
+Rule: {'http', 'url'} -> {'references', 'date'}, confidence: 0.8639
+Rule: {'references', 'date', 'http'} -> {'url'}, confidence: 0.9865
+Rule: {'references', 'date', 'url'} -> {'http'}, confidence: 0.7807
+Rule: {'references', 'http', 'url'} -> {'date'}, confidence: 0.9419
+Rule: {'date', 'http', 'url'} -> {'references'}, confidence: 0.9241
+Rule: {'date'} -> {'http', 'url', 'title'}, confidence: 0.6282
+Rule: {'http'} -> {'date', 'url', 'title'}, confidence: 0.7617
+Rule: {'url'} -> {'date', 'http', 'title'}, confidence: 0.6533
+Rule: {'title'} -> {'date', 'http', 'url'}, confidence: 0.6176
+Rule: {'date', 'http'} -> {'url', 'title'}, confidence: 0.9074
+Rule: {'date', 'url'} -> {'http', 'title'}, confidence: 0.7277
+Rule: {'date', 'title'} -> {'http', 'url'}, confidence: 0.7500
+Rule: {'http', 'url'} -> {'date', 'title'}, confidence: 0.8698
+Rule: {'http', 'title'} -> {'date', 'url'}, confidence: 0.8963
+Rule: {'url', 'title'} -> {'date', 'http'}, confidence: 0.7033
+Rule: {'date', 'http', 'url'} -> {'title'}, confidence: 0.9304
+Rule: {'date', 'http', 'title'} -> {'url'}, confidence: 0.9866
+Rule: {'date', 'url', 'title'} -> {'http'}, confidence: 0.7737
+Rule: {'http', 'url', 'title'} -> {'date'}, confidence: 0.9363
+Rule: {'pages'} -> {'url', 'title', 'cite'}, confidence: 0.5560
+Rule: {'cite'} -> {'pages', 'url', 'title'}, confidence: 0.6825
+Rule: {'url'} -> {'pages', 'title', 'cite'}, confidence: 0.6400
+Rule: {'title'} -> {'pages', 'url', 'cite'}, confidence: 0.6050
+Rule: {'pages', 'cite'} -> {'url', 'title'}, confidence: 0.9796
+Rule: {'pages', 'url'} -> {'title', 'cite'}, confidence: 0.9412
+Rule: {'pages', 'title'} -> {'url', 'cite'}, confidence: 0.9231
+Rule: {'url', 'cite'} -> {'pages', 'title'}, confidence: 0.6957
+Rule: {'title', 'cite'} -> {'pages', 'url'}, confidence: 0.6825
+Rule: {'url', 'title'} -> {'pages', 'cite'}, confidence: 0.6890
+Rule: {'pages', 'url', 'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'pages', 'title', 'cite'} -> {'url'}, confidence: 0.9796
+Rule: {'pages', 'url', 'title'} -> {'cite'}, confidence: 1.0000
+Rule: {'url', 'title', 'cite'} -> {'pages'}, confidence: 0.6957
+Rule: {'date'} -> {'web', 'www', 'cite'}, confidence: 0.7137
+Rule: {'cite'} -> {'date', 'www', 'web'}, confidence: 0.7915
+Rule: {'www'} -> {'date', 'cite', 'web'}, confidence: 0.7626
+Rule: {'web'} -> {'date', 'www', 'cite'}, confidence: 0.7523
+Rule: {'date', 'cite'} -> {'www', 'web'}, confidence: 0.8789
+Rule: {'date', 'www'} -> {'web', 'cite'}, confidence: 0.8789
+Rule: {'date', 'web'} -> {'www', 'cite'}, confidence: 0.8789
+Rule: {'www', 'cite'} -> {'date', 'web'}, confidence: 0.8883
+Rule: {'web', 'cite'} -> {'date', 'www'}, confidence: 0.8743
+Rule: {'www', 'web'} -> {'date', 'cite'}, confidence: 0.8743
+Rule: {'date', 'www', 'cite'} -> {'web'}, confidence: 0.9598
+Rule: {'date', 'cite', 'web'} -> {'www'}, confidence: 0.9382
+Rule: {'date', 'www', 'web'} -> {'cite'}, confidence: 0.9435
+Rule: {'web', 'www', 'cite'} -> {'date'}, confidence: 0.9382
+Rule: {'date'} -> {'url', 'title', 'https'}, confidence: 0.7821
+Rule: {'https'} -> {'date', 'url', 'title'}, confidence: 0.8318
+Rule: {'url'} -> {'date', 'title', 'https'}, confidence: 0.8133
+Rule: {'title'} -> {'date', 'url', 'https'}, confidence: 0.7689
+Rule: {'date', 'https'} -> {'url', 'title'}, confidence: 0.9289
+Rule: {'date', 'url'} -> {'title', 'https'}, confidence: 0.9059
+Rule: {'date', 'title'} -> {'url', 'https'}, confidence: 0.9337
+Rule: {'url', 'https'} -> {'date', 'title'}, confidence: 0.8841
+Rule: {'title', 'https'} -> {'date', 'url'}, confidence: 0.9242
+Rule: {'url', 'title'} -> {'date', 'https'}, confidence: 0.8756
+Rule: {'date', 'url', 'https'} -> {'title'}, confidence: 0.9433
+Rule: {'date', 'title', 'https'} -> {'url'}, confidence: 0.9946
+Rule: {'date', 'url', 'title'} -> {'https'}, confidence: 0.9632
+Rule: {'url', 'title', 'https'} -> {'date'}, confidence: 0.9337
+Rule: {'references'} -> {'http', 'url', 'cite'}, confidence: 0.5960
+Rule: {'cite'} -> {'references', 'http', 'url'}, confidence: 0.7062
+Rule: {'http'} -> {'references', 'url', 'cite'}, confidence: 0.7720
+Rule: {'url'} -> {'references', 'http', 'cite'}, confidence: 0.6622
+Rule: {'references', 'cite'} -> {'http', 'url'}, confidence: 0.7525
+Rule: {'references', 'http'} -> {'url', 'cite'}, confidence: 0.8976
+Rule: {'references', 'url'} -> {'http', 'cite'}, confidence: 0.7340
+Rule: {'http', 'cite'} -> {'references', 'url'}, confidence: 0.9430
+Rule: {'url', 'cite'} -> {'references', 'http'}, confidence: 0.7198
+Rule: {'http', 'url'} -> {'references', 'cite'}, confidence: 0.8817
+Rule: {'references', 'http', 'cite'} -> {'url'}, confidence: 0.9868
+Rule: {'references', 'url', 'cite'} -> {'http'}, confidence: 0.7641
+Rule: {'references', 'http', 'url'} -> {'cite'}, confidence: 0.9613
+Rule: {'http', 'url', 'cite'} -> {'references'}, confidence: 0.9551
+Rule: {'references'} -> {'date', 'url', 'https'}, confidence: 0.7240
+Rule: {'date'} -> {'references', 'url', 'https'}, confidence: 0.7735
+Rule: {'https'} -> {'references', 'date', 'url'}, confidence: 0.8227
+Rule: {'url'} -> {'references', 'date', 'https'}, confidence: 0.8044
+Rule: {'references', 'date'} -> {'url', 'https'}, confidence: 0.9235
+Rule: {'references', 'https'} -> {'date', 'url'}, confidence: 0.9050
+Rule: {'references', 'url'} -> {'date', 'https'}, confidence: 0.8916
+Rule: {'date', 'https'} -> {'references', 'url'}, confidence: 0.9188
+Rule: {'date', 'url'} -> {'references', 'https'}, confidence: 0.8960
+Rule: {'url', 'https'} -> {'references', 'date'}, confidence: 0.8744
+Rule: {'references', 'date', 'https'} -> {'url'}, confidence: 0.9837
+Rule: {'references', 'date', 'url'} -> {'https'}, confidence: 0.9679
+Rule: {'references', 'url', 'https'} -> {'date'}, confidence: 0.9526
+Rule: {'date', 'url', 'https'} -> {'references'}, confidence: 0.9330
+Rule: {'date'} -> {'url', 'title', 'cite'}, confidence: 0.8034
+Rule: {'cite'} -> {'date', 'url', 'title'}, confidence: 0.8910
+Rule: {'url'} -> {'date', 'title', 'cite'}, confidence: 0.8356
+Rule: {'title'} -> {'date', 'url', 'cite'}, confidence: 0.7899
+Rule: {'date', 'cite'} -> {'url', 'title'}, confidence: 0.9895
+Rule: {'date', 'url'} -> {'title', 'cite'}, confidence: 0.9307
+Rule: {'date', 'title'} -> {'url', 'cite'}, confidence: 0.9592
+Rule: {'url', 'cite'} -> {'date', 'title'}, confidence: 0.9082
+Rule: {'title', 'cite'} -> {'date', 'url'}, confidence: 0.8910
+Rule: {'url', 'title'} -> {'date', 'cite'}, confidence: 0.8995
+Rule: {'date', 'url', 'cite'} -> {'title'}, confidence: 1.0000
+Rule: {'date', 'title', 'cite'} -> {'url'}, confidence: 0.9895
+Rule: {'date', 'url', 'title'} -> {'cite'}, confidence: 0.9895
+Rule: {'url', 'title', 'cite'} -> {'date'}, confidence: 0.9082
+Rule: {'date'} -> {'www', 'web', 'https'}, confidence: 0.7393
+Rule: {'https'} -> {'date', 'www', 'web'}, confidence: 0.7864
+Rule: {'www'} -> {'date', 'web', 'https'}, confidence: 0.7900
+Rule: {'web'} -> {'date', 'www', 'https'}, confidence: 0.7793
+Rule: {'date', 'https'} -> {'www', 'web'}, confidence: 0.8782
+Rule: {'date', 'www'} -> {'web', 'https'}, confidence: 0.9105
+Rule: {'date', 'web'} -> {'www', 'https'}, confidence: 0.9105
+Rule: {'www', 'https'} -> {'date', 'web'}, confidence: 0.8737
+Rule: {'web', 'https'} -> {'date', 'www'}, confidence: 0.8872
+Rule: {'www', 'web'} -> {'date', 'https'}, confidence: 0.9058
+Rule: {'date', 'www', 'https'} -> {'web'}, confidence: 0.9454
+Rule: {'date', 'web', 'https'} -> {'www'}, confidence: 0.9351
+Rule: {'date', 'www', 'web'} -> {'https'}, confidence: 0.9774
+Rule: {'www', 'web', 'https'} -> {'date'}, confidence: 0.9505
+Rule: {'date'} -> {'www', 'url', 'web'}, confidence: 0.7564
+Rule: {'www'} -> {'date', 'url', 'web'}, confidence: 0.8082
+Rule: {'url'} -> {'date', 'www', 'web'}, confidence: 0.7867
+Rule: {'web'} -> {'date', 'www', 'url'}, confidence: 0.7973
+Rule: {'date', 'www'} -> {'url', 'web'}, confidence: 0.9316
+Rule: {'date', 'url'} -> {'www', 'web'}, confidence: 0.8762
+Rule: {'date', 'web'} -> {'www', 'url'}, confidence: 0.9316
+Rule: {'www', 'url'} -> {'date', 'web'}, confidence: 0.8894
+Rule: {'www', 'web'} -> {'date', 'url'}, confidence: 0.9267
+Rule: {'url', 'web'} -> {'date', 'www'}, confidence: 0.8592
+Rule: {'date', 'www', 'url'} -> {'web'}, confidence: 0.9568
+Rule: {'date', 'www', 'web'} -> {'url'}, confidence: 1.0000
+Rule: {'date', 'url', 'web'} -> {'www'}, confidence: 0.9316
+Rule: {'www', 'url', 'web'} -> {'date'}, confidence: 0.9365
+Rule: {'https'} -> {'url', 'archive', 'web'}, confidence: 0.6591
+Rule: {'url'} -> {'archive', 'web', 'https'}, confidence: 0.6444
+Rule: {'archive'} -> {'url', 'web', 'https'}, confidence: 0.9295
+Rule: {'web'} -> {'url', 'archive', 'https'}, confidence: 0.6532
+Rule: {'url', 'https'} -> {'archive', 'web'}, confidence: 0.7005
+Rule: {'archive', 'https'} -> {'url', 'web'}, confidence: 0.9477
+Rule: {'web', 'https'} -> {'url', 'archive'}, confidence: 0.7436
+Rule: {'url', 'archive'} -> {'web', 'https'}, confidence: 0.9603
+Rule: {'url', 'web'} -> {'archive', 'https'}, confidence: 0.7039
+Rule: {'archive', 'web'} -> {'url', 'https'}, confidence: 0.9864
+Rule: {'url', 'archive', 'https'} -> {'web'}, confidence: 0.9667
+Rule: {'url', 'web', 'https'} -> {'archive'}, confidence: 0.7513
+Rule: {'archive', 'web', 'https'} -> {'url'}, confidence: 0.9864
+Rule: {'url', 'archive', 'web'} -> {'https'}, confidence: 1.0000
+Rule: {'date'} -> {'title', 'cite', 'https'}, confidence: 0.7735
+Rule: {'cite'} -> {'date', 'title', 'https'}, confidence: 0.8578
+Rule: {'https'} -> {'date', 'title', 'cite'}, confidence: 0.8227
+Rule: {'title'} -> {'date', 'cite', 'https'}, confidence: 0.7605
+Rule: {'date', 'cite'} -> {'title', 'https'}, confidence: 0.9526
+Rule: {'date', 'https'} -> {'title', 'cite'}, confidence: 0.9188
+Rule: {'date', 'title'} -> {'cite', 'https'}, confidence: 0.9235
+Rule: {'cite', 'https'} -> {'date', 'title'}, confidence: 0.9282
+Rule: {'title', 'cite'} -> {'date', 'https'}, confidence: 0.8578
+Rule: {'title', 'https'} -> {'date', 'cite'}, confidence: 0.9141
+Rule: {'date', 'cite', 'https'} -> {'title'}, confidence: 1.0000
+Rule: {'date', 'title', 'cite'} -> {'https'}, confidence: 0.9526
+Rule: {'date', 'title', 'https'} -> {'cite'}, confidence: 0.9837
+Rule: {'title', 'cite', 'https'} -> {'date'}, confidence: 0.9282
+Rule: {'references'} -> {'date', 'www', 'web'}, confidence: 0.6640
+Rule: {'date'} -> {'references', 'www', 'web'}, confidence: 0.7094
+Rule: {'www'} -> {'references', 'date', 'web'}, confidence: 0.7580
+Rule: {'web'} -> {'references', 'date', 'www'}, confidence: 0.7477
+Rule: {'references', 'date'} -> {'www', 'web'}, confidence: 0.8469
+Rule: {'references', 'www'} -> {'date', 'web'}, confidence: 0.8557
+Rule: {'references', 'web'} -> {'date', 'www'}, confidence: 0.8830
+Rule: {'date', 'www'} -> {'references', 'web'}, confidence: 0.8737
+Rule: {'date', 'web'} -> {'references', 'www'}, confidence: 0.8737
+Rule: {'www', 'web'} -> {'references', 'date'}, confidence: 0.8691
+Rule: {'references', 'date', 'www'} -> {'web'}, confidence: 0.9379
+Rule: {'references', 'date', 'web'} -> {'www'}, confidence: 0.9432
+Rule: {'references', 'www', 'web'} -> {'date'}, confidence: 0.9486
+Rule: {'date', 'www', 'web'} -> {'references'}, confidence: 0.9379
